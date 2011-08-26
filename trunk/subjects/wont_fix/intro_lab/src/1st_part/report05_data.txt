@@ -1,0 +1,29 @@
+Dados do Experimento 05:
+
+Parte01:
+(colocar valores um pouco diferentes pois esse valores foram coletados por outro grupo)
+Peso do bequer de 250ml + vidro de relógio: 133,1290g +-0,0001
+					    133,1292g +-0,0001
+
+(Uma medida apenas)
+Peso do bequer + vidro relogio + solução (H_2O + NaCl): 139,1360 +-0,0001
+
+(A medida variou muito. Se quiser, pode colocar valores mais aproximados ou discutir sobre a variação no relatório).
+Peso do bequer + NaCl apenas (depois de aquecer a solução): 133,2841 +-0,0001
+							  : 133,2850 +- 0,0001
+							  : 133,2546 +-0,0001
+
+
+
+Parte 02:
+(Não foram coletado muitos dados devido a relativa  simplicidade dos experimentos)
+
+5) Reação entre o Na_2CO_3 + CaCl_2:
+Formação de um sólido, similimar, em consistêcia a um "gel" *(definir gel)*.
+Na filtragem, passou um pouco de "sal" (do sólido gerado - carbonato de calcio [CaCO_3]) pelo filtro de papel, devido à má qualidade do filtro.
+Também foi usado uma quantdade grande de água, que demorou para realizar a filtragem por gravidade.
+
+9) Reação entre o HCl e o sólido:
+Na reação, o HCl dissolveu o sólido (CaCO_3 - carbonato de calcio) e liberou CO_2 e como resíduo ficou um liquído amarelado apenas (suspeito que seja o HCl).
+
+ 

@@ -1,0 +1,59 @@
+= Lecture's content.
+
+== Matriz.
+Uma matriz A, mXn é uma tabela com 'm' linhas e 'n' colunas.
+
+=== Notação
+    A = (aij)mXn
+    aij é uma entrada (número)
+    na linha i, coluna j
+
+=== Example.
+    |1  2|
+A = |3  0|
+    |-1 2|
+
+a11 = 1;	a12 = 2
+a21 = 3;	a22 = 0
+a31 = -1;	a33 = 2
+
+    |2 -5|
+B = |3  1|2x2  --> matriz quadrada
+
+C = [0  -1 Pi 3 5] --> matriz linha
+
+    |2|
+    |3|
+D = |5| --> matriz coluna
+    |7|
+
+=== Operations.
+
+==== Sum.
+So pode ser realizadao se elas tiverem a mesma ordem.
+
+A soma de duas matrizes A = (aij)mXn e B = (bij)mXn é a matri mXn dada por C = A + B = (cij)
+onde:
+cij = aij + bij
+
+if (A.ordem != B.ordem)
+   return;
+
+for (int i = 1; i <= A.ordem.linha; i++)
+    for (int j = 1; j <= A.ordem.coluna; j++)
+    	R[i][j] = A[i][j] + B[i][j];
+
+
+=== Multiplicação por Escalar.
+Escalar --> é um número real.
+
+float escala = 5; // any number... just a example
+for (int i = 1; i <= A.ordem.linha; i++)
+    for (int j = 1; j <= A.ordem.coluna; j++)
+    	R[i][j] = escala * A[i][j];
+
+Definimos a multiplicação de uma matriz A = (aij) mXn por uma escala [alfa] por:
+	  [alfa]A = ([alfa] aij)mXn
+
+
+=== Mult Matriz por Matriz

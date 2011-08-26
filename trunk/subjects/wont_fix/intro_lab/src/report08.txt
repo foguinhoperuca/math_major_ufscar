@@ -1,0 +1,71 @@
+Introdução Teórica.
+Definir PH
+valores
+cores
+definir solução
+definir diluição
+definir armazenamento das soluções
+Objetivos.
+Este experimento tem por objevito o preparo de uma solução de HCl e sua diluição.
+Materiais Utilizados.
+bastão de vidro;
+ácido clorídrico estoque (HCl);
+balão volumétrico de 100 mL e 250 mL;
+pipeta graduada de 2 mL;
+pipeta volumétrica de 10 mL;
+pera;
+béquer de 100 mL;
+350mL Água destilada;
+papel para medir pH (papel de tornassol???).
+Método.
+Foram executados os seguintes passos durante os experimento para a preparação da solução;
+1. Com o béquer de 250mL foi preenchido 125mL, aproximadamente, de água;
+2. Com a pipeta graduada de 2mL, foi adicionado ao béquer, 2mL de ácido clorídrico HCl;
+3. O béquer de 250mL foi completado com 123mL água;
+4. 
+Foram executados os seguintes passos durante o experimento para o preparo da diluição da solução de HCL:
+1. A partir da solução de 250mL, de água e HCl, com concentração do HCl de 0,1mol/L foi retirado 10mL e colocado no béquer de 100mL;
+2. O béquer de 100mL foi completado com 90mL de água;
+3. 
+Discussão e Resultados.
+Tanto para a solução de 250mL de HCl e água e a solução diluída de 100mL de HCl e água, foram utilizados o papel para medir pH (papel de tornassol???) resultando em:
+Cor resultante do pH medido da solução 250mL HCl e água: Vermelho;
+Cor resultante do pH medido da solução 100mL HCl e água: Laranja;
+Conclusão.
+O experimento foi realizado com sucesso, sendo o seu objetivo alcançado.
+
+Referências.
+PARA 250 mL de solução 0,1 mol/L
+[HCl] = 0,1 mol/L
+Vsolução = 250 mL de concentração 0,1 mol/L
+τ (título)
+	τ = 37% (a cada 100 g estoque → 37 g HCl) 
+
+	d = 1,19 (g/mL) (kg/L)
+
+VHClestoque = 250 mL x 0,1 mol   x 36,5 g x 100 g x 1 mL    =
+		              1000 mL   1 mol     37 g       1,19 g
+
+VHClestoque = 91250 = 2,072 mL = 2 mL
+                      44030
+
+Diluição de 2 mL de HCl num balão volumétrico de 250 mL.
+
+
+PARA 100 mL de solução 0,01 mol/L
+
+Vsolução = 100 mL x 0,01 mol    x 1000 mL = 1000 = 10 mL
+		      1000 mL         0,1 mol      100
+
+
+
+pH Medido das duas soluções:
+	1 – pH 1 = Vermelho (250 mL de concentração 0,1 mol/L)
+	2 – pH 3 = Laranja (100 mL de concentração 0,01 mol/L)
+
+
+Questões para elaboração do relatório
+
+1. Calcule a massa necessária de Na₂SO₄ para preparar 500 mL de uma solução 0,5 mol/L.
+2. Calcule o volume de HNO₃ estoque necessário para preparar 1 L de uma solução 6 mol/L (ρ = 1,40, τ = 65%).
+3. Por que as soluções básicas devem ser armazenadas em frascos de plásticos?

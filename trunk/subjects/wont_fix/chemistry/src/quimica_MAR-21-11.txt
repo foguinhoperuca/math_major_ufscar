@@ -1,0 +1,61 @@
+== Matéria.
+
+2 formas principais:
+  1) Quanto ao estado físico
+     * Gasoso
+        Volume: Indefinido
+	Forma: Indefinido
+     * Líquido
+        Volume: Definido
+	Forma: Indefinido
+     * Sólido
+        Volume: Definido
+	Forma: Definido
+  2) Quanto a composição
+     * Elementos (114 na tbl periodica)
+       * Não podem ser decompostos em substâncias mais simples. Em nível molecular, cada elemento é composto de 1 tipo de átomo;
+       * Substância simples --> quando um elemento do mesmo tipo se junta com outro do mesmo é criado uma substância simples
+       	 * H + H --> H2
+	 * O + O --> O2
+	 * N + N --> N2
+	 * O + O + O --> O3
+     * compostos
+       * São constituídos por duas ou mais substâncias (de diferentes tipos). Logo, contém 2+ tipos de átomos. Logo, em que, estas conservam sua prórpia identidade química e consequentemente suas propriedades.
+         * Example: H2O
+     *  mistura
+     	Mistura de 2+ substâncias / compostos
+     	* Homogêneas = uniforme (vulgo solução)
+	  * Example: água com açúcar
+	* Heterogênea = não tem a mesma composição, propriedades iguais e aparência 'visivelmente diferentes'
+	  * Example - água e óleo
+
+   3) Pureza
+      * Pura = quando possui apenas elementos iguais ---> H2
+      * Inpura = quando possui elementos diferentes ---> H2O
+=== balanceamento da euqção de um composto
+    (2)H2 + (1)O2 ----> (2)H2O
+    () ---> Coeficiente estequeométrico
+
+    aplicando uma corrente elétrica (eletrólise) é possível recuperar os elementos de forma isolada.
+    Quando uma substancia é pura, sua composição é constante.
+    Independente da quantidade, suas propriedades são contantes.
+
+==== H2O
+Observar os estados do elemento. Isoladamente, eles se encontram em estado gasoso (H2) e (O2). Quando se juntam, esse composto formado passa ao estado líquido.
+=== Conversão K --> C
+K = t(ºC) + 273.15
+
+
+== Identificação (Matéria)
+   |--> é uniforme?
+   	|---> Homogênea
+	      |----> Tem coposição variável?
+	      	     |-----> Mistura homogênea (solução)
+              |----> não composição variável
+	      	     |-----> substância pura
+		     	     |------> Pode ser decomposto em substâncias + simples?
+			     	      |-------> não .:. subst. simples
+				      |-------> sim, subs composta
+   |--> não é uniforme?
+   	* Mistura heterogênea
+

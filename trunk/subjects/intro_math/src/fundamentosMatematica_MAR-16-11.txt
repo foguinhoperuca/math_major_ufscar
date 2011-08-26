@@ -1,0 +1,33 @@
+= Fundamentos de Matemática Elementar - MAR-16.
+
+== Função.
+Vamos elaborar uma enquente a partir da pergunta: "qual sua cidade de origem antes do ingresso da UfSCAR?"
+
+Cidade	       	   	Quantidade
+Campinas		2
+Sorocaba       		13
+Salto de Pirapora	3
+Votorantim		4
+Pereiras		1
+Piedade			1
+S. Miguel Arcanjo	2
+Ibiúna	  		1
+Araçoiaba da Serra	1
+Mairinque    		3
+Indaiatuba		1
+Lençois Paulista	1
+Itu			2
+Tatuí			2
+Salto			1
+Sarapuí			1
+São Paulo		1
+
+Total			40
+
+Esta tabulação de dados é uma função?
+     Não, apesar da correspondencia entre a cidade e a quantidade, não existe uma regra que a defini.
+
+=== Exercise
+   due date: MAR/21;
+   goal: fazer o graph para tabela de exemplo
+

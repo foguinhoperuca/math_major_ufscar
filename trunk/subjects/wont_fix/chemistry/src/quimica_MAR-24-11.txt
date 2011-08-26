@@ -1,0 +1,77 @@
+= Quimica Geral - MAR/24.
+Combo - compensação pelo combo de GA da semana passada.
+1st revisão.
+
+== Entropia.
+Pequena definição...
+
+== Sulfactante.
+
+/******************************************************************************/
+
+== Propriedades da Matéria.
+Toda substância tem um conjunto de propriedades características que nos permite reconhecê-las e distingui-las de otras substâncias.
+
+=== Comparação de propriedade entre substâncias
+
+<table>
+	<th>
+		<td>/</td>
+		<td>H2O</td>
+		<td>H2</td>
+		<td>O2</td>
+	</th>
+	<tr>
+		<td>ESTADO</td>
+		<td>liquido</td>
+		<td>gas</td>
+		<td>gas</td>		
+	</tr>
+	<tr>
+		<td>PONTO DE EBULICAO</td>
+		<td>100C</td>
+		<td>-253C</td>
+		<td>-183C</td>		
+	</tr>
+	<tr>
+		<td>DENSIDADE</td>
+		<td>1g/mL</td>
+		<td>0,084g/L</td>
+		<td>1,33g/L</td>		
+	</tr>
+	<tr>
+		<td>COMBUSTAO</td>
+		<td>Nao</td>
+		<td>Sim</td>
+		<td>Nao</td>		
+	</tr>
+	<table footer>
+	       PS.: Pressao atmosferica e Temperatura ambiente
+	       PS.: Combustão --> queimar na presençã de O2.
+	</table footer>
+</table>
+
+
+== Propiedades Físicas e Químicas.
+=== Diferenca entre propriedade fisica e quimica.
+    * Propriedades fisicas := podem ser medidas sem alterar a identidade e a composição das substâncias.
+    * Propriedade química := descrevem como uma substancia pode se alterar ou reagir para formar outras.
+
+=== Propriedade Intensiva & Extensiva.
+    * Intensiva := nao depende da quantidade da amostra analisada
+      Ex.: temperatura fusao; temperatura ebulicao; temperatura de degradacao; densidade (m/v)
+    * Extensiva := Depende da quantidade da amostra
+      Ex.: massa; volume;
+
+A razão entre duas propriedades extensívas vai 'truncar' em uma propriedade intensiva.
+Pode ser utilizado como ferramenta de classificação de uma substância.
+
+=== Mudanças Físicas & Químicas.
+    * Física := apresenta alteração na sua aparência física mas não sua composição.
+      Ex.: Evaporação da água.
+    * Química := Substância é transformada em uma substância quimicamente diferente. Apresenta alteração na sua composição química.
+      Ex.: H2(g) + 1/2O2 ---> H2O
+
+=== Separação de Misturas.
+    Ex.: Limalha de ferro e ouro --> separa com imã (ou então usa uma pinça - a cor é diferente)
+    Ex.: Separar  água do sal (H2O e NaCl) --> utilizar destilação simples.

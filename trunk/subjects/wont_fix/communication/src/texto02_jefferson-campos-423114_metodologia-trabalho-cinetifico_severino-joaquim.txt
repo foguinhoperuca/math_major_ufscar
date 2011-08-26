@@ -1,0 +1,145 @@
+= Texto do Severino - Resumo.
+Trata da operacionalização do projeto de pesquisa.
+
+== Elaborando o projeto de pesquisa.
+Basicamente, esta atividade cuida do planejamento da *pesquisa*. constitui um eficaz roteiro de trabalho.
+
+=== Estrutura do projeto enquanto texto. (Severino)
+  * Título
+  * Apresentação
+  * Objeto e problema da pesquisa
+  * Justificativa
+  * Hipóteses
+  * Quadro teórico
+  * Fontes, procedimentos e etapas
+  * Cronograma
+  * Bibliografia
+Observação ao projeto, é que ele pode (e provavelmente irá) ser alterado em diversos pontos, diversas vezes. Isto é saudável e até certo ponto desejável.
+
+=== Estrutura do Texto (NBR 10719)
+  * preliminares ou pré-texto (incluindo primeira e segunda capas), subdivido em:
+    * folha de rosto (ou ficha de identificação do relatório);
+    * prefácio (apresentação);
+    * resumo;
+    * lista de símbolos, unidades, abreviaturas, etc.;
+    * lista de ilustrações;
+    * sumário;
+    * capa (primeira e segunda, isto é, frente e verso);
+
+  * b) texto:
+    * introdução;
+    * desenvolvimento;
+    * conclusões e/ou recomendações;
+  * pós-liminares ou pós-texto (incluindo terceira e quarta 
+    * anexos
+    * agradecimentos;
+    * referências bibliográficas;
+    * glossário;
+- ficha de identificação do relatório;
+    * índice(s);
+    * lista de destinatários e forma de acesso ao relatório;
+    * terceira e quarta capas.
+
+== Desenvolvimento do processo de investigação.
+Distinguem 3 fases para o amadurecimento de um trabalho:
+  * Momento da invenção/intuição
+  * Pesquisa positiva     * Confrontação entre a idéias inicias com outras idéias estabelecidas / realiadade.
+  * Composição do trabalho apartir do confronto anterior     * deve-se ter a formulação definitiva nesta fase.
+
+=== Levantamento de Fontes de documentos (NBR 10719).
+    * Relacionada de acordo com o sistema utilizado para a citação;
+    * Não é recomendável 
+    * As referências bibliográficas são essenciais ao relatório técnico-científico.
+    * Devem ser relacionadas de acordo com o sistema de chamada utilizado para citação (numérico ou alfabético).
+    * A reunião das referências bibliográficas no final de cada seção primária (capítulo) é opcional, quando se tratar de relatórios muito extensos e que contenham grande número de referências.
+    * Não é recomendável a utilização de rodapé para referências bibliográficas, em virtude das dificuldades para diagramação e impressão.
+    * A elaboração das referências bibliográficas obedeceao disposto na NBR 6023.
+    * Não devem ser referenciadas fontes bibliográficas que não foram citadas no texto.
+
+
+
+==== Fontes bibliograficas.
+Basicamente são textos, livros, artigos, etc.
+Utilizar técnicas de classificação desses documentos para a composição do repertório.
+Heurística = ciência/arte/técnica de levantamento de documentos. Deve ser usada no processo de classificação da bibliografia.
+Posteriormente, deve-se criar as fichas bibliográficas (com dados sobre as obras do repertório). Essas fichas irão facilitar o processo de pesquisa, sendo uma ferramenta que facilita o acesso a informação necessária durante a pesquisa.
+Também é possível consultar essa fichas por meio de sistemas computacionais e bancos de dados. Exemplo: 
+  * www.capes.gov.br;
+  * wwww.usp.br/sibi;
+  * www.scielo.br;
+
+==== Internent como fonte de pesquisa.
+Ferramenta importante para aquisição de informações para a pesquisa através de web sites.
+Interessante pesquisar pelas fontes corretas     * como sites de grandes bibliotecas ou universidades     * e ter o discernimento para filtra a informação. Alternativamente, pode-se utilizar a pesquisa por CDs.
+Sites interessantes:
+  * www.testes.usp.br
+  * www.ibge.gov.br
+  * www.bireme.br
+  * www.prossiga.ibict.br
+  * www.lambda.maxwell.ele.puc-rio.br
+  * www.ibict.br
+==== Correio eletrônico.
+Fonte para troca de informação entre diversos pesquisadores.
+
+=== A atividade de pesquisa e a prática da documentação.
+==== Exploração das fontes bibliográficas
+É necessário já possuir a estrutura geral do trabalho.
+Depois é feito a busca de elementos importantes para o trabalho.
+Não esquecer de realizar uma triagem no material recolhido.
+Realizar a leitura dos documentos previamente levantados e filtrados.
+Recomenda-se partir de obras gerais para obras específicas.
+Durante a leitura irá ser aproveitados trechos especificos dos documentos que servem como base p/ o desenvolvimento da linha de raciocinio do pesquisador.
+==== Documentação.
+Realizada com o decorrer da leitura.
+Deve-se, apenas, tomar notas de passagens importantes para a pesquisa.
+Elementos julgados válidos, podem ser transcristos na ficha de documentação     * desde cópia fiel do texto origianl até resumo de idéias contidas no material.
+Este sistema permite que os pesquisadores trabalhem em grupo, mas inicialmente de forma independente     * cada desenvolvendo certo aspecto      * e depois essa documentação irá unir os esforços
+Em resumo, tudo o que interessa sobre o assunto deve ser colocado na ficha
+
+=== Análise dos dados e a construção do raciocícioo demostrativo.
+Construção lógica ou síntese é a coordenação inteligente das idéias conforme as exigências racionas da sistematização.
+Este texto deve ser inteligibilidade.
+O trabalho possui 3 partes fundamentais:
+  * Introdução     * levantamento do estado da questão
+  * Desenvolvimento     * corpo do trabalho.
+  * conclusão     * é a síntese para qual caminha o trabalho.
+
+==== Redação do texto
+Expressão literária do raciocínio desenvolvido no trabalho.
+Inicialmente, utiliza-se uma redação de rascunho e posteriormente sofrerá diversas revisões para o refinamento do texto
+Utilizar um estilo sóbrio e preciso.
+==== Construção do parágrafo.
+A articulação dos parágrafos está intimamente ligada a estrutura do trabalho.
+Balancear o tamanho e a quantidade de parágrafos (nem 'demais' e nem 'de menos').
+Construir os parágrafos de acordo com a estrutura do próprio trabalho.
+
+== Relatando os resultados da pesquisa.
+=== Aspectos técnicos da redação.
+==== Apresentação gráfica geral do trabalho.
+Deve conter as seguintes partes:
+  * Capa inicial;
+  * Página de rosto
+  * Sumário
+  * Lista de tabelas e figuras
+  * Núcleo de trabalho (introdução, desenvolvimento e conclusão)
+  * Aoêndices e anexos
+  * Bibliografia
+  * Capa final ou quarta capa
+A numeração é a partir da página de rosto.
+Utilizar espaço de 2.
+Notas de rodape separadas por uma linha de ate 1/3 da página.
+O parágrafo inicia-se a oito espaços para dentro em relação à margem esquerda.
+Capítulos em novas páginas, sempre.
+Subtítulos e subdivisões escritos de forma homogênea - utilizar algarismos ou letras para especificar o tópico.
+==== Textos digitados.
+Regras semelhantes da apresentação gráfica.
+
+= Modalidades de trabalhos científicos.
+
+
+= Conclusão.
+A NBR 10719 é um guia bem especifíco e detalhado de como construir um relatório técnico-científico. Sua enfâse é no formato e models do documento.
+Já o texto do Severino[1] serve como um guia, não para a confecção do documento em si (relatório técnico-científico) e sim para a construção e elaboração da pesquisa. Pode-se concluir, que apesar da grande importância de ambos os texto, o texto do Severino proporciona um conhecimento mais rico e mais útil, tendo em vista que não apenas normatiza a confecção de um documento mas dá alguns alicerces e conselhos de como elaborar uma pesquisa científica em si.
+
+[0] ABNT, CB-14 - Comitê Brasileiro de Finanças, Bancos, Seguros, Comércio, Administração e Documentação - CE-14:002.02 - Comissão de Estudo de Publicações Científicas
+[1] SEVERINO, A J. A pesquisa na dinâmica da vida universitária. In: SEVERINO, A.J. Metodologia do trabalho científico. São Paulo: Cortez, 2007. p.127-155.

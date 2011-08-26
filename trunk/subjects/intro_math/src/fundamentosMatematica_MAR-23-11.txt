@@ -1,0 +1,27 @@
+= Fundamento Matematica - MAR-23-11.
+
+== Exemplo 13.
+A = IR (Domínimo)
+B = ID (Contra-Domínio)
+
+        1 se x E Q
+f(a) = -1 se x !E Q
+
+== O que é um numero Iracional (Q)?
+
+Q = a/b com a, b pertence ao Z (inteiros) e b != 0
+
+== Diagrama de flechas.
+O contra-dominio pode receber de varios (diferentes) dominios
+
+   f()
+A -----> B
+x -----> y = f(x)
+Onde "y" depende de "x"
+
+== Usando a calculadora
+   Botao shift
+   	 e^x ---> 2.71828182846
+
+=== Marmita cultural...	
+lnx ----> Vem de John Napier

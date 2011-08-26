@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#This file is not portable! I am not using automake system (GNU).
+
+# General command to compile:
+# latex <your_file.tex>
+
+# To see the results:
+# xdvi <iresult_compile.dvi>&
+
+# To convert to pdf:
+dvipdf <result_compile.dvi>
+
+# Enjoy! Jeff

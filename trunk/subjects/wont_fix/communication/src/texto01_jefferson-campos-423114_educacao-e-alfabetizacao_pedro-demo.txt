@@ -1,0 +1,35 @@
+= Educação e alfabetização científica - Pedro Demo.
+Realizar um roteiro de questões abordadas pelo texto.
+
+== Fazer Educação & Fazer Ciência.
+Neste ponto, o autor argumenta a favor da não-dissociação da produção de conhecimento, predominantemente utilizando técnicas científicas, da educação. Este é o principal tema do texto, onde os outros temas servem para apoiar esse este.
+
+== Princípio Científico.
+O autor faz a definição desse princípio. Vale destacar, o questionamento reconstrutivo - onde deve-se questionar as teorias já estabelecidas, de forma metódico e constantemente.
+Também ressalta, a derrubada do princípio do argumento da autoridade - substituindo pela autoridade do argumento.
+
+== Da Relação Entre Ciências Exatas & Naturais e Ciências Humanas.
+Aqui o autor trata da aparente incompatibilidade entre elas, sendo o excesso de formalidade das ciência exatas & naturais e a politicidade (que pode degradar para a politicagem) das ciências humanas.
+O autor também disserta a respeito da 'falsa' pretenção do excesso de formalismo, em encontrar a verdade universal. O autor deixa a questão em aberto, mostrando vários argumentos de ambos os lados.
+
+== Qualidade Formal & Pesquisar - Qualidade Política & Educar.
+Neste ponto, o autor aponta, que apesar do formalismo tentar se manter neutro, é impossível que realmente o seja, visto que este conhecimento será usado para algum objetivo (finalidade) e portanto, não pode se manter totalmente neutro.
+
+== Contrução do Conhecimento & Cidadania.
+Utilizando, fortemente, o exemplo da Wikipedia, o autor argumenta que a pesquisa acaba por produzir eduação e a educação produz novos conhecimentos.
+
+== Aceitação de conhecimento gerado 'informalmente'- Wikipedia.
+Nesta parte do texto o autor fala a respeito da inversão da 'lógica' tradicional onde os expertos produzem o conhecimento. Na wikipeia, não expertos produzem esse conhecimento apesar disso não depreciar o conhecimento especializado.
+
+== Destinção entre Pesquisador Educador.
+PESQUISADOR EDUCADOR - seria o prof completo.
+PESQUISADOR educador - professor que preza pela pesquisa e ignora (quase que) completamente a transmissão desse conhecimento a outros.
+pesquisador EDUCADOR - professor que não faz pesquisa, própria e quando o faz, faz de forma amadora. Utiliza da pesquisa de outros e se preocupa (quase que) exclusivamente com a transmissão do conhecimento.
+
+== Conclusão.
+No final do texto o autor enumera alguns pontos importantes (resumidamente):
+a) Não separar os processos, como faz a universidade com a extensão;
+b) Saber começar do começo;
+c) Não permitir a banalização da pesquisa;
+d) Não adotar pieguices pedagógicas;
+e) Apresentar em termos metodológicos a pesquisa, mesmo nos primeiros anos.

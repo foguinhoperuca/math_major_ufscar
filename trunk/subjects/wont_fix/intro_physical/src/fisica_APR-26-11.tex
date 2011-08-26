@@ -1,0 +1,23 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[brazil]{babel}
+\usepackage[latin1]{inputec}
+\begin{document}
+
+\subject{A Questao da Velocidade Instantanea.}
+Seja $X(t)$ a posição de uma partícula, tal posição é função d tempo por exemplo, como no gráfico abaixo.
+Velocidade média entre os instantes $t e t + \delta t$?
+
+$$v_m = \lim_{x\to 0}\frac{f(t + \delta t) - f(t)}{\delta t}$$
+
+$$X(t) = S_0 + V_0 + \frac{1}{2}gt^2$$
+
+$$v_m = \lim_{x\to 0}\lbrack\frac{5(t + \delta t)^2 - 5(t)^2}{\delta t}\rbrack$$
+$$v_m = \lim_{x\to 0}\lbrack\frac{5(t^2 + \delta t^2 + 2t\Delta t) - 5t^2}{\delta t}\rbrack$$
+$$v_m = \lim_{x\to 0}\lbrack\frac{5t^2 + 5\delta t^2 + 10t\Delta t) - 5t^2}{\delta t}\rbrack$$
+
+$$v_m = \lim_{x\to 0}\lbrack\frac{5\delta + 10t}{\delta t}\rbrack$$
+
+$$v_m = \lim_{x\to 0}\frac{f(t + \delta t) - f(t)}{\delta t}$$
+
+
+\end{document}

@@ -1,0 +1,6 @@
+== Modelos Atômicos.
+Com o campo e o atômo negativo tem direções diferentes.
+
+=== Princípio de conservação de Energia.
+  * Para um corpo ganhar energia outro corpo deve perder.
+  * Partículas carrregadas aceleradas emitem energia.

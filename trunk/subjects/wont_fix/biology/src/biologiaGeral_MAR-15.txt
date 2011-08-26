@@ -1,0 +1,70 @@
+== Evolução Química.
+   * Atmosfera primitiva
+     * Componentes:
+          * Metano;
+     	  * Amônia
+	  * H2;
+	  * sulfetos;
+	  * vapor de H20;
+     * Aplicação de raios UV + temperatura
+     * Result:
+	  * ácidos graxos;
+	  * nuclotídeos;
+	  * açúcares;
+	    * macromoléculas
+	      * proteínas
+	      * ácidos nucléicos
+	      * DNA
+	      * RNA
+
+== Características de uma célula.
+   * Estável (DNA representa bem essa característica)
+   * catalítica (especialmente a proteína)
+   * pertpetuar na célula (DNA representa bem essa característica)
+
+== Divisão de célula
+   * Polar - hidrófilica
+   * Apolar - hidrofóbica
+
+== 1st Célula
+   * Surgiu na água
+   * anaeróbica
+   * heterótrofa
+   * procarionte
+=== Ambiente p/ 1st célula
+   * Quantidade gde Carbono
+   * Pouco O2
+
+=== Produção de energia
+    * Organela com pigmento q captava a luz solar --> transforma em energia química
+    * CO2 + H2O <==> C6H12O2
+
+== Teoria da simbiose
+   * Endosimbiose - englobamento de uma célula por outra, sem destruir a célula englobada.
+     * mitocôndrias
+     * cloroplastos
+
+== Evolução
+   * aeróbica
+   * heterótrofa
+   * eucarionte
+     * desenvolvimento do envocrulo nuclear
+     * sistema de membranas internas
+     * compartimentalização
+
+== Seres vivos
+   * Procariontes
+     * bacterias
+     * arqueobacterias (bacterias que vivem em condições extremas - calor excessivo, mto sal, produzem metano, etc)
+       * sao mais proximas dos eucariontes do que das bacterias em si mesmo.
+
+== Vantagens de uma célula evoluir de unicelular para pluricelular
+   * Explorar o ambiente
+   * Reprodução faciliatada
+     * inicialmente assexuada evoluindo para sexuada
+
+== Célula vegetal
+   * Parede celuar
+   * cloroplastos
+   * vacúlos
+   * plasmodesmos

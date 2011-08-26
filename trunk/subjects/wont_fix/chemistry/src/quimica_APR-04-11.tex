@@ -1,0 +1,67 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[brazil]{babel}
+\usepackage[latin]{inputec}
+\begin{document}
+
+\section{= Partindo do Exemplo da Aula Passada.}
+$m_1 = 23,6g$ \Longrightarrow 2,36
+$m_2 = 0,84g$ \Longrightarrow 8,4
+
+\section{= Arredondamento de numero.}
+Devido a respota de a uma operação aritimetica que contem mais algarismo que os significativos:
+\begin{itemsize}
+\item Quando o algarismo seguinte ao ultio numero a ser mantido e menor que 5, todos os algarismos indesejaveis devem ser descartados e o ultimo numero eh mantido intacto. 
+  \begin{enumerate}
+    \item Ex01.: $2,14$ \longrightarrow $2,1$
+    \item Ex.02: $4,372$ \longrightarrow $4,37$
+  \end{enumerate}
+\item Quando o algarismo seguinte ao numero a ser mantido \grave{e} maior que $5$ ou $5$ seguido de outro digito, o ultimo numro e aumentado de 1 e os algarismos indesejaveis sao descartaos.
+  \begin{enumerate}
+    \item Ex01.: $7,5647$ \longrightarrow $7,565$
+    \item Ex.02: $3,5501$ \longrightarrow $3,6$
+  \end{enumerate}
+\item Quando o algarismo seguinte ao ultimo numero a ser mantido \grave{e} um $5$ (seco!) ou um $5$ seguido de zeros.
+  \begin{enumerate}
+    \item Se o \grave{u}ltimo algarismo a se mantido for \text{impar}, ele \grave{e} aumentado de $1$ e o $5$ indesejavel (e eventuais $0$) s\tilde{a}o descartado
+    \begin{itemsize}
+      \item Ex.: $7,635 = 7,64$
+    \end{itemsize}
+    \item Se o \grave{u}ltimo algarismo a se mantido for \textit{par} ele eh mantido inalterado e o 5 indesejavel (e eventuais 0's) \grave{e} descartado
+      \begin{itemsize}
+        \item Ex.: $3,250$ \longrightarrow $3,2$
+        \item Ex.: $8,105 = 8,10$
+      \end{itemsize}
+  \end{enumerate}
+\end{itemsize}
+
+\subsection {Adicao & Subtacrao.}
+$6,3 + 2,14 = 8,44$
+Prevalece o menor numero de casas \longrightarrow $90 - 2,14 = 8785$
+\subsection{Multiplicacao e Diviao}
+$6,3 * 2,14 = 13,482 = 13$
+\frac{$6,3$}{$2,14$} = $2,4439254 = 2,9$
+
+\textit{Prevalece o valor com o menor numero de algarismos significativos}
+
+\frac{$(8,728 - 4,3)$}{$9,27$} = \frac{$4,428$}{$9,27$} = $0,4776$ = $0,47$
+
+\textit{\textbf{Sempre arredondar no final da conta. Se arredondar no meio, vai dar diferença (os erros de precisao vao se acumulando).}}
+
+\section{== Parte 2 - Experimento}
+Temperatura \grave{e} a medida de calor ou frieza de um objeto. De fato, a temperatura determina a direção do fluxo de calor. O valor sempre flui expontaneamente de uma subst\circ{a}ncia T+\uparrow para outra T+\downarrow.
+
+$K = C + 273,15$
+
+$C = \frac{5}{9}(F - 32)$
+ou
+$F = \frac{9}{5}(C + 32)$
+
+Fazer a relacao entre F x K x C
+
+\subsection{Lei $0$ da termodinamica}
+
+
+1 - Pq o menisco do mercurio eh para cima e o menisco do alcool eh para baixo?
+2 - Pq usar o mercurio para medir a temperatura do corpo e nao outra substancia?
+
+\end{document}

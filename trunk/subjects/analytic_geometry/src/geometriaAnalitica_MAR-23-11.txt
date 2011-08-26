@@ -1,0 +1,3 @@
+= Geometria Analitica - MAR-23-11.
+
+Ver iniciacao cientifica para guass-jordan

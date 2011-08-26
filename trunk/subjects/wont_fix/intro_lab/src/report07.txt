@@ -1,0 +1,124 @@
+O que está em vermelho é comentário servindo apenas de guia para possíveis dúvidas e deve ser descartado no relatório final
+Introdução Teórica.
+A lei dos gases ideias provêm da junção de 3 outras Leis:
+
+A lei de Avogadro A lei de Avogadro, definida pelo cientista italiano Amedeo Avogadro, diz que “nas mesmas condições de temperatura e pressão, um determinado número de moléculas de gás ocupa o mesmo volume, independentemente de sua identidade química”[1]. Matemáticamente é  definida como
+	V α n. (1) Le-se V alfa n (1) – igual esta no roteiro 07
+
+A lei de Boyle foi definida pelo cientista Robert Boyle em 1662, em uma experiência com o ar e mercúrio. O seu enunciado é: “para uma quantidade fixa de gás em temperatura constante, o volume é inversamente proporcional à pressão”[1]. Matemáticamente  definido como:
+V α 1/P (2) Le-se V alfa 1 sobre P – igual esta no roteiro 07
+
+A lei de Charles A lei de Charles, foi inspirada na tecnologia desenvolvida no seu tempo - balões de ar quente. Nesta lei, “o volume de uma quantidade fixa de gás sob pressão constante varia linearmente com a temperatura”[1]. Matematicamente é definida como:
+	V α T (3) Le-se V alfa T – igual esta no roteiro 07
+
+Portanto, a lei dos gases ideias relaciona a temperatura, a pressão, quantidade de matéria e o volume [1]. Sua equação é dada por:
+P * V = n * R * T (4), onde:
+R é a constante dos gases, definida como “62,3 mmHg * L / mol * K” [2]
+
+A lei das pressões parcias foi definida pelo cientista John Dalton é descrita como a “pressão total de uma mistura de gases é a soma das pressões parciais de seus componentes”[1].
+ (5)
+
+Também referênciado como composição percentual  da Massa ou teor em massa, é definida pela representatividade da massa de um determinada elemento da amostra em relação à massa total da amostra [1]. Matemáticamente é definida como:
+representatividade = (massa_amostra / massa_total) * 100% (6)
+
+Para a obtenção da massa do CaCO3  e o seu teor de massas em relação à amostra é necessário seguir os seguintes passos[3]:
+1. Obter a pressão parcial do CO2 através da lei de Dalton dos gases parciais. É necessário considerar a mistura gasosa obtida na reação como uma mistura de vapor de água e CO2.
+2. Calcular a quantidade de matéria do CO2 pela lei dos gases ideais, conhecendo o volume, a temperatura ambiente e a pressão - coletados durante o experimento;
+3. Determinar a quantidade de matéria utilizando a equação balanceada da reação entre o CaCO3 e HCl;
+4. Determinar a massa do CaCO3 através da quantidade de matéria de CaCO3 calculado no passo anteior e a sua respectiva massa molar;
+5. Calcular o teor em massa do CaCO3 em relação a amostra obtida inicialmente;
+Objetivos.
+O objetivo do experimento é calcular a massa do carbonato de cálcio (CaCO3) da amostra e o seu teor de massa em relação a amostra obtida.
+Materiais Utilizados.
+0,3515g +- 0,0001g de amostra contendo CaCO3;
+Papel comum;
+01 Suporte Universal e garra;
+01 Kitasato de 250mL com rolha ;
+01 mangueira de borracha;
+01 Béquer de 600mL 
+01 proveta de 100mL;
+Barbante;
+20 ml de Solução de HCL 6mol/L;
+01 Proveta;
+01 Pipeta de pauster;
+01 Cano de vidro em forma de U;
+Método.
+Foram realizados os seguintes passos, durante o experimento:
+1. Foi tarada a balança analítica um pedaço de papel que iria conter a amostra de CaCO3;
+2. Foi coletado 0,3515g da amostra de CaCO3;
+3. Com a amostra de CaCO3 e o papel, foi feito um embrulho para que a amostra de CaCO3 não ficasse exposta e fosse contaminada. O embrulho foi amarrado com um pedaço de barbante suficiente para que ele, posteriormente, ficasse pendurado no Kitassato;
+4. Foi coletado 20mL de solução HCl 6mol/L e armazenado no Kitassato. Foi necessário vedar bem o kitassato para não haver contaminação com o HCl; Foi completado com 450ml de água o bequer;
+5. Foi completada totalmente a proveta de 100mL, não deixando nenhuma bolha de ar;
+6. Foi mergulhado a proveta no béquer com o auxilio de um pedaço de papel tampando a boca, para que não houvesse nenhuma bolha de ar na proveta;
+7. Foi conectado o Kitassato à proveta com uma mangueira e borracha com a ponta conectada à uma vidraria em forma de U.
+8. O Kitassato foi agitado para que o CaCO3 entrasse em contato com o HCl liberando gás;
+9. A proveta foi regulada para que o nível de água ficasse igual dentro e fora da proveta, igualando assim a pressão interna e externa. 
+10. Foi feita a leitura do volume de gás armazenado na proveta - 87 ml de gás vapor da água e  CO2.
+11. Foi anotado os dados do ambiente para os cálculos do experimento: temperatura de 20ºC e pressão igual a 1 ATM;
+Resultados e Discussão.
+Seguindo o algoritmo proposto para determinar a massa da amostra e seu teor, foram obtidos os seguintes resultados:
+1. Determinar a pressão parcial do CO2;
+Assumindo que a pressão total é de 1 ATM, equivalente à 760mmHg[2] e pressão da água a 20ºC é equivalente a 17,535mmHg pela tabela 01[3], foi determinado a pressão parcial do CO2 pela fórmula de Dalton das pressões parciais:
+
+pressão_CO2 = pressão_total - pressão_vapor-da-água
+pressão_CO2 = 760mmHg – 17,535mmHg
+pressão_CO2 = 742,465mmHg
+
+2. Determinar a quantidade de matéria do CO2;
+Utilizando a lei dos gases ideais, podemos determinar a quantidade de matéria do CO2.
+Equação original:
+PV = nRT;
+Re-arranjando a equação, isolando a quantidade de matéria:
+n = (PV) / (RT)
+Substituindo os valores nas variáveis, obtemos:
+P = 742,465mmHg
+V = 87mm -> convertendo em L (por regra de três): 0,087L;
+R = 62,3 mmHgL / mol K (constante dos gases)
+T = 20ºC -> convetida em Kelvin: T = 273 + 20  -> T = 293 ºK
+n = (742,465 * 0,087) / (62,3 * 293)
+n = 64,594455 / 18253,9
+n = 3,538665984 * 10-3 mol
+3. Determinar a quantidade de matéria do CaCO3;
+Pela equação balanceada, a quantidade de matéria do CO2 é igual a quantidade de matéria do CaCO3, justamente pela equação estar balanceada – a quantidade de reagenetes é igual a quantidade do produto gerado.
+nCaCO3 = nCO2
+nCaCO3 = 3,538665984 * 10-3 mol
+4. Determinar a massa do CaCO3;
+A massa molar é determinada pela soma da massa molar de cada átomo que compõe a molécula. No caso do CaCO3[1]:
+Ca = 40,08 g/mol
+C = 12,01 g/mol
+O = 16,00 g/mol
+CaCO3 = (1 * 40,08) + (1 * 12,01) + (3 * 16,00)
+CaCO3 = 100,09 g/mol
+Sabendo a quantidade de matéria do CaCO3 e a massa molar é possível determinar a massa, re-arranjando a equação:
+n = m / ῃ – quantidade de matéria = massa / massa molar (letra grega Mi)
+m = n * ῃ
+m =  (3,538665984 * 10-3 mol)  * 100,09 g/moll
+m = 0,354185078g
+m = 0,3542g (por arredondamento) +- 0,0001g
+5. Determinar o teor em massa do CaCO3 em relação à amostra inicial;
+Utilizando a fórmula do teor em massa é obtido o seguinte resultado:
+Teor = (massa_fração / massa_total) * 100%
+Teor =  (0,3542g /  0,3515g) * 100%
+Teor = 1.007681366 * 100%
+Teor = 1.0077 * 100%
+Teor = 100,77% (existe faixa de erro para a porcentagem?)
+
+O teor em massa obtido, superior a 100%, foi em uma quantidade muito pequena (0,77%), que pode ser atribuído ao surgimento de pequenas bolhas de ar na hora de mergulhar a proveta no béquer. Essa diferença também foi provocada por pequenos erros de arredondamento, sendo aceitável o descarte desse excedente.
+Pode-se considerar a amostra como pura, tendo em vista que os resultados obtidos experimentalmente, com a massa determinada em 0,3542g ser muito próxima à massa da amostra pesada, no valor de 0,3515g.
+
+Tabela01 – Pressão do vapor da água a determinada temperatura[3] (ver planilha report07 em anexo – copiar fielmente a tabela das pressões do vapor da água da apostila 07 – inclusive legenda, etc)
+Conclusão.
+Concluí-se que o objetivo do experimento foi atingido à contento.
+Utilizando-se da Lei de Dalton das Pressões Parciais, foi possível determinar a quantidade de CO2 e pela Lei dos Gases ideais foi possível determinar a quantidade de matéria do CO2. Assumindo, pela equação balanceada, que a quantidade de matéria do CO2 é igual à quandidade de matéria do CaCO3, foi possível determinar a massa do CaCO3 e definir o seu teor em massas em relação à amostra inicial, sendo o excedente à 100% considerado descartável, a amostra foi considerada pura.
+Referências.
+[1] Atkins, Peter – Princípios de Química: questionando a vida moderna e o meio ambiente – 3 ed. - Bookman,  2006 – páginas 66 – 67; 239 – 242; 250 – 251;
+[2] Souza, Karina da Silva – Apostila 03 frente Lavoisier – Campinas – 1ª edição.
+[3] Strixino, Francisco. - Apostila de Introdução às Práticas Laboratoriais [UFSCAR Campus Sorocaba] – Experimento 07 – ano 2011
+
+
+=========================================
+
+Massa CaCO_3	0,3515g	0,0001g	
+CO_2 Na proveta após reação	87ml	erro 0,5Ml	(confirmar erro)
+Temperatura	20ºC		
+Pressão	1ATM		

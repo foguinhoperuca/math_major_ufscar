@@ -1,0 +1,21 @@
+= Fundamento Matematica - Mar-21-11.
+
+== Aula passada - 'enquete da origem dos alunos'
+  * Não usar grph de setor - nao seria adequado pela quantidade de informação (grph mto poluido)
+  * Variavel qualitativa nominal (nomes das cidades)
+  * Variavel qualitativa ordinal (dias da semana, meses no ano)
+
+== Funções.
+Em GA, o grph não é uma função pois o eixo X pode ter 2 valores para determinado y (correspondência)
+
+=== Variáveis.
+  * Variável independente (x)
+  * Variável dependente (y)
+
+== Mind Map
+Elementos que não existem em um grph estatístico.
+
+=== Software
+  * Geogebra
+  * winplot
+  * gnu octave

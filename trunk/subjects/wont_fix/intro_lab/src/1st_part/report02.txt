@@ -1,0 +1,60 @@
+= Relatorio 02 - Inbtrdução às Práticas Laboratoriais.
+
+== Introdução teórica.
+// Podemos utilizar a introdução teórica do relatório anterior para massa, volume e densidade.
+
+== Objetivo
+Este experimento tem por objetivo elicitar algumas características das propriedades físicas do material utilizado (água destilada), como a massa, o volume e a densidade. O experimento, tembém, mostra a forma correta de aquisição de dados quantitativos e a interpretação dos mesmos. Tem, por fim, o objetivo de mostar a variação da precisão de frascos volumétricos distintos.
+
+== Material e métodos
+=== Materiais encontrados para realizar a experiência:
+  * 02 - balão de 50ml;
+  * 02 - balão de 25ml;
+  * 01 - erlenmeyer de 125ml;
+  * 01 - proveta de 25ml +- 0,5ml;
+  * 01 - bureta de 50ml;
+  * 01 - garra;
+  * 01 - suporte universal;
+  * 04 - rolha plática;
+  * 01 - rolha para o erlenmeyer;
+  * 01 - becker;
+  * 01 - bureta de 10ml;
+  * 01 - bureta de 25ml;
+  * 01 - Frasco lavador com água destilada (450ml);
+  * 01 - Pera;
+  * 01 - termômetro;
+
+=== Material sugerido pela apostila.
+  * 01 - Suporte universal;
+  * 01 - Garra para bureta;
+  * 01 - Bureta de 50ml;
+  * 01 - pipeta volumétrica;
+  * 01 - Pipeta graduada de 10ml;
+  * 01 - Pera ou pipetador;
+  * 01 - Proveta de 25ml;
+  * 04 - Erlenmeyer de 150ml ou 250ml;
+  * 01 - rolhas;
+
+** Lembrar do comentário do professor: é possível utilizar qualquer recipiente (como exemplo dado por ele, um copo de requiijão seria o suficiente) para mensurar o volume, desde que saiba a massa desse recepiente. (vale a pena colocar esse comentário na parte de resultados e discuções)
+
+=== Dados Coletados.
+(Estão em uma planilha em anexo, juntamente com os cálculos.
+
+** Notar que usamos balões ao invés de erlenmeyers.
+
+
+==== Comentários Jefferson.
+Parte 1 da experiência:
+0) Erramos ao medir a temperatura, pois deveriamos ter medido ela cada vez que recolhessemos os dados para cada frasco. Como medimos no final apenas, vamos assumir que a temperatura foi a mesma para cada frasco.
+1) O erlenmeyer (único), assim como os balões utilizados, estavam molhados por dentro, sendo impossível limpá-los.
+2) O becker possui uma precisão de 10mL em 10mL o que tornou muito difícil mensurar os 25mL.
+
+
+== Resultado e Discuções.
+(reinserindo do comentário):
+** Lembrar do comentário do professor: é possível utilizar qualquer recipiente (como exemplo dado por ele, um copo de requiijão seria o suficiente) para mensurar o volume, desde que saiba a massa desse recepiente.
+
+== Conclusão.
+
+== Referências.
+(utilizar a mesma referência do relatório anterior - para massa, volume e densidade)
