@@ -1,0 +1,41 @@
+h1. Index.
+
+{{toc}}
+
+h1. Investimentos na Graduação.
+
+Está página descreve, brevemente, os custos e investimentos na graduação.
+Obviamente, por ser uma universidade pública, o curso de licenciatura em matemática na "UFSCAR":http://ufscar.br é gratuito. Porém, é necessário levar em consideração os gastos com transporte, alimentação, material didático (xerox, apostilas, etc), tempo de estudo entre outros.
+A partir deste estudo é possível estimar o "ROI (Return of Investment - Retorno do Investimento":http://pt.wikipedia.org/wiki/ROI) e assim comparar a carreira de docente em matemática, no aspecto financeiro, com outras carreiras. Particularmente, estou interessado em comparar com a "carreira de ciências da computação":http://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_computa%C3%A7%C3%A3o#Profiss.C3.A3o
+
+h2. Custos.
+
+h3. Transporte.
+
+(em progresso...)
+
+h3. Alimentação.
+
+(em progresso...)
+
+h3. Material didático.
+
+(em progresso...)
+
+h3. Tempo.
+
+(em progresso...)
+
+h2. Receitas.
+
+h1. ROI.
+
+h2. Comparação com Outras Carreiras.
+
+h3. Ciências das Computação.
+
+h3. Outros Docentes (Físico, Biólogo, Químico, Pedagogo, Geógrafo).
+
+h3. Economia.
+
+h1. Conclusões.

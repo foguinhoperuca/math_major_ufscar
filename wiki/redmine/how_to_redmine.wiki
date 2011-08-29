@@ -1,0 +1,61 @@
+h1. Uso do Sistema.
+
+h2. "Overview.":http://www.hostedredmine.com/projects/math-ufscar-2011-1
+
+Esta é a página inicial do projeto com os dados gerais. Contém os principais links externos do projeto como:
+* "Hotsite do projeto;":http://ufscar.awknet.org
+* "Grupo de discução no Google Groups;":http://groups.google.com/group/math_ufscar_2011_1?lnk=srg
+* "Conteúdo multimedia;":http://www.youtube.com/user/foguinhodotperuca?feature=mhee (em progresso...)
+
+h2. "Activity.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/activity
+
+Mostras as atividades recentes do projeto, como se fosse um log. Está ordenado por data.
+
+h2. "Roadmap.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/roadmap
+
+Aqui contém uma visão de cada *version (versão)*. Uma *version*, dentro do contexto do projeto, é um semestre letivo.
+Em cada release, temos todos os *issues - (tarefas)* associados a uma disciplina especificamente.
+As disciplinas estão divididas por *category (categoria)*. Para cada issue é atribuído uma category e por conseguência fica vinculado a uma disciplina.
+Um grupo de issues está associado a uma version (semestre letivo).
+No caso das disclinas cursadas mais de uma vez (por exemplo [[345970_GEOMETRIA_ANALITICA|GA]]) os issues (tarefas) terão a mesma category (disciplina) mas estarão associados a duas ou mais releases (semestre letivo).
+
+h2. "Issues.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues
+
+Aqui são as terefas do curso. Isso inclui mas não limita-se à:
+* Atividades designadas pelos professores (lista de exercícios);
+* Seminários;
+* Avaliações/Provas substitutivas/SAC;
+* Relatórios;
+* Aulas especiais;
+
+Cada tarefa é controlada (data de conclusão, objetivos, progresso, etc) e, na maioria das vezes, gera um resultado tangível.
+
+h2. "Gantt.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/gantt
+
+Aqui é possível ver, pelo "Diagrama de Gantt":http://pt.wikipedia.org/wiki/Diagrama_de_Gantt, a agenda de um determinado período. É útil para saber quando cada atividade será concluída e ter uma boa noção do andamento do projeto.
+
+h2. "Calendar.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/calendar
+
+Esta aba possui uma visão semelhante ao "Gantt.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/gantt porém da uma visão mensal das atividades.
+
+h2. "News.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/news
+
+Utilzado para divulgar novidades do projeto de uma forma geral. Caso tenha um login cadastrado neste host e tenha sido atribuído como observador do projeto, será notificado vie e-mail em relação a novidades postadas.
+
+h2. "Documents.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/documents
+
+Aqui contém material (apostilas, respostas para exercícios, relatórios, etc), organizado por disciplina (em breve), produzido durante o projeto.
+
+
+h2. "Wiki.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/wiki
+
+É o repositório de conhecimento. Aqui vai conter links e instruções para as outras áreas do projeto.
+
+h2. "Files.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/files
+
+Semelhante à documentos, porém sem organização. Aqui será colocado as versões binárias (finais) das apostilas, relatórios, etcs
+
+h2. "Repository.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/repository
+
+Contém o repositório com o "código-fonte":http://pt.wikipedia.org/wiki/C%C3%B3digo_fonte do projeto. O código fonte é hospedado no "google code":http://code.google.com/p/math-ufscar-2011-1/ e utiliza o "subversion":http://subversion.apache.org/ como ferramenta de controle de versão.
+O repositório antigo, hospedado no "github.com":https://github.com/foguinhoperuca/ufscar foi descontínuado devido a incompatibilidade do "Redmine":http://redmine.org (hospedeiro do projeto) e o "git":http://git-scm.com/.
