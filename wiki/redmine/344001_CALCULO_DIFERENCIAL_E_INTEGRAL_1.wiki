@@ -1,0 +1,85 @@
+h1. Turma/Disciplina.
+
+*ID*: 344001;
+*Discilina*: CÁLCULO DIFERENCIAL E INTEGRAL 1;
+*Turma*: B;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+SILVIA MARIA SIMOES DE CARVALHO - silviamsc@ufscar.br
+
+h1. Objetivos Gerais da Disciplina
+
+Ao final da disciplina os alunos deverão ser capazes de entender a importância e a utilidade dos conceitos e técnicas do Cálculo Diferencial e Integral, bem como desenvolver competência técnica na utilização de tais conceitos.
+
+h1. Ementa da Disciplina.
+
+* Limite;
+* Continuidade;
+* Derivada;
+* Integral de funções reais de uma variável real;
+* Aplicações;
+
+h1. Número de Créditos.
+
+*Teóricos*: 4
+*Práticos*: 0
+*Estágio*: 0
+*Total*: 4
+
+h1. Tópicos/Duração.
+
+# RETA REAL e FUNÇÕES - (6 horas)
+Propriedades dos números reais. Desigualdades. Módulo.
+Conceito de função. Funções polinomiais, racionais, algebricas e transcendentes. Funções trigonométricas. Função área. Função logarítmo. Função exponencial. Funções hiperbólicas. Gráfico de funções.
+# LIMITES E FUNÇÕES CONTÍNUAS. (14 horas)
+Noção Intuitiva de Limite. Definição de Limite. Propriedades. Limites Laterais. Funções Contínuas.
+# DERIVADA (20 horas)
+Tangentes. Velocidade. Taxas de Variação. Relação entre derivação e continuidade. Derivada de polinômios. Regras de derivação: derivada da soma, do produto e do quociente de funções. Derivada das funções seno e cosseno. Derivada da função área. Derivada das funções logarítmo, exponencial e hiperbólicas. Funções compostas e regra da cadeia. Funções implícitas e expoentes fracionários. Funções inversas e suas derivadas. Derivadas de ordem superior.
+## APLICAÇÕES DE DERIVADAS.
+Teorema do Valor Médio. Funções crescentes. Máximos e mínimos. Concavidade e pontos de inflexão. Aplicações de máximos e mínimos. Aplicações de máximos e mínimos. Taxas Relacionadas. Diferenciais e cálculo de erros. Formas indeterminadas e a regra de L"Hopital. Assíntotas. Esboço de gráficos de funções.
+# INTEGRAIS (20 horas)
+Integração por substituição e integração por partes.
+## INTEGRAIS DEFINIDAS.
+Áreas de regiões planas. TEOREMA FUNDAMENTAL DO CÁLCULO. Propriedades das integrais. Volume de sólidos.
+## MÉTODOS DE INTEGRAÇÃO.
+Integração por partes. Integração por frações parciais. Substituições trigonométricas.
+
+h1. Objetivos Específicos
+
+Tornar familiar aos alunos os conceitos de limite, continuidade, diferenciabilidade e integração de funções de uma variável.
+
+h1. Estratégias de Ensino.
+
+# Aula expositiva de todo o conteúdo da disciplina;
+# Listas de Exercícios;
+# Atendimento Extra-Classe;
+# Trabalhos;
+
+Atividades dos Alunos
+# Estabelecer relações com os conceitos matemáticos já apreendidos no ensino básico;
+# Aplicar o conteúdo abordado em situações práticas;
+# Participação assídua nas aulas;
+# Comparecer aos horários de atendimento;
+# Realizar as avaliações e trabalhos propostos;
+# Estudar com motivação;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Para ser aprovado, além da freqüência regulamentar, o aluno deverá obter média ponderada do semestre (MS) superior ou igual a 6.0 (seis). Cada nota será obtida pela soma da nota de uma prova com a nota de trabalhos. Cada prova (P1, P2 e P3) e trabalhos (n1,n2 e n3), terão valores entre 0 e 10. A media do semestre MS=0.8MP+0.2MT, onde a média das provas MP=(3P1+3P2+4P3)/10 e a média dos trabalhos MT=(n1+n2+n3)/3.
+Sistema de Avaliação Complementar:Os alunos com média do semestre (MS) estritamente menor do que 6.0 e maior ou igual a 5.0 terão direito a uma prova individual e sem consulta a ser realizada nos primeiros 35 dias após o início das aulas do semestre posterior. Está prova conterá todo o conteúdo programático do semestre. Neste caso, a Nota final será a média aritmética entre a nota obtida durante o semestre e a avaliação complementar, caso seja maior ou igual a 6.0.
+
+Bibliografia.
+
+Publicação (Procure usar normas ABNT. a menos da formatação)
+# STEWART, J. Cálculo, V. 1, 6ª edição.
+# GUIDORIZZI, H.L. Um Curso de Cálculo, V. 1, 5ª edição.
+# SWOKOWSKI, E.W. Cálculo com Geometria Analítica, V. 1, 2ª edição.
+# LEITHOLD, L. Cálculo com Geometria Analítica, V.1, 3ª edição.
+# SIMMONS, G.F. Cálculo com Geometria Analítica, V.1, 1ª edição.
+# AVILA,G. Cálculo das Funções de uma Variável, V.1, 7ª edição.
+
+Observações.
+
+O livro texto será o *STEWART, J. Cálculo, V. 1, 6ª edição.*.

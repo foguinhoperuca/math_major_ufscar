@@ -1,0 +1,146 @@
+h1. Index.
+
+h2. Geral.
+
+h2. Uso do Sistema.
+
+h3. "Overview.":http://www.hostedredmine.com/projects/math-ufscar-2011-1
+
+Esta é a página inicial do projeto com os dados gerais. Contém os principais links externos do projeto como:
+* "Hotsite do projeto;":http://ufscar.awknet.org
+* "Grupo de discução no Google Groups;":http://groups.google.com/group/math_ufscar_2011_1?lnk=srg
+* "Conteúdo multimedia;":http://www.youtube.com/user/foguinhodotperuca?feature=mhee (em progresso...)
+
+h3. "Activity.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/activity
+
+Mostras as atividades recentes do projeto, como se fosse um log. Está ordenado por data.
+
+h3. "Roadmap.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/roadmap
+
+Aqui contém uma visão de cada *version (versão)*. Uma *version*, dentro do contexto do projeto, é um semestre letivo.
+Em cada release, temos todos os *issues - (tarefas)* associados a uma disciplina especificamente.
+As disciplinas estão divididas por *category (categoria)*. Para cada issue é atribuído uma category e por conseguência fica vinculado a uma disciplina.
+Um grupo de issues está associado a uma version (semestre letivo).
+No caso das disclinas cursadas mais de uma vez (por exemplo [[345970_GEOMETRIA_ANALITICA|GA]]) os issues (tarefas) terão a mesma category (disciplina) mas estarão associados a duas ou mais releases (semestre letivo).
+
+h3. "Issues.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues
+
+Aqui são as terefas do curso. Isso inclui mas não limita-se à:
+* Atividades designadas pelos professores (lista de exercícios);
+* Seminários;
+* Avaliações/Provas substitutivas/SAC;
+* Relatórios;
+* Aulas especiais;
+
+Cada tarefa é controlada (data de conclusão, objetivos, progresso, etc) e, na maioria das vezes, gera um resultado tangível.
+
+h3. "Gantt.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/gantt
+
+Aqui é possível ver, pelo "Diagrama de Gantt":http://pt.wikipedia.org/wiki/Diagrama_de_Gantt, a agenda de um determinado período. É útil para saber quando cada atividade será concluída e ter uma boa noção do andamento do projeto.
+
+h3. "Calendar.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/calendar
+
+Esta aba possui uma visão semelhante ao "Gantt.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/issues/gantt porém da uma visão mensal das atividades.
+
+h3. "News.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/news
+
+Utilzado para divulgar novidades do projeto de uma forma geral. Caso tenha um login cadastrado neste host e tenha sido atribuído como observador do projeto, será notificado vie e-mail em relação a novidades postadas.
+
+h3. "Documents.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/documents
+
+Aqui contém material (apostilas, respostas para exercícios, relatórios, etc), organizado por disciplina (em breve), produzido durante o projeto.
+
+
+h3. "Wiki.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/wiki
+
+É o repositório de conhecimento. Aqui vai conter links e instruções para as outras áreas do projeto.
+
+h3. "Files.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/files
+
+Semelhante à documentos, porém sem organização. Aqui será colocado as versões binárias (finais) das apostilas, relatórios, etcs
+
+h3. "Repository.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/repository
+
+Contém o repositório com o "código-fonte":http://pt.wikipedia.org/wiki/C%C3%B3digo_fonte do projeto. O código fonte é hospedado no "google code":http://code.google.com/p/math-ufscar-2011-1/ e utiliza o "subversion":http://subversion.apache.org/ como ferramenta de controle de versão.
+O repositório antigo, hospedado no "github.com":https://github.com/foguinhoperuca/ufscar foi descontínuado devido a incompatibilidade do "Redmine":http://redmine.org (hospedeiro do projeto) e o "git":http://git-scm.com/.
+
+h2. Disciplinas.
+
+Abaixo, as disciplinas cursadas durante o curso.
+
+h3. Perfil 01.
+
+[[345970_GEOMETRIA_ANALITICA| 345970 - GEOMETRIA ANALÍTICA - 2011/1]]
+[[347523_QUIMICA_GERAL_1|347523 - QUÍMICA GERAL 1 - 2011/1]]
+[[347574_LEITURA_INTERPRETACAO_E_PRODUCAO_DE_TEXTO|347574 - LEITURA, INTERPRETAÇÃO E PRODUÇÃO DE TEXTO - 2011/1]]
+[[349615_FUNDAMENTOS_DE_MATEMATICA_ELEMENTAR_1|349615 FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1 - 2011/1]]
+[[349631_INTRODUCAO_A_FISICA|349631 INTRODUÇÃO À FÍSICA - 2011/1]]
+[[349640_BIOLOGIA_GERAL|349640 BIOLOGIA GERAL - 2011/1]]
+[[349658_INTRODUCAO_AS_PRATICAS_LABORATORIAIS|349658 INTRODUÇÃO ÀS PRÁTICAS LABORATORIAIS - 2011/1]]
+
+h3. Perfil 02.
+
+[[341266_FUNDAMENTOS_DE_MATEMATICA_ELEMENTAR_2|341266 FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 2 - 2011/2]]
+[[341274_INTRODUCAO_A_INFORMATICA|341274 INTRODUÇÃO À INFORMÁTICA - 2011/2]]
+[[341282_FISICA_GERAL_1|341282 FÍSICA GERAL 1 - 2011/2]]
+[[341290_LABORATORIO_DE_FISICA|341290 LABORATÓRIO DE FÍSICA - 2011/2]]
+[[341304_FUNDAMENTOS_DE_ECOLOGIA|341304 FUNDAMENTOS DE ECOLOGIA - 2011/2]]
+[[341312_PSICOLOGIA_DA_EDUCACAO|341312 PSICOLOGIA DA EDUCAÇÃO - 2011/2]]
+[[344001_CALCULO_DIFERENCIAL_E_INTEGRAL_1|344001 CÁLCULO DIFERENCIAL E INTEGRAL 1 - 2011/2]]
+
+h3. Perfil 03.
+
+[[341673_ALGEBRA_LINEAR|341673 ÁLGEBRA LINEAR - ?/?]]
+[[341703_EVOLUCAO_DA_DIVERSIDADE_BIOLOGICA|341703 EVOLUÇÃO DA DIVERSIDADE BIOLÓGICA - ?/?]]
+[[341711_FISICA_GERAL_2|341711 FÍSICA GERAL 2 - ?/?]]
+[[341720_LABORATORIO_DE_FISICA_2|341720 LABORATÓRIO DE FÍSICA 2 - ?/?]]
+[[341738_PSICOLOGIA_DA_EDUCACAO_2|341738 PSICOLOGIA DA EDUCAÇÃO 2 - ?/?]]
+[[345008_EDUCACAO,_POLITICA_E_SOCIEDADE|345008 EDUCAÇÃO, POLÍTICA E SOCIEDADE - ?/?]]
+[[345997_CALCULO_DIFERENCIAL_E_INTEGRAL_2|345997 CÁLCULO DIFERENCIAL E INTEGRAL 2 - ?/?]]
+
+h3. Perfil 04.
+
+[[340863_GESTAO_ESCOLAR|340863 GESTÃO ESCOLAR - ?/?]]
+[[344249_DIDATICA|344249 DIDÁTICA - ?/?]]
+[[344885_INTRODUCAO_A_ESTATISTICA_E_PROBABILIDADE|344885 INTRODUÇÃO À ESTATÍSTICA E PROBABILIDADE - ?/?]]
+[[344982_PROGRAMACAO_E_ALGORITMOS|344982 PROGRAMAÇÃO E ALGORITMOS - ?/?]]
+[[344990_INSTRUMENTACAO_PARA_O_ENSINO_DA_MATEMATICA_A|344990 INSTRUMENTAÇÃO PARA O ENSINO DA MATEMÁTICA A - ?/?]]
+[[345989_CALCULO_DIFERENCIAL_E_INTEGRAL_3|345989 CÁLCULO DIFERENCIAL E INTEGRAL 3 - ?/?]]
+
+h3. Perfil 05.
+
+[[346632_CALCULO_NUMERICO|346632 CÁLCULO NUMÉRICO - ?/?]]
+[[346640_ELEMENTOS_DE_TEORIA_DOS_CONJUNTOS|346640 ELEMENTOS DE TEORIA DOS CONJUNTOS - ?/?]]
+[[346659_INFORMATICA_APLICADA_AO_ENSINO|346659 INFORMÁTICA APLICADA AO ENSINO - ?/?]]
+[[346667_INSTRUMENTACAO_PARA_O_ENSINO_DA_MATEMATICA_B|346667 INSTRUMENTAÇÃO PARA O ENSINO DA MATEMÁTICA B - ?/?]]
+[[346675_PESQUISA_EM_EDUCACAO_MATEMATICA|346675 PESQUISA EM EDUCAÇÃO MATEMÁTICA - ?/?]]
+[[346683_PSICOLOGIA_DA_ADOLESCENCIA|346683 PSICOLOGIA DA ADOLESCÊNCIA - ?/?]]
+
+h3. Perfil 06.
+
+[[346691_ENSINO_DE_MATEMATICA_ATRAVES_DE_PROBLEMAS|346691 ENSINO DE MATEMÁTICA ATRAVÉS DE PROBLEMAS - ?/?]]
+[[346705_ESTAGIO_SUPERVISIONADO_DE_MATEMATICA_NA_EDUCACAO_BASICA_1|346705 ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 1 - ?/?]]
+[[346713_GEOMETRIA_EUCLIDIANA|346713 GEOMETRIA EUCLIDIANA - ?/?]]
+[[346721_INTRODUCAO_A_TEORIA_DOS_NUMEROS|346721 INTRODUÇÃO À TEORIA DOS NÚMEROS - ?/?]]
+[[346730_METODOLOGIA_E_PRATICA_DO_ENSINO_DE_MATEMATICA_1|346730 METODOLOGIA E PRÁTICA DO ENSINO DE MATEMÁTICA 1 - ?/?]]
+
+h3. Perfil 07.
+
+[[346780_DESENHO_GEOMETRICO_E_GEOMETRIA_DESCRITIVA|346780 DESENHO GEOMÉTRICO E GEOMETRIA DESCRITIVA - ?/?]]
+[[346861_ESTAGIO_SUPERVISIONADO_DE_MATEMATICA_NA_EDUCACAO_BASICA_2|346861 ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 2 - ?/?]]
+[[346870_ESTRUTURAS_ALGEBRICAS|346870 ESTRUTURAS ALGÉBRICAS - ?/?]]
+[[346888_METODOLOGIA_E_PRATICA_DO_ENSINO_DE_MATEMATICA_2|346888 METODOLOGIA E PRÁTICA DO ENSINO DE MATEMÁTICA 2 - ?/?]]
+
+h3. Perfil 08.
+
+[[346896_ESTAGIO_SUPERVISIONADO_DE_MATEMATICA_NA_EDUCACAO_BASICA_3|346896 ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 3 - ?/?]]
+[[346900_HISTORIA_DA_MATEMATICA|346900 HISTÓRIA DA MATEMÁTICA - ?/?]]
+[[346918_INTRODUCAO_A_ANALISE|346918 INTRODUÇÃO À ANÁLISE - ?/?]]
+[[346926_TRABALHO_DE_CONCLUSAO_DE_CURSO_1|346926 TRABALHO DE CONCLUSÃO DE CURSO 1 - ?/?]]
+[[909602_DISCIPLINA_CRIADA_PARA_GRADES_INCOMPLETAS|909602 DISCIPLINA CRIADA PARA GRADES INCOMPLETAS - ?/?]]
+
+h3. Perfil 09.
+
+[[201006_INTRODUCAO_A_LINGUA_BRASILEIRA_DE_SINAIS_-_LIBRAS_I|201006 INTRODUÇÃO À LINGUA BRASILEIRA DE SINAIS - LIBRAS I - ?/?]]
+[[346934_ESTAGIO_SUPERVISIONADO_DE_MATEMATICA_NA_EDUCACAO_BASICA_4|346934 ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 4 - ?/?]]
+[[346942_TRABALHO_DE_CONCLUSAO_DE_CURSO_2|346942 TRABALHO DE CONCLUSÃO DE CURSO 2 - ?/?]]
