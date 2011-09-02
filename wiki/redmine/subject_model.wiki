@@ -9,6 +9,11 @@ h1. Professor Responsável.
 
 PROFESSOR - email@ufscar.br
 
+h1. Atendimento.
+
+*Sala*: ;
+*Horário*: ;
+
 h1. Objetivos Gerais da Disciplina.
 
 

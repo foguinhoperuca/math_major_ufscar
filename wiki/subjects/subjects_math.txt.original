@@ -1,0 +1,151 @@
+Prefil  	Disciplina  	Cred.  	Aula  	Lab.  	Est.  	Conjunto
+1 	345970 	GEOMETRIA ANALÍTICA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	081116 OU 081019 OU 081515 OU 342190 OU 343420 OU 349623 OU 342017 OU 343510
+1 	347523 	QUÍMICA GERAL 1 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	215023
+1 	347574 	LEITURA, INTERPRETAÇÃO E PRODUÇÃO DE TEXTO 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	342661 OU 345849 OU 341479 OU 341690 	 
+1 	349615 	FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	084905 OU 215031
+1 	349631 	INTRODUÇÃO À FÍSICA 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+1 	349640 	BIOLOGIA GERAL 	2 	1 	1 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	215040
+1 	349658 	INTRODUÇÃO ÀS PRÁTICAS LABORATORIAIS 	2 	0 	2 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+2 	341266 	FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 2 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+2 	341274 	INTRODUÇÃO À INFORMÁTICA 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	025470
+2 	341282 	FÍSICA GERAL 1 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	341258 OU 344001 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) OU 342009 OU 342211 OU 341258 OU 340456 	  	 
+2 	341290 	LABORATÓRIO DE FÍSICA 1 	2 	0 	2 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	341282 	  	 
+2 	341304 	FUNDAMENTOS DE ECOLOGIA 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+2 	341312 	PSICOLOGIA DA EDUCAÇÃO 1 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	200018 OU 201049 OU 201057
+2 	344001 	CÁLCULO DIFERENCIAL E INTEGRAL 1 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	082210 OU 082015 OU 089109 OU (082619 E 082627) OU 342009 OU 342211 OU 341258 OU 340456
+3 	341673 	ÁLGEBRA LINEAR 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+349623 OU 342190 OU 342017 OU 343420 OU 081116 OU 081019 OU 081515 OU 343510 OU 345970 	  	  	343145
+3 	341703 	EVOLUÇÃO DA DIVERSIDADE BIOLÓGICA 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+3 	341711 	FÍSICA GERAL 2 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+3 	341720 	LABORATÓRIO DE FÍSICA 2 	2 	0 	2 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	341711 	  	 
+3 	341738 	PSICOLOGIA DA EDUCAÇÃO 2 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	200085
+3 	345008 	EDUCAÇÃO, POLÍTICA E SOCIEDADE 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	345806 OU 170542
+3 	345997 	CÁLCULO DIFERENCIAL E INTEGRAL 2 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+344001 OU 342009 OU 342211 OU 341258 OU 340456 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) 	  	  	082260 OU 342475 OU 342076 OU 342220 OU 343536 OU 341681
+4 	340863 	GESTÃO ESCOLAR 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	344052
+4 	344249 	DIDÁTICA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	340995 	190900 OU 190080 OU 191345
+4 	344885 	INTRODUÇÃO À ESTATÍSTICA E PROBABILIDADE 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+4 	344982 	PROGRAMAÇÃO E ALGORITMOS 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+4 	344990 	INSTRUMENTAÇÃO PARA O ENSINO DA MATEMÁTICA A 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+(344001 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) OU 342009 OU 342211 OU 341258 OU 340456) E (081116 OU 081019 OU 081515 OU 342190 OU 343420 OU 349623 OU 342017 OU 343510 OU 345970) 	  	  	084204 OU 084166
+4 	345989 	CÁLCULO DIFERENCIAL E INTEGRAL 3 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+344001 OU 342009 OU 342211 OU 341258 OU 340456 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) E 081116 OU 081019 OU 081515 OU 342190 OU 343420 OU 349623 OU 342017 OU 343510 OU 345970 	  	  	342238 OU 342670
+5 	346632 	CÁLCULO NUMÉRICO 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+(344001 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) OU 342009 OU 342211 OU 341258 OU 340456) E (345970 OU 081116 OU 081019 OU 081515 OU 342190 OU 343420 OU 349623 OU 342017 OU 343510 OU 345083) E (344982) 	  	  	 
+5 	346640 	ELEMENTOS DE TEORIA DOS CONJUNTOS 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+5 	346659 	INFORMÁTICA APLICADA AO ENSINO 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+341274 OU 025470 	  	  	 
+5 	346667 	INSTRUMENTAÇÃO PARA O ENSINO DA MATEMÁTICA B 	4 	0 	4 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+344990 OU 084204 OU 084166 	  	  	 
+5 	346675 	PESQUISA EM EDUCAÇÃO MATEMÁTICA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+347574 OU 342661 OU 345849 OU 341479 OU 341690 	  	  	 
+5 	346683 	PSICOLOGIA DA ADOLESCÊNCIA 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+6 	346691 	ENSINO DE MATEMÁTICA ATRAVÉS DE PROBLEMAS 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+6 	346705 	ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 1 	6 	0 	0 	6 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+344990 	  	  	 
+6 	346713 	GEOMETRIA EUCLIDIANA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+6 	346721 	INTRODUÇÃO À TEORIA DOS NÚMEROS 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+6 	346730 	METODOLOGIA E PRÁTICA DO ENSINO DE MATEMÁTICA 1 	4 	0 	4 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+344990 	  	  	 
+7 	346780 	DESENHO GEOMÉTRICO E GEOMETRIA DESCRITIVA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346713 	  	  	 
+7 	346861 	ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 2 	8 	0 	0 	8 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346667 E 346705 	  	  	 
+7 	346870 	ESTRUTURAS ALGÉBRICAS 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+7 	346888 	METODOLOGIA E PRÁTICA DO ENSINO DE MATEMÁTICA 2 	4 	0 	4 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346730 	  	  	 
+8 	346896 	ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 3 	6 	0 	0 	6 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346730 	  	  	 
+8 	346900 	HISTÓRIA DA MATEMÁTICA 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+8 	346918 	INTRODUÇÃO À ANÁLISE 	4 	4 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+345989 OU 342238 OU 342670 	  	  	 
+8 	346926 	TRABALHO DE CONCLUSÃO DE CURSO 1 	0 	0 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346730 E 346888 E 344990 E 346667 	  	  	 
+8 	909602 	DISCIPLINA CRIADA PARA GRADES INCOMPLETAS 	2 	1 	1 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+9 	201006 	INTRODUÇÃO À LINGUA BRASILEIRA DE SINAIS - LIBRAS I 	2 	2 	0 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+	  	  	 
+9 	346934 	ESTÁGIO SUPERVISIONADO DE MATEMÁTICA NA EDUCAÇÃO BÁSICA 4 	8 	0 	0 	8 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346888 	  	  	 
+9 	346942 	TRABALHO DE CONCLUSÃO DE CURSO 2 	12 	0 	12 	0 	OBRIGATORIAS
+Requisito 	Co-requisito 	Equivalência 	Dispensada por
+346730 E 346888 E 344990 E 346667 E 346926 

@@ -1,0 +1,23 @@
+h1. README
+
+Disciplina 344982 PROGRAMACAO E ALGORITMOS.
+
+Aqui estao aos programas criados durante as aulas.
+Para compilar, no linux, utilize o GCC.
+
+h2.Configurando o Ambiente. 
+
+Em distros derivadas do Debian/Ubuntu basta:
+
+# apt-get install build-essentials
+
+Para compilar o projeto basta:
+
+$ gcc -Wall <PROGRAM_NAME.c> -o <PROGRAM_NAME>
+
+H2. Contato.
+
+Dúvidas: foguinho.peruca@gmail.com
+
+Enjoy!
+Jeff
