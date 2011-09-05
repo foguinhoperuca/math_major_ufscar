@@ -1,94 +1,140 @@
 h1. Turma/Disciplina.
 
-*ID*: ;
-*Discilina*: ;
-*Turma*: ;
-*Cursando em*: 20YY/S;
+*ID*: 349658;
+*Discilina*: A;
+*Turma*: INTRODUÇÃO ÀS PRÁTICAS LABORATORIAIS;
+*Cursando em*: 2011/1;
 
 h1. Professor Responsável.
 
-PROFESSOR - email@ufscar.br
-
-h1. Atendimento.
-
-*Sala*: ;
-*Horário*: ;
+Alexandre Donizeti Martins Cavagis -  cavagis@ufscar.br
+Francisco Trivinho Strixino - fstrixino@ufscar.br, fstrixino@yahoo.com.br
 
 h1. Objetivos Gerais da Disciplina.
 
-
+A disciplina visa fornecer ao aluno uma introdução às técnicas de análise clássica e operações unitárias essenciais num laboratório químico, bem como coleta e organização dos dados experimentais. Desenvolver a capacidade de trabalho em grupo e desenvolvimento de relações pessoais, bem como desenvolver aptidões para monitorar, por observação e por medição, propriedades químicas, mudanças e transformações. Aprender a redigir um relatório científico; discutir e avaliar (com base nos erros experimentais) os resultados obtidos, respeitando as regras dos algarismos significativos.
 
 h1. Ementa da Disciplina.
 
-* ;
+Segurança em Laboratórios; Armazenamento de produtos químicos; Introdução às técnicas básicas do trabalho com vidro; Levantamento e análise de dados experimentais (análise de erros, propagação de erros, algarismos significativos); Equipamentos básicos de Laboratórios de Química e Física, finalidade e técnicas de utilização (uso de paquímetros, micrômetros, termômetros, cronômetros); Calibração de vidraria; Preparação e padronização de soluções. 
 
 h1. Número de Créditos.
 
 |*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
-|X|X|X|X|
+|2|0|0|2|
 
 h1. Requisitos da Disciplina.
 
+Não se aplica.
 
 h1. Co-Requisitos da Disciplina.
 
-
+Não se aplica.
 
 h1. Caráter de Oferecimento.
 
-
+Não se aplica.
 
 h1. Requisito Recomendado.
 
 Requisitos recomendados aos alunos de graduação:
+Os alunos só estarão aptos para assistir as aulas de laboratório se estiverem devidamente vestidos com jalecos de segurança (algodão e manga comprida), calças ou saias compridas (tecido denin-jeans) e calçados fechados. Os alunos deverão estudar os roteiros experimentais e a literatura indicada antes das aulas práticas. O uso de lentes de contato, alimentos, jóias e brincos e cabelos soltos não é recomendado durante as aulas práticas.
 
 h1. Tópicos/Duração.
 
-# TOPICO 01 - (X horas)
-TOPICO 01.
-# TOPICO 02. (X horas)
-TOPICO 02.
-## TOPICO 02.1 (X horas)
-TOPICO 02.1
+# Normas de segurança em laboratórios, noções sobre os equipamentos básicos e sobre as técnicas básicas de laboratório. (4horas)
+# Erros experimentais e algarismos significativos. (2horas)
+# Medidas de Massa e Volume. (2horas)
+# Esferas Fractais. (2horas)
+# Calibração de Vidrarias (2horas)
+# Exercícios atitudinais. (2horas)
+# Substâncias e Misturas. (2horas)
+# Determinação do ponto de fusão. (2horas)
+# Determinação do Teor de Carbonato de Cálcio em um Material. (2horas)
+# Preparo e Diluição de Soluções. (2horas)
+# Teste da Chama (2horas)
+# Reatividade de alguns elementos (2horas).
+# Reposição de prática. (2horas)
+# Exercícios atitudinais. (2horas)
 
 h1. Objetivos Específicos
 
-
+O objetivo específico será desenvolver a capacidade de investigação científica dos alunos e a necessidade de implementar o método científico em atividades futuras. Também será estimulada a busca de informações necessárias para a resolução de problemas experimentais através do conhecimento dos conceitos básicos de química e das disciplinas correlatas. Para isso será necessário desenvolver o conceito de interdisciplinaridade fazendo com que o aluno aborde conceitos físicos e químicos e utilize ferramentas matemáticas dentro da disciplina.
 
 h1. Estratégias de Ensino.
 
-# ;
+De uma forma geral a estratégia a ser utilizada consistirá nas seguintes etapas:
+# Ao início de cada tópico, fazer a contextualização do tema a ser abordado tanto do ponto de vista histórico como relativo ao desenvolvimento científico.
+# Exposição do tema de forma resumida dando ênfase na estruturação do caminho lógico para o levantamento de hipóteses e a busca de respostas.
+# Realização de experimentos. 
 
 h1. Atividades dos Alunos.
 
-# ;
-
+# A disciplina estará inserida em um contexto multidisciplinar integrador das áreas de ciências exatas e biológicas. Portanto, os alunos terão como atividades principais os tópicos descritos a seguir:
+# Participação das aulas práticas, bem como apresentar relatórios periódicos dos experimentos e responder aos questionamentos iniciais em cada aula prática. O relatório deverá ser feito após a aula prática pela equipe que a realizou e entregue na aula seguinte;
+# Rever os tópicos abordados em aula, estudar os conceitos e conteúdos teóricos no contexto de cada prática, buscar em outras fontes de literatura novas informações sobre os tópicos abordados na sala de aula;
+# Avaliações teóricas e práticas distribuídas ao longo do curso;
+# Intervenção e reflexão sobre os experimentos durantes as aulas práticas, questionando o professor eventuais dificuldades no entendimento dos conceitos e conteúdos abordados;
+# Interação com os conceitos descritos em outras disciplinas teóricas e experimentais que fazem parte do eixo integrador multidisciplinar do curso;
+# Contribuição para o aperfeiçoamento da disciplina ministrada, bem como a sua inserção no contexto prático da aprendizagem, foco do curso.
+# Consultar periodicamente a página eletrônica do Professor para o download de listas de exercícios e outros materiais de leitura disponíveis;
+# Assinar a lista de presença.
 
 h1. Recursos A Serem Utilizados.
 
-
+Lousa, multimídia e instrumentação de química.
 
 h1. Procedimentos de Avaliação do aprendizado dos alunos
 
+Serão realizadas 2 provas teóricas e/ou experimentais, sendo obtido um valor médio (NP). Será feita a avaliação dos relatórios sendo previstos 10 relatórios e uma nota média (NR) dos mesmos. Também será avaliado periodicamente o comportamento de cada aluno no laboratório bem como uma avaliação antes da aula com duração aproximadamente 10 minutos com o objetivo de verificar se o aluno se preparou previamente para a prática. A média dessa nota será computada (NC).
 
+Os critérios de avaliação do relatório serão:
+# elaboração correta de laboratório conforme instrução do professor;
+# referências e citações corretas evitando o plágio;
+# coerência e organização na discussão dos resultados.
+
+Os critérios de avaliação do comportamento em laboratório serão:
+# pontualidade e assiduidade;
+# responsabilidade;
+# cooperação e respeito com a equipe, demais colegas, técnicos e professores;
+# uso dos equipamentos/vestimentas de segurança e manuseio em locais adequados para substâncias perigosas;
+# uso adequado e cuidadoso dos equipamentos e materiais de laboratório;;
+# organização do caderno de laboratório;
+# organização da bancada de trabalho durante e após o término do experimento.
+
+Os critérios para avaliação teórico-prática serão:
+# uso coerente dos conceitos de química na resolução do problema;
+# apresentação do valor numérico correto na resposta;
+# uso adequado de algarismos significativos
+# aplicação correta da análise dimensional na resolução de exercícios numéricos e) responsabilidade
+# cooperação e respeito com a equipe, demais colegas, técnicos e professores
+# uso dos equipamentos/vestimentas de segurança e manuseio em locais adequados para substâncias perigosas
+# uso adequado e cuidadoso dos equipamentos e materiais de laboratório e
+# organização da bancada de trabalho durante e após o término do experimento.
 
 h2. Nota.
 
-
+A média final (MF) será dada pela soma da média NP com peso de 60% mais as NR com peso de 30% e NC com peso de 10%. Fica aprovado o aluno que possuir freqüência de aulas maior que 75% e obtiver média final superior ou igual a 6,0.
 
 h2. SAC.
 
-
+Não está prevista a aplicação do SAC nesta disciplina devido ao caráter de aprendizado e avaliação contínua da mesma. 
 
 h2. Freqüência.
 
-
+A freqüência mínima é de 75%.
 
 h1. Bibliografia.
 
-# Bibliografia 01;
-# Bibliografia 02;
-# ...;
+h2. Básica.
 
-h1. Observações.
+# Brown, L. T., Lemay Jr, H.E., Bursten, B.E., Burdge, J.R., Química a Ciência Central, Pearso, 2005.
+# Kotz, J. C., Treichel, P. J., Química e reações químicas, vol 1 e 2. Tradução da 3ª. Edição Saunders College Publishing. Prof. Horácio Macedo, Livros Técnicos e Científicos Ed. 1998.
+# Russel, J.B., Química Geral. Vol. 1 e 2, 2ª. Ed. São Paulo, McGraw-Hill, 1992.
+# Constantino, G.M., Da Silva, G.V.J., Donate, M.P., Fundamentos de Química Experimental, Edusp, 2004.
+# Silva, R. R., Bocchi, N., Rocha-Filho, R.C., Introdução à química experimental, McGraw-Hill, São Paulo, 1990.
+# Giesbrecht, E., et. al., Experiências de Química, PEQ-Projetos de Ensino de Química, Editora Moderna-Universidade de São Paulo, São Paulo, 1979. ;
 
+h2. Complementar.
+
+Não se aplica.

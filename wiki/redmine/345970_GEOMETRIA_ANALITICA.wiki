@@ -1,0 +1,125 @@
+h1. Turma/Disciplina.
+
+*ID*: 345970;
+*Discilina*: GEOMETRIA ANALÍTICA;
+*Turma*: C;
+*Cursando em*: 2011/1;
+
+h1. Professor Responsável.
+
+ADILSON JOSE VIEIRA BRANDAO - adilsonvb@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: 36;
+*Horário*: 18hrs - quinta-feira;
+
+h1. Objetivos Gerais da Disciplina.
+
+* Ao final da disciplina os alunos deverão ser capazes de intepretar conceitos matemáticos básicos no plano e no espaço, com ênfase nos seus aspectos geométricos e suas traduções em coordenadas cartesianas;
+* Reconhecer, identificar e representar curvas planas e superfícies.
+
+h1. Ementa da Disciplina.
+
+* Matrizes e sistemas lineares;
+* Conceito de vetor e aplicações.
+* Produtos de vetores.
+* Elementos básicos de coordenadas cartesianas.
+* Equações de retas e planos e propriedades.
+* Estudo de cônicas e quádricas.
+* Aplicações;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|4|0|0|4|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+Os tópicos serão divididos em 17 semanas, cada semana contendo 4 horas-aula de 53 minutos cada.
+# Calourada;
+# Apresentação da disciplina; Matrizes: definição e tipos;
+# Matrizes: propriedades básicas e aplicações;
+# Sistemas Lineares: Definição e Métodos de resolução;
+# Inversão de Matrizes e Determinantes;
+# Revisão da matéria e 1a. Prova;
+# Vetores: definição, conceitos básicos e representações;
+# Propriedades vetoriais; adição e subtração de vetores; multiplicação por escalar;
+# Norma de um vetor, produto vetorial. Propriedades
+# Equações de reta;
+# Equações de plano;
+# Revisão da matéria e 2a. Prova;
+# Retas e Planos: ângulos e distâncias;
+# Retas e Planos: posição relativa;
+# Seções Cônicas;
+# Superfícies Quádricas;
+# Revisão e 3a. Prova.
+
+h1. Objetivos Específicos
+
+# Compreender o conceito de matriz e suas implicações para a representação vetorial;
+# Resolver sistemas lineares;
+# Interpretar os conceitos de vetor e suas propriedades básicas, através de sua aplicabilidade em diferentes áreas do conhecimento.
+# Ser capaz de classificar as equações de reta e plano em suas diferentes formas.
+# Compreender os conceitos de seções cônicas e superfícies quádricas, bem como conhecer suas equações. 
+
+h1. Estratégias de Ensino.
+
+Aulas expositivas. Demonstrações em sala envolvendo alguns conceitos fundamentais. Uso da interpretação geométrica, como recurso de visualização dos conceitos. Exercícios visando aprofundar a compreensão o conhecimento do aluno. Utilização de apoio computacional e do ambiente de aprendizagem Moodle, com orientação do professor.;
+
+h1. Atividades dos Alunos.
+
+Participação nas aulas, resolução de exercícios propostos. Provas escritas e individuais, exercícios individuais e/ou em grupos, em classe e extra-classe.
+
+h1. Recursos A Serem Utilizados.
+
+Recursos multimídia: se disponível, datashow e programas gráficos de software livre como o Winplot. Livros (ver Bibliografia) e ambiente de aprendizagem Moodle.
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Três avaliações presenciais, individuais, escritas e sem consulta (P1, P2, P3).
+
+A divulgação dos resultados das provas ocorrerá durante o período letivo de modo a propiciar ao estudante o acompanhamento de seu desempenho na disciplina.
+
+h2. Nota.
+
+A nota final NF será a média aritmética simples entre P1, P2 e P3.
+Se o aluno tiver frequência inferior a 75% o aluno será reprovado por falta.
+Se o aluno tiver frequência maior ou igual a 75%:
+Se a Nota Final for maior ou igual a 6.0 o aluno está aprovado. Se a Nota Final for estritamente menor do que 6.0 e maior ou igual a 5.0, então o aluno estará apto a realizar uma prova por meio do Sistema de Avaliação Complementar. Caso a Nota Final do aluno seja estritamente menor do que 5.0, então ele está reprovado.
+
+h2. SAC.
+
+Os alunos com Nota Final estritamente menor do que 6.0 e maior ou igual do que 5.0 terão direito a uma prova por meio do Sistema de Avaliação Complementar, a ser realizada no início do semestre subseqüente, em data a ser definida por meio de acordo entre o professor e aluno. Esta prova conterá todo o conteúdo letivo do semestre. Se a nota dessa avaliação for maior ou igual e 6,0, a mesma substituirá a Nota Final e o aluno será considerado aprovado.
+
+h2. Freqüência.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# BOULOS, P.; CAMARGO, I. Geometria Analítica - Um Tratamento Vetorial. Rio de Janeiro: McGraw-Hill, 1987.
+# CAROLI, A.; CALLIOLI, C. A.; FEITOSA, M.O. Matrizes, Vetores e Geometria Analítica, 9ª ed. São Paulo: Nobel, 1978.
+# WINTERLE, P. Vetores e Geometria Analítica. São Paulo: Makron Books, 2000.
+
+h2. Complementar.
+
+# SANTOS, R.J. Matrizes, Vetores e Geometria Analítica: Imprensa Universitária da UFMG. Disponível online no endereço www.mat.ufmg.br/~regi/gaalt/gaalt1.pdf;

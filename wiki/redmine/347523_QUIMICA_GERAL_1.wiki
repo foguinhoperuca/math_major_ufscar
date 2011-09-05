@@ -1,0 +1,162 @@
+h1. Turma/Disciplina.
+
+*ID*: 347523;
+*Discilina*: QUIMICA GERAL 1;
+*Turma*: ;
+*Cursando em*: 2011/1;
+
+h1. Professor Responsável.
+
+Thiago Nogueira - nthiago@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: ?;
+*Horário*: ?;
+
+h1. Objetivos Gerais da Disciplina.
+
+O aluno será capaz de conhecer os princípios e conceitos básicos de química. O curso inicial de química deverá permitir o estudante tomar consciência do papel central desempenhado pela química entre as ciências e também da sua importância para o dia a dia. Além disso, deve permitir as capacidades de raciocínio analítico e solução de problemas.
+
+h1. Ementa da Disciplina.
+
+* Introdução;
+* Matéria e medidas;
+* ÁTomos, moléculas e íons;
+* Estrutura atômica;
+* Estrutura eletrônica;
+* Ligações químicas;
+* Tabela periódica e algumas propriedades dos elementos;
+* Estequiometria e equações químicas;
+* Reações em solução aquosa;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|4|0|0|4|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# INTRODUÇÃO À QUÍMICA, MATÉRIA E MEDIDAS: (2 AULAS)
+## Método científico;
+## Estados da matéria;
+## Misturas heterogêneas e homogêneas;
+## Medidas, conversão de unidades;
+## Conceitos de temperatura e densidade;
+## Notação científica e análise dimensional;
+## Aplicações.
+# ÁTOMOS, MOLÉCULAS, ÍONS E OUTROS COMPOSTOS: (3 AULAS)
+## Introdução aos modelos atômicos;
+## Propriedades físicas e químicas;
+## Microestrutura da matéria;
+## Introdução à nomenclatura de compostos orgânicos e inorgânicos.
+# ESTRUTURA DE ÁTOMOS E MOLÉCULAS: (6 AULAS)
+## Radiação eletromagnética;
+## Espectro de luz- exemplos;
+## Dualidade onda-partícula da luz e suas propriedades;
+## Princípios de exclusão de Pauli;
+## Spin de elétrons;
+## Configuração eletrônica de átomos.
+# TABELA PERIÓDICA E ALGUMAS PROPRIEDADES DOS ELEMENTOS: (3 AULAS)
+## Apresentação da tabela periódica, formas de representação;
+## Propriedades da tabela periódica.
+# LIGAÇÕES QUÍMICAS: (4 AULAS)
+## Representação geométrica de átomos, moléculas e íons;
+## Tipos de ligação e regras;
+## Teorias das ligações e orbitais;
+## Propriedades das ligações químicas.
+# ESTEQUIOMETRIA E EQUAÇÕES QUÍMICAS: (6 AULAS)
+## Unidades de medida e análise dimensional;
+## Formulações químicas;
+## Definições de peso e número atômico, mol e número de Avogadro;
+## Equações químicas;
+## Balanceamento/Métodos;
+## Aplicações e exercícios.
+# REAÇÕES EM SOLUÇÃO AQUOSA: (6 AULAS)
+## Íons e tipos de eletrólitos;
+## Solubilidade de íons em solução aquosa;
+## Reações de precipitação;
+## Ácidos e bases e suas reações;
+## Reações de óxido-redução;
+## Aplicações.
+
+Observação: 1 aula equivale a 2 horas. Total = 30 aulas/ 60 horas.
+
+h1. Objetivos Específicos
+
+Este curso explora alguns princípios fundamentais da química e seus aspectos práticos na vida cotidiana. Tem como objetivo específico trazer ao estudante conceitos químicos fundamentais por abordagens teóricas e conduzindo-o a inter-relação entre o universo macroscópico e o universo microscópico. Para isso será utilizado exemplos práticos extraídos da química interdisciplinar (incluindo o aspecto ambiental da química na sociedade)contextualizando-os com as questões do aprendizado.
+
+h1. Estratégias de Ensino.
+
+Durante a disciplina as aulas serão: dialogadas, baseadas em pesquisa; expositivas, entremeadas com projeções de multimídia e retro projeções quando pertinentes; trabalho em grupo orientado, quando a dificuldade do assunto ou de entendimento tornar necessário. Todas as aulas serão acompanhadas de exercícios propostos em sala de aula e listas para serem resolvidas em horário extraclasse, que serão discutidas em horário de atendimento do professor. Como motivação: aplicação dos conhecimentos teóricos, tanto na pesquisa como no aprendizado de química, serão discutidos.
+
+h1. Atividades dos Alunos.
+
+A disciplina estará inserida em um contexto multidisciplinar integrador das áreas de ciências exatas e biológicas. Portanto os alunos terão como atividades distribuídas os tópicos descritos a seguir:
+* Participação nas aulas expositivas com leitura prévia dos textos;
+* Avaliações teóricas distribuídas ao longo do curso;
+* Intervenção dos alunos nos conceitos e conteúdos apresentados;
+* Interação com os conceitos descritos em outras disciplinas teóricas e experimentais que fazem parte do eixo integrador multidisciplinar do curso;
+* Reflexão sobre o que foi aprendido e contribuição para o aperfeiçoamento da disciplina ministrada, bem como a inserção no contexto prático da aprendizagem.
+
+
+h1. Recursos A Serem Utilizados.
+
+Aulas dialogadas e expositivas com uso da lousa, projetor de vídeo multimídia e/ou projeções de transparências com retroprojetor. Poderá ser utilizado o sistema Moodle para o acompanhamento dos alunos, acesso à bibliografia especializada, desenvolvimento extracurricular e melhor avaliação do seu rendimento ao longo do semestre.
+
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+As avaliações dos conteúdos teóricos serão realizadas em 03 momentos ao longo do semestre, para as quais serão atribuídas as notas A1, A2 e A3.
+Avaliação Extra (AE): aspectos cognitivos, procedimentais e atitudinais serão avaliados periodicamente em sala de aula através de exercícios propostos com valor máximo de 1 ponto. Esta nota de avaliação será acrescentada a média final.
+O aluno será considerado aprovado se obtiver simultaneamente:
+* 75% de freqüência,
+* nota final igual ou superior a 6,0 (seis).
+
+h2. Nota.
+
+A nota desta avaliação será atribuída através da média aritmética das notas obtidas em cada uma (A1, A2 e A3):
+<pre><code class="ruby">
+  Nota final = (A1+A2+A3)/3 + AE
+</code></pre>
+
+h2. SAC.
+
+O aluno que não obtiver nota suficiente para ser aprovado poderá fazer uma avaliação substituindo a de menor rendimento.
+Os estudantes cujo desempenho mínimo ficar entre 5 e 5,9 terão direito a uma avaliação complementar (AC) a ser realizada em até 35 dias corridos ao semestre letivo seguinte. É importante salientar que esta avaliação será um processo em que outras habilidades serão consideradas. Esta será constituída de uma prova, de acordo com a análise de desempenho do discente durante a disciplina.
+
+h2. Freqüência.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# 1. Brown, T. L., LeMay, H. E., Bursten, B. E. e Burdge, J. R. Química a ciência central. Vol. 1 e 2. Editora Pearson/Prentice Hall, 9ª Edição, 2005, 992p. ISBN-13: 9788587918420 - ISBN-10: 8587918427
+# Atkins, P.; Jones, L. Princípios de química: questionando a vida moderna e o meio ambiente. Editora Bookman, 2001.
+# Kotz, J. C.; Treichel J. R., Paul, M. Química Geral e Reações Químicas. Vol. 1 e 2. Editora Thomson Pioneira, 1ª. Edição, 2005.
+# Mahan, B. M., Myers, R. J., Química: um Curso Universitário, Editora: Edgard Blucher, 4ª. Edição, 1986.
+# Russell, J. B., Química Geral - Vol. 1 e 2, Editora: Makron Books, 2ª. Edição, 1994.
+# BRADY, J.E., HUMISTON, G.E. - Química Geral. Rio de Janeiro, LTC-Livros Técnicos e Científicos Editora S.A., 1990.
+
+h2. Complementar.
+
+# SPENCER, J. N., G. M. BODNER, AND L. H. RICKARD. Chemistry: Structure and Dynamics. 2nd ed. 3 vols. New York: Wiley, February 22, 2002. ISBN: 9780471419211
+# PAULING, L. General Chemistry. 1ª Ed. California: Dover Science Ed. 1988. 992p. ISBN: 0486656225;

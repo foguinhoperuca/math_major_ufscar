@@ -1,0 +1,116 @@
+h1. Turma/Disciplina.
+
+*ID*: 349640;
+*Discilina*: Biologia Geral;
+*Turma*: A;
+*Cursando em*: 2011/1;
+
+h1. Professor Responsável.
+
+CLEONI DOS SANTOS CARVALHO - san-cleo@ufscar.br, carvcleo@yahoo.com.br
+
+h1. Objetivos Gerais da Disciplina.
+
+Análise da organização da vida em seu aspecto celular e molecular e a relação dessa organização com os fatores abióticos do meio. Relacionar a organização orgânica celular e molecular com a transmissão da informação genética e a geração de biodiversidade.
+
+h1. Ementa da Disciplina.
+
+Estrutura, composição química, forma e função da matéria viva. hierarquia organizacional da célula ao ecossistema. Relações da organização orgânica com o meio físico-químico. formas de vida, ocorrência e distribuição no meio. Ciclo celular, ciclos biogeoquímicos, ciclos biológicos, ritmos e sucessão ecológica. condições químicas e físicas para a sobrevivência, competição, crescimento e reprodução dos seres vivos. Geração da biodiversidade nos diversos níveis de organização da vida.
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|1|1|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Requisitos recomendados aos alunos de graduação:
+
+h1. Tópicos/Duração.
+
+# Introdução à Biologia Geral: História de Biologia Celular e Molecular. A célula, características gerais. (2 h).
+# Célula eucariótica: suas principais partes. (2 h).
+# Célula eucariótica: organização (núcleo) e suas organelas. (2 h).
+# Características comparativas entre células procariontes e eucariontes animais e vegetais. (2 h).
+# Introdução à organização molecular da célula e seus componentes químicos (ácidos nucléicos, hidratos de carbono, lipídeos, proteínas e enzimas, água, minerais). (2 h).
+# Formas de vida, ocorrência e distribuição no meio: distribuição dos seres vivos sobre a superfície do globo; composição das floras e faunas viventes ou fósseis, o determinismo e as conseqüências desta composição. (3 h).
+# Ciclo celular. (3 h).
+# Ciclos biogeoquímicos: ciclo da água, do carbono, do nitrogênio e do oxigênio. (2 h).
+# Ciclos biológicos, ritmos e sucessão ecológica. Fenômenos de flutuações, ritmos e sucessão ecológica. Relações, integração e evolução de sistemas tróficos. (3 h).
+# Condições químicas e físicas para a sobrevivência, competição, crescimento e reprodução dos seres vivos. Fatores que interferem no crescimento das populações. (3h).
+# O conjunto dos seres vivos do ecossistema e das relações entre eles. Interações entre o clima e topografia. (3 h).
+# Geração da biodiversidade nos diversos níveis de organização da vida. (3 h).
+
+h1. Objetivos Específicos
+
+Compreender que a célula é a estrutura dos organismos vivos e envolver este conhecimento no processo histórico do conhecimento da célula. Reconhecer os diferentes tipos celulares, suas estruturas, funções e relacioná-las com outras áreas de conhecimento que contribuem para a formação básica do estudante. Compreender que são necessárias as técnicas para o estudo da célula e aprender o funcionamento dos equipamentos e das técnicas utilizadas em biologia celular. Proporcionar ao aluno aquisição de conhecimento e noções gerais sobre evolução, origem da vida, citologia, microbiologia, respiração e fotossíntese. Estimular a conscientização sobre a importância dos conhecimentos adquiridos para manutenção da qualidade de vida dos seres vivos, inclusive do homem buscando fundamentação cientifica e condutas coerentes de compromissos sociais frente aos desafios da realidade cotidiana.
+
+h1. Estratégias de Ensino.
+
+Todos os tópicos de aula propostos no curso serão ministrados por exposição áudio-visual, com o incentivo a discussão. Buscando complementar os temas abordados, com um envolvimento mais efetivo com os estudantes, será realizada a discussão de artigos científicos (selecionado pelo docente). Essas discussões poderão ser conduzidas na forma de seminários. Poderá haver resolução de problemas, exercícios e solicitação de trabalhos de pesquisa extraclasse. Trabalho em grupo durante as práticas com a finalidade de troca de conhecimento entre os estudantes. Além disso, os estudantes contam com a assistência de estagiários (bolsistas REUNI) e monitores para viabilizar o conhecimento. 
+
+h1. Atividades dos Alunos.
+
+Participar das aulas teóricas (discussões em sala de aula); eventualmente, quando solicitado, entregar resumo das atividades teóricas desenvolvidas. Participar de aulas práticas e demonstrativas, redigir relatório das mesmas e dividir equitativamente as tarefas com os demais componentes do grupo. Interpretar fotomicrografias das células. Compreender a biologia através da apresentação aos métodos experimentais utilizados como observação e uso do microscópio óptico e estereomicroscopio. Utilizar a monitoria/estágio (bolsistas REUNI) para esclarecimentos de duvidas.
+
+h1. Recursos A Serem Utilizados.
+
+Aulas Expositivas, Seminários e Projetor multimídia, projetor de slides, projetor de transparências, softwares, vídeo, DVD e TV. Aulas demonstrativas e Práticas: material biológico e laminas permanentes, equipamentos de laboratório específicos para o ensino de biologia celular (microscópio óptico e estereomicroscopio). Utilização do sistema Moodle, estagiários (bolsistas REUNI) e monitoria voluntária para acompanhamento dos estudantes.
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+O processo de avaliação consistirá de:
+
+* 2 Avaliações Escritas: valendo 0 a 10 pontos cada (AE1 e AE2);
+* Relatórios (R), valendo 0 a 10. Os Relatórios de Aulas Práticas (R) deverão ser entregues na versão impressa.
+* Seminário (S) sobre tema específico da disciplina que envolve a célula, a saúde humana e de outros animais e/ou distúrbios ambientais, valendo 0 a 10.
+
+Os seguintes procedimentos para recuperação serão utilizados ao longo da disciplina: plantões de dúvidas, fornecimento de bibliografia complementar, fornecimento de roteiros de aula.
+Não há avaliação substitutiva.
+2/3 dos rendimentos aos discentes serão entregues antes de 30 dias corridos do final do semestre.
+
+h2. Nota.
+
+MF > ou = a 6,0 e freqüência > ou = a 75%: APROVADO
+MF > ou = a 5,0 e freqüência > ou = a 75%: SIST. DE AVALIAÇÃO COMPLEMENTAR*
+MF < 5,0 e/ou freqüência < 75%: REPROVADO
+<pre><code class="ruby">
+  Média Final (MF) = (2AE1 + 2AE2 + R + S)/6
+</code></pre>
+
+h2. SAC.
+
+Aplicado aos alunos que obtiverem média final > ou = a 5,0 e < que 6,0 e freqüência > ou = a 75%. Ocorrera após 35 dias seguidos do começo do primeiro semestre letivo subseqüente a pendência. Corresponderá a 1 (um) trabalho temático escrito versando sobre um tema relacionado aos conteúdos da disciplina (valendo 25% da nota - 0 a 2,5 pontos), 1 resumo esquemático (roteiro de estudo) de todo o conteúdo ministrado (valendo 25% da nota - 0 a 2,5 pontos) e 1 prova dissertativa (valendo 50% da média final - 0 a 5 pontos) envolvendo todo o conteúdo do curso. O aluno será considerado aprovado se obtiver somatória entre as notas das3 (três) avaliações maior ou igual a 6,0.
+
+h2. Freqüência.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# BURNIE, D. Evoluçao. A adaptaçao e a sobrevivencia dos seres vivos no planeta. 1ª ed. Ed. Publifolha, 2008.
+# CORAZZINI, R. & RUBIO, P. & COVRE COIMBRA, M. & et al., Origem da Vida: Criação ou Evolução?, A - 2 grau. Ed. Do Brasil. 2000.
+# DE ROBERTIS, E.D.P. & DE ROBERTIS, E.M.F. Bases da biologia celular e molecular. 4ª ed., Guanabara Koogan. 2006.
+# JUNQUEIRA, L.C.U. & CARNEIRO, J. Biologia celular e molecular. 8ª ed., Guanabara Koogan. 2005.
+# OPARIN, A. Origem da vida. Emesto Luiz Maia (Trad.). 8ª ed., São Paulo: Global Editora, 1982. 102 p.
+# WILSON, E.O. (org.) Biodiversidade. São Paulo: Nova Fronteira. 1997.
+
+h2. Complementar.
+
+# ALBERTS, B. et al. Fundamentos de Biologia Celular ? Uma Introdução à Biologia Molecular da Célula, Editora Artes Médicas, Porto Alegre, RS. 1999.
+# BERKALOFF, A. et al., Biologia e Fisiologia Celular. São Paulo: Edgard Blucher, 1975. 288p.
+# DE ROBERTIS, E.M.F. Fundamentos de biologia celular e molecular. 3ª ed., Rio de Janeiro; Guanabara Koogan. 2001.

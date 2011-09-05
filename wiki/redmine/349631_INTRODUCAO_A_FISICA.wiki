@@ -1,0 +1,115 @@
+h1. Turma/Disciplina.
+
+*ID*: 349631;
+*Discilina*: INTRODUÇÃO À FÍSICA;
+*Turma*: A;
+*Cursando em*: 2011/1;
+
+h1. Professor Responsável.
+
+Tersio Guilherme de Souza Cruz -  tersio@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: ?;
+*Horário*: ?;
+
+h1. Objetivos Gerais da Disciplina.
+
+Rever conceitos básicos da física, sem grande ênfase nas deduções matemáticas, focalizando a análise de aparatos e situações da vida cotidiana para motivar e contextualizar o estudo das leis da física.
+
+
+h1. Ementa da Disciplina.
+
+Conceitos básicos de mecânica clássica, propriedades da matéria, leis da termodinâmica, mecânica ondulatória, eletricidade e magnetismo.
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Requisitos recomendados aos alunos de graduação:
+
+h1. Tópicos/Duração.
+
+# Apresentação do curso; definição da ementa e bibliografia; (2 horas)
+# Apresentação de mapa conceitual com as divisões de área da Física contemporânea; (2 horas)
+# Física antes do século XVII: relações entre física, química, matemática e biologia; (2 horas)
+# Galileu e o método científico: surgimento dos modernos métodos de pesquisa; (2 horas)
+# Newton e as leis da mecânica clássica: relações e aplicações; (4 horas)
+# A evolução da Física com Euler, Lagrange e Hamilton; (2 horas)
+# Eletricidade; (2 horas)
+# Magnetismo; (2 horas)
+# Maxwell e o surgimento do Eletromagnetismo; (4 horas)
+# Contextualização da Física no final do século XIX; (2 horas)
+# Planck e o inicio da quantização; (2 horas)
+# Princípios de mecânica quântica; ( 2 horas)
+# Princípios de relatividade; (2 horas) 
+
+h1. Objetivos Específicos
+
+Apresentar aos alunos uma visão crítica da Física e suas inter-relações entre as outras áreas do conhecimento, em especial entre a Matemática, a Química e a Biologia. Além disso, inter-relacionar as diferentes áreas da própria Física numa tentativa de evitar a compartimentalização do conhecimento.
+
+h1. Estratégias de Ensino.
+
+Aulas expositivas; filmes e demonstrações em sala envolvendo alguns conceitos fundamentais.
+
+h1. Atividades dos Alunos.
+
+Participação das aulas expositivas e interação com o professor no sentido de sanar dúvidas e aprofundar sua compreensão acerca do conteúdo discutido. Participação no desenvolvimento das atividades propostas pelo professor para a turma
+
+h1. Recursos A Serem Utilizados.
+
+Sala de aula devidamente equipada com lousa, computador, tela de projeção e data-show.
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Serão realizadas duas provas (P1 e P2).
+Caso NF seja maior ou igual que 6.0 o aluno está aprovado. Caso NF seja menor que 5.0 o aluno está reprovado. Caso NF seja maior ou igual a 5.0 e menor que 6.0, o aluno deverá realizar a Avaliação Complementar (SAC). Esta Avaliação Complementar consistirá de uma prova escrita realizada em até uma semana após a data da última prova do semestre. Neste caso a nota final do aluno será a média aritmética entre a média obtida no semestre e a nota do SAC.
+A divulgação dos resultados das avaliações estará distribuída ao longo período letivo de modo a propiciar ao aluno o acompanhamento de seu desempenho no transcorrer do período letivo.
+Não haverá "prova substitutiva".
+
+h2. Nota.
+
+O aluno será aprovado quando obtiver nota igual ou superior 6 e frequancia igual ou superior 75%;
+<pre><code class="ruby">
+  Nota Final: NF=(P1+P2)/2
+</code></pre>
+
+h2. SAC.
+
+Terá direito ao Sistema de avaliação complementar o aluno que atingir nota superior a 5 e inferior a 6 e a frequecia igual ou superior 75%. A prova SAC consistirá de uma prova teórica aboradando todo o conteúdo da disciplina.
+
+h2. Freqüência.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# Hewitt, Paul. Física Conceitual. 9a Edição. Editora Bookman, 2002.
+# R.M. Hazen e J. Trefil, Física Viva, Editora LTC, 2006.
+
+h2. Complementar.
+
+# CHERMAN A, Sobre os Ombros de Gigantes: Uma Historia da Física, Jorge Zahar., 2004.
+# CBPF, Centro Brasileiro de Pesquisas Físicas, 12 Desafios da Física para o Século 21, Ed. CBPF, 2006.
+# SILVA, C. C. (org), Estudos de Historia e Filosofia da Ciências: Subsídios para Aplicação no Ensino, Ed. Livraria da Física, 2006.
+# LOPES, J. L., Uma Historia da Física no Brasil, Ed Livraria de Física, 2004.
+# FEYNMAN, R. P., Física em 12 Lições, Fáceis e não tão Fáceis, Ediouro, 2005.
+# GREF, GREF: Leituras de Física Universidade de São Paulo. 2ª ed., 2007. Disponível em http://cenp.edunet.sp.gov.br/fisica/gref. ;
