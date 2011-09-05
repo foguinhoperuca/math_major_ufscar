@@ -1,0 +1,126 @@
+h1. Turma/Disciplina.
+
+*ID*: 341282;
+*Discilina*: FÍSICA GERAL 1;
+*Turma*: A;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+SANDRO MARCIO RODRIGUES MICHELETTI  -  smicheletti@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: 51;
+*Horário*: 17h30m - quinta-feira;
+
+h1. Objetivos Gerais da Disciplina.
+
+Oferecer uma formação básica em mecânica clássica, introduzindo conceitos fundamentais da física newtoniana com uma formulação rigorosa e com auxílio da álgebra e do cálculo diferencial e integral.
+
+h1. Ementa da Disciplina.
+
+* Cinemática (1D, 2D E 3D);
+* Leis de Newton;
+* Trabalho e energia;
+* Conservação da energia, sistemas de partículas e conservação do momento linear (impulso e colisões);
+* Movimento rotacional (momento de inércia, torque e conservação do momento angular);
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|4|0|0|4|
+
+h1. Requisitos da Disciplina.
+
+341258 OU 344001 OU 082210 OU 082015 OU 089109 OU (082619 E 082627) OU 342009 OU 342211 OU 341258 OU 340456
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# Grandezas e unidades físicas (2h);
+# Cinemática em uma dimensão (4h);
+# Cinemática em duas e três dimensões (6h);
+# Leis de Newton (8h);
+# Trabalho e energia mecânica (4h);
+# Forças conservativas e energia potencial - conservação da energia (6h);
+# Sistemas de muitas partículas - conservação do momento (6h);
+# Colisões (6h);
+# Rotações (6h);
+# Torque e momento de inércia (6h);
+# Conservação do momento angular (6h);
+
+
+h1. Objetivos Específicos
+
+* Apresentar os conceitos fundamentais da mecânica clássica e suas aplicações, bem como os princípios da conservação do momento linear, da energia mecânica e do momento angular;
+* Apresentar exemplos de aplicação dos conceitos estudados no dia a dia;
+
+h1. Estratégias de Ensino.
+
+# Aulas expositivas;
+# Demonstrações em sala envolvendo alguns conceitos fundamentais;
+# Resolução de exercícios em sala;
+# Encaminhamento de listas de exercícios.;
+
+h1. Atividades dos Alunos.
+
+# Participação nas aulas;
+# Estudar as referências propostas;
+# Resolução dos exercícios propostos;
+
+h1. Recursos A Serem Utilizados.
+
+* Quadro branco ou negro;
+* Projetor multimídia;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+A avaliação será feita através de 3 provas e de listas de exercícios. Haverá também uma prova substitutiva, abrangendo todo o conteúdo do semestre.
+
+* O aluno estará aprovado se a média final for maior ou igual a 6.0 e tiver frequência mínima de 75% nas aulas.
+* O aluno que obtiver média final entre 5.0 e 5.9, inclusive, e tiver frequência mínima de 75%, terá direito a avaliação complemtentar.
+* O aluno que obtiver média final menor que 5.0 ou frequência menor que 75%, estará reprovado.
+
+
+h2. Nota.
+
+<pre><code class="ruby">
+  MF = 0,85*MP + 0,15*ML
+</code></pre>
+onde:
+* MP = nota média das três maiores entre as notas das quatro provas (as três provas regulares e a substitutiva).
+* ML = nota média das listas de exercícios.
+
+h2. SAC.
+
+A avaliação complementar consistirá de uma prova a ser aplicada duas semanas após o término das aulas, cujo conteúdo abrangerá todo o conteúdo do curso, e a média final após a avalição complementar será dada pela média aritmética entre a nota da prova de avaliação complementar e a média do semestre.
+
+h2. Freqüência.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# M. Nussenzveig, Curso de Física Básica vol. 1, 4ª Edição, Editora Edgard Blücher (2002).
+# D. Halliday, R. Resnick, J. Walker, Fundamentos de Física vol. 1, 7ª Edição, Editora LTC (2005).
+# H. D. Young, R. A. Freedman, Física vol. 1 - Sears e Zemansky, Pearson (2006).
+# R. Serway, J. W. Jewett Jr., Princípios de Física vol. 1, Pioneira Thomsom Learning (2004).
+# P. Tipler, Física para Cientistas e Engenheiros vol. 1, 5ª Edição, Editora LTC (2006).;
+
+h2. Complementar.
+
+não se aplica.

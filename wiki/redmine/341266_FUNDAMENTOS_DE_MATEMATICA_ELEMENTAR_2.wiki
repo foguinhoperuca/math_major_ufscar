@@ -1,0 +1,147 @@
+h1. Turma/Disciplina.
+
+*ID*: 341266;
+*Discilina*: FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 2;
+*Turma*: M;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+ADILSON JOSE VIEIRA BRANDAO - adilsonvb@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: 36;
+*Horário*: 18hrs - quinta-feira;
+
+h1. Objetivos Gerais da Disciplina.
+
+Dar continuidade às atividades da disciplina Fundamentos de Matemática Elementar 1. Revisar e aprofundar temas da Matemática elementar e sua aplicabilidade.
+
+h1. Ementa da Disciplina.
+
+* Números complexos;
+* Polinômios;
+* Equações algébricas em uma incógnita;
+* Análise combinatória;
+* Introdução à Matemática Financeira;
+* Aplicações;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|4|0|0|4|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# NÚMEROS COMPLEXOS (12 horas)
+## Conjunto dos números complexos
+## Operações (adição, subtração, multiplicação e divisão) de números complexos
+## Estrutura de corpo do conjunto dos números complexos
+## Forma algébrica
+## Conjugados complexos, valores absolutos, forma polar
+## Potência de números complexos
+## Raizes n-ésimas de números complexos
+# POLINÔMIOS (12 horas)
+## Conjunto de polinômios
+## Operações de adição, subtração e multiplicação de polinômios
+## Grau de um polinômio
+## Divisão de polinômios
+# EQUAÇÕES POLINOMIAS EM UMA INCÓGNITA (12 horas)
+## Equações polinomiais
+## Relações entre coeficientes e raízes
+## Número de raízes e multiplicidade
+## Raízes racionais, reais e complexas de equações polinomiais
+# ANÁLISE COMBINATÓRIA (8 horas)
+## Principio fundamental de contagem
+## Arranjos
+## Permutações
+## Combinações
+# INTRODUÇÃO À MATEMÁTICA FINANCEIRA (16 horas)
+## Conceitos preliminares sobre Juros simples e compostos
+## Taxa real de juros
+## Equivalência de capitais a juros compostos
+## Amortização de empréstimos
+
+h1. Objetivos Específicos
+
+Desenvolver, formalmente, alguns conceitos da Matemática elementar, tais como: números complexos, polinômios, princípios de contagem e matemática financeira, bem como suas aplicações.
+
+h1. Estratégias de Ensino.
+
+# A estratégia será discutir e/ou expor, em sala de aula, os principais conceitos e resultados;
+# Trabalhos em grupos para discussão de problemas e exercícios propostos;
+# Atendimento aos estudantes fora do horário de aula para acompanhamento da aprendizagem;
+
+h1. Atividades dos Alunos.
+
+# Participar das aulas;
+# Estudar os assuntos discutidos em aula;
+# Discutir os exercícios e problemas propostos;
+# Fazer as avaliações;
+
+h1. Recursos A Serem Utilizados.
+
+* Livros (ver bibliografia);
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+A avaliação consistirá de:
+* Duas provas (de 2 horas/aula cada)
+* Listas de exercícios
+
+As provas serão escritas, individuais e sem consulta. As listas consistirão de exercícios ou problemas, ao longo do semestre, que poderão ser resolvidos em sala de aula (individual ou em grupo) ou em casa.
+A divulgação dos resultados dos diferentes procedimentos de avaliação estará distribuída no período letivo de modo a propiciar ao estudante a oportunidade de fazer o acompanhamento de seu desempenho e permitir a sua recuperação.
+
+O estudante:
+# Será APROVADO e sua NOTA FINAL será N, se tiver pelo menos 75% de presença nas aulas e N for maior ou igual que 6,0.
+# Será REPROVADO e sua NOTA FINAL será N, se tiver menos que 75% de presença nas aulas ou N for menor que 5,0.
+# Terá direito a fazer um EXAME COMPLEMENTAR se tiver pelo menos 75% de presença nas aulas e N for maior ou igual que 5,0 e menor que 6,0.
+
+h2. Nota.
+
+A cada avaliação será atribuída uma nota de 0 (zero) a 10 (dez). A nota final N do estudante, durante o semestre, será:
+
+<pre><code class="ruby">
+  N = 0,2*ML + 0,4*P1 + 0,4*P2
+</code></pre>
+
+onde ML denota a média aritmética das notas das listas, P1 denota a nota da primeira prova e P2 denota a nota da segunda prova
+
+h2. SAC.
+
+O exame complementar será aplicado até 35 dias após iniciado o período letivo 2012/01 e consistirá de uma lista de exercícios (a ser resolvida no período de férias) e uma prova escrita que será individual e sem consulta. Para os estudantes que fizerem o exame complementar a sua NOTA FINAL será 6,0 (e será aprovado) se a nota do exame complementar for maior ou igual a 6,0. Caso contrário, o estudante será reprovado e a sua NOTA FINAL será N.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# HAZZAN, S. Fundamentos de Matemática Elementar: Combinatória e Probabilidade, vol. 5. São Paulo: Atual Editora.
+# HAZZAN, S.; POMPEO, J.N. Matemática Financeira, 5a ed. São Paulo: Saraiva, 2001.
+# IEZZI, G. Fundamentos de Matemática Elementar: Números Complexos, Polinômios e Equações, vol. 6. São Paulo: Atual Editora, 1998.
+
+h2. Complementar.
+
+# FARO, C. Matemática Financeira. São Paulo: Editora Atlas,1982
+# LIMA, E.L.; CARVALLHO, P.C.P.; WAGNER, E., MORGADO, A.C. A Matemática do Ensino Médio. Vol. 1, 2 e 3 (Coleção do Professor de Matemática). Rio de Janeiro: Sociedade Brasileira de Matemática, 2006.
+# SAMANEZ, C.P. Matemática Financeira: Aplicações à Análise de Investimentos. São Paulo: Pearson Prentice Hall, 2007.

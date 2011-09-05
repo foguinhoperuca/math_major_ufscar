@@ -1,0 +1,124 @@
+h1. Turma/Disciplina.
+
+*ID*: 341290;
+*Discilina*: LABORATÓRIO DE FÍSICA 1;
+*Turma*: B;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+JOHNNY VILCARROMERO LOPEZ - jvlopez@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: Laboratório/Sala dos professores;
+*Horário*: segunda até 12hrs. Terça e quarta até 18hrs. Quinta e sexta a partir das 17hrs no laboratório;
+
+h1. Objetivos Gerais da Disciplina.
+
+* Treinar o aluno para desenvolver atividades em laboratório.
+* Familiarizá-lo com instrumentos de medidas de comprimento, tempo e temperatura.
+* Ensinar o aluno a organizar dados experimentais, a determinar e processar erros, a construir e analisar gráficos para que possa fazer uma avaliação crítica de seus resultados.
+* Verificar experimentalmente leis da Física.
+
+h1. Ementa da Disciplina.
+
+* Experiências de laboratório sobre: Cinemática (1D, 2D e 3D);
+* Leis de Newton;
+* Trabalho e Energia;
+* Conservação da Energia, Sistemas de Partículas e Conservação do Momento Linear (Impulso e Colisões);
+* Movimento Rotacional (Momento de Inércia, Torque e Conservação do Momento Angular);
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+341282
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Requisitos recomendados aos alunos de graduação:
+
+* Introdução às Práticas Laboratoriais;
+
+h1. Tópicos/Duração.
+
+# Instrumentos de medidas e avaliação de erros experimentais - 8h
+# cinemática - 4h
+# leis de Newton - 4h
+# conservação de energia - 4h
+# momento linear e colisões - 2h
+# dinâmica de rotação - 2h
+# Avaliações - 6h
+
+h1. Objetivos Específicos
+
+* possibilitar ao aluno a apreensão dos conceitos abordados em sala através de experimentos práticos realizados no laboratório de ensino.
+* observação e análise de fenômenos físicos, estimulando o raciocínio lógico dos alunos durante as aulas.
+* estimular a capacidade de síntese através de relatórios das aulas práticas, bem como avaliação das principais fontes de erro durante a aquisição de dados experimentais. 
+
+h1. Estratégias de Ensino.
+
+# Aulas expositivas e demonstrações envolvendo alguns conceitos fundamentais abordados durante as aulas práticas;
+
+h1. Atividades dos Alunos.
+
+# Participação nas aulas e avaliações, execução das práticas experimentais e elaboração de relatórios das aulas práticas;
+
+h1. Recursos A Serem Utilizados.
+
+* Computadores;
+* Instrumental básico das experiências propostas;
+* Apostilas;
+* Material suplementar fornecidos pelo curso. 
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+# Relatórios das aulas práticas (R = média aritmética dos relatórios)
+# Avaliações em sala de aula (S = média aritmética das avaliações)
+
+A divulgação dos resultados das avaliações estará distribuída ao longo período letivo de modo a propiciar ao aluno o acompanhamento de seu desempenho no transcorrer do período letivo. Não haverá prova substitutiva para esse curso.
+
+h2. Nota.
+
+<pre><code class="ruby">
+  Nota final = 0,6.R + 0,4.S
+</code></pre>
+
+Caso a NF seja maior ou igual do que 6,0 o aluno está aprovado.
+Caso a NF seja estritamente menor que 6,0, o aluno está reprovado.
+
+h2. SAC.
+
+Avaliação Complementar: No período de 35 dias após o início do semestre seguinte os alunos com Nota Final (NF) no intervalo 5,0 > NF > 5,9 terão direito a realizar uma avaliação teorico-experimental sobre um tópico abordado durante o semestre. A nota dessa avaliação terá valor máximo a NF = 6,0.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de física. [Fundamentals of physics]. Ronaldo Sérgio de Biasi (Trad.). 8 ed. Rio de Janeiro: LTC, c2009. v.1 416 p;
+# VUOLO, J.H. Fundamentos da Teoria de Erros. 2a. ed.. São Paulo, Edgard Blücher Ltda., 1998. 249 p. ISBN 85-212-0056-0;
+# TIPLER, Paul A; Física para cientistas e engenheiros vol 1. Rio de Janeiro, Livros Técnicos e Científicos (LTC), 2002;
+
+h2. Complementar.
+
+# NUSSENZVEIG, Herch Moysés, 1933-. Curso de física básica. São Paulo: Edgard Blücher, 1998. v.1 437 p.
+# TREFIL, James S., 1938-; HAZEN, Robert M. Física viva: uma introdução à física conceitual. Ronaldo Sergio de Biasi (Trad.). Rio de Janeiro: LTC, 2006. v.1. xxi; 175p.
+# SERWAY, Raymond A. Física 4: para cientistas e engenheiros com física moderna. [Physics for scientists and engineers with modern physics]. Horacio Macedo (Trad.). 3 ed. Rio de Janeiro: LTC, c1996. xvii, 287 p. : il., grafs., tabs., fotografs. ISBN 9788521610731.
+# P.G. Hewit. Física Conceitual, São Paulo, Artmed - Bookman, 2002
+# H.D.Young, R.A. Freedman. Física (vol 1 e 2) Sears and Zemansky. Rio de Janeiro, Pearson, 2006

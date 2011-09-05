@@ -20,9 +20,7 @@ h1. Objetivos Gerais da Disciplina.
 
 h1. Ementa da Disciplina.
 
-* Ementa 01;
-* Ementa 02;
-* ...;
+* ;
 
 h1. Número de Créditos.
 
@@ -59,15 +57,12 @@ h1. Objetivos Específicos
 
 h1. Estratégias de Ensino.
 
-# Estratégia 01;
-# Estratégia 02;
-# ...;
+# ;
 
 h1. Atividades dos Alunos.
 
-# Atividade 01;
-# Atividade 02;
-# ...;
+# ;
+
 
 h1. Recursos A Serem Utilizados.
 
@@ -75,20 +70,21 @@ h1. Recursos A Serem Utilizados.
 
 h1. Procedimentos de Avaliação do aprendizado dos alunos
 
+
+
 h2. Nota.
+
 
 
 h2. SAC.
 
 
 
-h2. Frequencia.
+h2. Freqüência.
 
 
 
 h1. Bibliografia.
-
-Publicação (Procure usar normas ABNT)
 
 # Bibliografia 01;
 # Bibliografia 02;

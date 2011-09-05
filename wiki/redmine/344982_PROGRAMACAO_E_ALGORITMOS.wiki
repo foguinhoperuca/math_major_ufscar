@@ -1,0 +1,131 @@
+h1. Turma/Disciplina.
+
+*ID*: 344982;
+*Discilina*: PROGRAMAÇÃO E ALGORITMOS;
+*Turma*: M;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+ANTONIO AUGUSTO SOARES - aasoares@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: ?;
+*Horário*: ?;
+
+h1. Objetivos Gerais da Disciplina.
+
+Ao final da disciplina os alunos deverão ser capazes de:
+* Reconhecer os conceitos básicos e fundamentais necessários para o desenvolvimento de algoritmos;
+* Descrever uma tarefa em processos que possam ser traduzidos em um algoritmo;
+* Traduzir um algoritmo para uma linguagem de programação;
+
+h1. Ementa da Disciplina.
+
+* Algoritmos:
+** Conceito;
+** Representação formal;
+** Desenvolvimento estruturado;
+* Linguagem de programação:
+** Conceitos;
+** Tipos de dados e de controle;
+** Entrada e saída;
+** Aplicações com uso de computadores;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+A disciplina será ministrada em 15 encontros de 2 horas-aula cada segundo a programação a seguir:
+# Apresentação do curso. Conceito de algoritmo. Algoritmo como representação da solução de problemas. Exemplos e aplicações.
+# Metodologia de desenvolvimento de Algoritmos. Desenvolvimento de algoritmos. Lógica de programação. Pseudo-linguagem e seu uso na representação de algoritmos. Exemplos e aplicações.
+# Tipos de dados básicos. Variáveis. Constantes. Identificadores. Palavras reservadas. Operadores. Expressões. Instruções. Comandos de entrada e saída. Exemplos e aplicações.
+# Estruturas condicionais. Exemplos e aplicações.
+# Estruturas condicionais. Exemplos e aplicações.
+# Estruturas de repetição. Exemplos e aplicações.
+# Estruturas de repetição. Exemplos e aplicações.
+# Modularização de programas: procedimentos, funções, passagem de parâmetros. Recursividade.
+# Linguagem de programação: conceitos, tipos de dados e de controle, entrada e saída. Computação Científica: Introdução ao programa de computação numérica Matlab/Scilab.
+# Noções de programação no Matlab/Scilab.
+# Noções de programação no Matlab/Scilab.
+# Computação Científica.
+# Noções de programação.
+# Noções de programação.
+# Avaliação final da disciplina. Entrega e apresentação dos projetos
+
+h1. Objetivos Específicos
+
+# Desenvolver o raciocínio lógico e abstrato;
+# Discutir o processo de desenvolvimento de algoritmos (concepção, interpretação e teste);
+# Programar e simular alguns resultados matemáticos;
+
+h1. Estratégias de Ensino.
+
+# Aulas expositivas e práticas (lab. de informática);
+# Resolução de exemplos;
+
+h1. Atividades dos Alunos.
+
+# Realização de provas escritas e individuais;
+# Elaboração de trabalhos e efetiva participação duarante as atividades da disciplina;
+
+h1. Recursos A Serem Utilizados.
+
+* Quadro negro e giz;
+* Livros da bibliografia;
+* Datashow;
+* Laboratório de informática;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Duas provas escritas e individuais (P1 e P2) valendo 90% da nota final do semestre (NFS) e listas de exercício eou trabalhos (LE) valendo 10% da NFS.
+Caso a Nota Final(NFS) do aluno seja estritamente menor do que 5,0, então ele será reprovado.
+
+h2. Nota.
+
+<pre><code class="ruby">
+  NFS = 0,45*(P1+P2)+0,1*LE
+</code></pre>
+
+Caso a Nota Final (NFS) seja maior ou igual a 6,0 e a frequência mínima de 75%, o aluno será aprovado.
+
+h2. SAC.
+
+ Se a Nota Final (NFS) for estritamente menor do que 6,0 e maior ou igual a 5,0 e frequência mínima de 75%, então o aluno estará apto a realizar uma prova por meio do Sistema de Avaliação Complementar.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# VENDRAMETO JUNIOR, C. E. e ARENALES, S. H.V.. MATLAB - Fundamentos e Programação. São Carlos: EDUFSCar, 2007.
+# HANSELMAN, D.C., LITTLEFILED, B.C.. MATLAB 7 - Curso Completo. Prentice Hall Brasil, 2003.
+# OLIVEIRA, A. B. de; BORATTI, I. C.. Introdução à Programação - Algoritmos. Florianópolis: Editora Visualbooks, 1999.
+
+h2. Complementar.
+
+# SÉROUL, R.. Programming for Mathematicians. Springer-Verlag, 2000.
+# GANDER, W.. Como Resolver Problemas em Computação Científica usando Maple e Matlab - Tradução da 3a Edição, São Paulo: Editora Edgard Blücher Ltda;

@@ -1,0 +1,137 @@
+h1. Turma/Disciplina.
+
+*ID*: 341304;
+*Discilina*: FUNDAMENTOS DE ECOLOGIA;
+*Turma*: B;
+*Cursado em*: 2011/2;
+
+h1. Professor Responsável.
+
+ALBANO GERALDO EMILIO MAGRIN - albanomagrin@gmail.com
+
+h1. Atendimento.
+
+*Sala*: ?;
+*Horário*: ?;
+
+h1. Objetivos Gerais da Disciplina.
+
+Proporcionar uma compreensão ampla dos fatores biológicos e físicos, e suas inter-relações, que promovem a manutenção dos diferentes níveis hierárquicos da diversidade.
+
+h1. Ementa da Disciplina.
+
+* Hierarquia organizacional da célula ao ecossistema: caracterização e relações no meio físico-químico;
+* Visão geral dos componentes abióticos e fatores que afetam a distribuição dos organismos;
+* Relações, integração e evolução de sistemas tróficos;
+* Fenômenos de flutuações, ritmos e sucessão ecológica;
+* Conceitos básicos que estruturam a interpretação da Diversidade Biológica: espécies, populações e comunidades;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|0|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# Apresentação do curso, do plano de ensino e das estratégias de trabalho. O que é Ecologia? (2)
+# Hierarquia de níveis de organização: da célula ao ecossistema. (2)
+# Características do meio físico e químico e sua inter-relação com os organismos. (2)
+# A energia nos sistemas ecológicos. (4)
+# Ciclos biogeoquímicos e sua importância nos sistemas ecológicos. (2)
+# Fatores limitantes e o ambiente físico. (2)
+# Avaliação 1. (2)
+# Visão geral dos sistemas tróficos nos ecossistemas. (2)
+ Estrutura populacional, estratégias e padrões de distribuição. (2)
+# Desenvolvimento e evolução dos ecossistemas. (2)
+# Comportamento dos atributos dos ecossistemas nos processos de sucessão ecológica. (2)
+# Diversidade biológica frente aos impactos ambientais. (2)
+# Mudanças globais e sua influência nos sistemas ecológicos e na biodiversidade. (2)
+# Avaliação 2. (2) 
+
+h1. Objetivos Específicos
+
+Ao final da disciplina, espera-se que os alunos sejam capazes de:
+* Reconhecer alguns fundamentos de ecologia geral, identificando e caracterizando os diferentes fatores que interferem no equilíbrio ecológico.
+* Identificar o indivíduo como integrante de populações, caracterizando sua interação dinâmica nas comunidades, nos ecossistemas e na biosfera.
+* Discriminar os princípios que regem a preservação dos recursos naturais e os fatores que mantém a integridade dos ecossistemas.
+* Perceber e compreender os fenômenos naturais em diferentes escalas espaciais e temporais.
+* Discorrer acerca dos fenômenos ligados à evolução dos ecossistemas em termos de estrutura, função e diversidade biológica. 
+
+h1. Estratégias de Ensino.
+
+# Aulas teóricas expositivas e dialogadas, acompanhadas de material ilustrativo, incluindo filmes documentários de cunho científico;
+# Discussão de textos sobre temas atuais em ecologia em sala;
+# Proposição de fóruns de debates e exercícios via ambiente de aprendizagem Moodle;
+
+h1. Atividades dos Alunos.
+
+# Leitura e interpretação de textos sobre ecologia;
+# Resolução de exercícios em Ecologia Teórica (em grupos) em sala e disponibilizados via ambiente de aprendizagem Moodle (incluindo fóruns);
+# Elaboração e apresentação de seminários;
+
+h1. Recursos A Serem Utilizados.
+
+# Datashow, quadro branco e/ou lousa;
+# Filmes didáticos da série BBC Planeta Terra;
+# Literatura de apoio;
+# Textos e exercícios disponibilizados pelo ambiente de aprendizagem Moodle;
+# Atendimento a alunos com dúvidas fora do horário das aulas;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Será aprovado o aluno que obtiver MF igual ou maior que seis (6,0), além de 75% de freqüência.
+Durante o curso, os alunos com dificuldades de aprendizado serão atendidos fora do horário das aulas (atendimento regimental) e, se possível, por um monitor em horários adequados que não sobreponham com as aulas regulares. 
+
+h2. Nota.
+
+* Realização de 2 avaliações dissertativas teóricas (AT), com valor de 0,0 a 10,0. (Instrumento 1 e Instrumento 2) (peso 7).
+* Exercícios de aplicação (EA) feitos em grupos (Instrumento 3) (0,0 a 10,0 peso 1).
+* Seminários temáticos (ST) (entrega e apresentação) (instrumento 4) (0,0 a 10,0 peso 2).
+
+A média final (MF) será obtida pela média ponderada entre as avaliações teóricas, os exercícios de aplicação e a nota obtida nos seminários., conforme segue:
+<pre><code class="ruby">
+	   MF = [(Média ATx7)+(EAx1)+(STx2)]/10
+</code></pre>
+
+
+h2. SAC.
+
+Entre 5.0 e 5,9 o aluno terá direito à recuperação chamada de Avaliação Complementar. A Avaliação Complementar será baseada numa nova prova a ser realizada no início do semestre subseqüente. Na prova de avaliação complementar será cobrado todo o conteúdo abordado durante o semestre através de uma avaliação teórica. A prova da avaliação complementar será realizada dentro dos prazos estabelecidos pela legislação vigente.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+* BEGON, M.; TOWNSEND. C.R.; HARPER, J.L. Ecologia de indivíduos a ecossistemas (4 ed.). São Paulo: Artmed, 2007. (10)
+* ODUM, E.P. Ecologia (1 ed.). Rio de Janeiro: Guanabara, 1988. (17)
+* RICKLEFS, R.E. A economia da natureza (5 ed.). Rio de Janeiro: Guanabara-Koogan, 2003. (28) 
+
+
+h2. Complementar.
+
+* DAJOZ, R. Princípios de ecologia (7 ed.). São Paulo: Artmed, 2005.
+* FUTUYMA, D.J. 1992. Biologia evolutiva (2 ed.). Ribeirão Preto: Sociedade Brasileira de Genética / CNPq, 1992.
+* GLOSSÁRIO DE ECOLOGIA (2 ed. revista e ampliada). São Paulo: Publicação ACIESP no. 103, 1997.
+* PIANKA, E.R. Ecologia evolutiva. Barcelona: Omega, 1982.
+* PINTO-COELHO, R.M. Fundamentos em ecologia. São Paulo: Artmed, 2000.
+* TOWSEND, C.R.; BEGON, M.; HARPER, J.L. Fundamentos em ecologia (2 ed.). São Paulo: Artmed, 2006. 

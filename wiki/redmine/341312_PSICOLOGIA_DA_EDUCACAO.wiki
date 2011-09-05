@@ -1,0 +1,139 @@
+h1. Turma/Disciplina.
+
+*ID*: 341312;
+*Discilina*: PSICOLOGIA DA EDUCAÇÃO 1;
+*Turma*: B;
+*Cursando em*: 2011/2;
+
+h1. Professor Responsável.
+
+IZABELLA MENDES SANTANA  -  izabellams@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: ?;
+*Horário*: ?;
+
+h1. Objetivos Gerais da Disciplina.
+
+* Compreender as principais abordagens psicológicas do século xx, identificando-os na prática educacional e analisando suas decorrências no âmbito do aluno, do professor, da escola e da sociedade.
+
+h1. Ementa da Disciplina.
+
+* Abordagens psicológicas do século xx e implicações nas práticas educacionais atuais;
+* A psicologia, sociedade, sistema de ensino e educação;
+* Visão psicológica da concepção de homem, de conhecimento e de relações e transformações sociais;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# Psicologia e Educação: (4 horas)
+## Contextualização histórica;
+## Relações;
+## Perspectivas;
+## Tendências atuais;
+# Teorias psicológicas e suas implicações nas práticas educacionais (8 horas).
+## O Behaviorismo;
+## A Psicanálise;
+# Psicologia, sociedade e Educação: dificuldades e desafios presentes no sistema de ensino (10 horas).
+## O fracasso escolar:
+### causas (teoria do dom, teoria da carência cultural);
+### A crítica à culpabilização de alunos e famílias das classes populares;
+## Os transtornos da aprendizagem (TDAH e dislexia):
+### A medicalização de crianças e adolescentes;
+### A crítica ao processo de patologização da Educação;
+# Fatores intra e interpessoais do processo educativo: (8 horas)
+## A relação professor-aluno;
+### Indisciplina;
+### Autoridade;
+### A relação família-escola; 
+
+h1. Objetivos Específicos
+
+Ao final do curso os alunos deverão ser capazes de:
+# Compreender a história da Psicologia da Educação e reconhecer a importância desta área de conhecimento para a formação de professores;
+# Conhecer os princípios fundamentais das teorias psicológicas e suas contribuições para o âmbito educativo;
+# Identificar as diferentes perspectivas sobre o fracasso escolar e as dificuldades de aprendizagem, bem como analisar criticamente tais fenômenos enquanto processos complexos e multi-determinados;
+# Conhecer as características das relações interpessoais existentes nos contextos educativos, favorecendo a construção de estratégias facilitadoras de tais relações;
+
+h1. Estratégias de Ensino.
+
+# Aulas expositivas e dialogadas;
+# Análise e discussão de artigos científicos e capítulos de livro;
+# Estudos dirigidos de textos;
+# Exibição e discussão de vídeos;
+# Além de debates em grupo sobre os materiais sugeridos pela professora ou pelos alunos (artigos de jornais ou revistas, textos da internet, etc.);
+
+h1. Atividades dos Alunos.
+
+# As atividades dos alunos abrangem a leitura e discussão da bibliografia indicada;
+# A participação nos debates em grupo e na discussão dos vídeos apresentados;
+# A resolução de exercícios em grupo e individual e a realização de seminário;
+
+h1. Recursos A Serem Utilizados.
+
+* Textos;
+* Artigos científicos;
+* Capítulos de livros;
+* Vídeos e multimídia;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Serão utilizados três procedimentos de avaliação que serão quantificados em notas, compondo um total de 10 pontos:
+# O primeiro refere-se a um trabalho escrito e individual que valerá 4 pontos.
+# A segunda nota será atribuída a uma avaliação feita em grupo, com valor máximo de 3 pontos.
+# O terceiro procedimento envolve a realização de seminário, em grupos de alunos, cuja nota máxima será de 3 pontos.
+
+h2. Nota.
+
+A nota final será calculada pela somatória dos resultados obtidos em cada procedimento de avaliação. O aluno será considerado aprovado quando obtiver, simultaneamente, frequência igual ou superior a setenta e cinco por cento das aulas e/ou das atividades acadêmicas efetivamente realizadas e desempenho mínimo equivalente à nota final igual ou superior a 6,0. As duas primeiras notas serão divulgadas no decorrer do período letivo, possibilitando a todos os alunos o acompanhamento do seu desempenho no processo educativo.
+
+h2. SAC.
+
+Alunos que obtiverem média entre 5,0 e 5,9 serão considerados em recuperação e realizarão avaliação complementar (SAC). Tal avaliação será escrita e individual e ocorrerá em até 35 dias do semestre subsequente, conforme diretrizes contidas na portaria 522. O aluno em recuperação realizará as mesmas estratégias de avaliação, segundo os critérios descritos acima.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# PATTO, Maria Helena. A produção do fracasso escolar. História de submissão e rebeldia.São Paulo: T.A.Queiroz, 1990.
+# BECKER, F. Educação e construção do conhecimento. Porto Alegre: ArtMed, 2002.
+# SALVADOR, César Coll et al. Psicologia da educação. Porto Alegre: Artes médicas Sul, 1999.
+
+h2. Complementar.
+
+# BOCK, Ana Mercês, FURTADO, Odair,TEIXEIRA, Maria de Lourdes. Psicologias: uma introdução ao estudo de psicologia. São Paulo: Editora Saraiva, 2002.
+# CONSELHO REGIONAL DE PSICOLOGIA E GRUPO INTERINSTITUCIONAL QUEIXA ESCOLAR. Medicalização de crianças e adolescentes: conflitos silenciados pela redução de questões sociais a doenças de indivíduos. São Paulo: Casa do Psicólogo, 2010.
+# AQUINO, Julio (Org.). Indisciplina na escola: alternativas teóricas e práticas. São Paulo: Summus, 1996.
+# AQUINO, Julio (Org.). Autoridade na escola: alternativas teóricas e práticas. São Paulo: Summus, 1999.
+# GOULART, Iris. Psicologia da Educação: fundamentos teóricos e aplicações à prática pedagógica. 13 ed. Petrópolis: Vozes, 2007.
+# COLLARES, Cecília; MOYSÉS, Maria Aparecida. A transformação do espaço pedagógico em espaço clínico: a Patologização da Educação. Série Idéias n. 23. São Paulo: FDE, 1994 p.: 25- 31 [artigo científico] Disponível em: www.crmariocovas.sp.gov.br
+# COPETTI, Jordano. Dificuldades de aprendizado. Curitiba: Juruá, 2008.
+# KALMUS, Jaqueline, PAPARELLI, Renata. Para Além dos Muros da Escola: as repercussões do fracasso escolar na vida das crianças reprovadas. In: MACHADO, Adriana, SOUZA, Marilene (Orgs.). Psicologia Escolar: em busca de novos rumos. São Paulo: Casa do Psicólogo, 1997, p.153-181.
+# MORALES, Pedro. A relação professor-aluno: o que é, como se faz. São Paulo: Loyola, 1999.
+# ROTTA, Newra, OHLWEILER, Lygia; RIESGO, Rudimar, Transtornos da Aprendizagem - Abordagem Neurobiológica e Multidisciplinar. Porto Alegre: Artes Médicas, 2006.
+# RIBEIRO, Daniela, ANDRADE, Antonio. Assimetria na relação entre família e escola pública. Paidéia, n.16, v.35, p.385-394, 2006. 
