@@ -1,11 +1,27 @@
-h1. Uso do Sistema.
+h1. "Overview.":http://www.hostedredmine.com/projects/math-ufscar-2011-1
 
-h2. "Overview.":http://www.hostedredmine.com/projects/math-ufscar-2011-1
+Este projeto acompanha minha vida acadêmica durante o curso de licenciatura de matemática na "UFSCAR":http://www.ufscar.br - "campus Sorocaba":http://www.sorocaba.ufscar.br/ufscar/.
 
-Esta é a página inicial do projeto com os dados gerais. Contém os principais links externos do projeto como:
+h2. Links Úteis.
+
 * "Hotsite do projeto;":http://ufscar.awknet.org
-* "Grupo de discução no Google Groups;":http://groups.google.com/group/math_ufscar_2011_1?lnk=srg
-* "Conteúdo multimedia;":http://www.youtube.com/user/foguinhodotperuca?feature=mhee (em progresso...)
+* "Grupo de discussão no Google Groups;":http://groups.google.com/group/math_ufscar_2011_1?lnk=srg
+* "Conteúdo multimedia":http://www.youtube.com/user/foguinhodotperuca?feature=mhee (_em progresso..._)
+* "Moodle para estudo em grupo":http://moodle.awknet.org
+* "Blog do projeto":http://blog-ufscar.awknet.org/
+* "Documentos produzidos no google documents":https://docs.google.com/leaf?id=0B8mw_pkOiLj-NjQyM2UyYzMtYTBlYi00MGQ5LThmZGEtNDY0Zjc2MzEyMWEw&hl=en_US
+* "Código-fonte:":http://code.google.com/p/math-ufscar-2011-1/
+** "Google Code":http://code-math-ufscar.awknet.org/
+** "Github":https://github.com/foguinhoperuca/ufscar [desativado - apenas histórico]
+
+h3. UFSCAR.
+
+* Departamento: matematica@ufscar.br
+* Secretária do curso (Rafaela):rafaela@ufscar.br
+
+h1. Uso do redmine.
+
+Segue uma breve descrição do uso, da ferramenta principal do projeto, organizado pelas abas da ferramenta.
 
 h2. "Activity.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/activity
 
@@ -59,3 +75,28 @@ h2. "Repository.":http://www.hostedredmine.com/projects/math-ufscar-2011-1/repos
 
 Contém o repositório com o "código-fonte":http://pt.wikipedia.org/wiki/C%C3%B3digo_fonte do projeto. O código fonte é hospedado no "google code":http://code.google.com/p/math-ufscar-2011-1/ e utiliza o "subversion":http://subversion.apache.org/ como ferramenta de controle de versão.
 O repositório antigo, hospedado no "github.com":https://github.com/foguinhoperuca/ufscar foi descontínuado devido a incompatibilidade do "Redmine":http://redmine.org (hospedeiro do projeto) e o "git":http://git-scm.com/.
+
+h1. Contato - Jefferson Campos.
+
+Você pode me contactar, em caso de dúvidas/sugestões, em:
+* "Google Plus":https://plus.google.com/109609086775527240560/posts
+* foguinho.peruca@gmail.com
+* jcampos@awknet.org
+
+O seu feedback será bem-vindo!
+
+h1. Licença.
+
+Todo o material disponível aqui é livre! ("Veja a diferença entre liberdade e gratuidade aqui":http://www.fsf.org/resources/what-is-fs). Sinta-se a vontade para usá-los conforme a necessidade.
+
+h2. Conteúdo.
+
+!http://i.creativecommons.org/l/by-sa/3.0/88x31.png!
+UFSCAR MATH by "Jefferson Campos":https://plus.google.com/109609086775527240560/posts is licensed under a "Creative Commons Attribution-ShareAlike 3.0 Unported License":http://creativecommons.org/licenses/by-sa/3.0/.
+Permissions beyond the scope of this license may be available at http://www.gnu.org/licenses/fdl.html.
+
+h2. Código Fonte.
+
+!http://www.gnu.org/graphics/gplv3-127x51.png!
+UFSCAR MATH by "Jefferson Campos":https://plus.google.com/109609086775527240560/posts is licensed under a "GNU GENERAL PUBLIC LICENSE v3":http://www.gnu.org/licenses/gpl.html.
+Permissions beyond the scope of this license may be available at http://www.gnu.org/licenses/licenses.html.
