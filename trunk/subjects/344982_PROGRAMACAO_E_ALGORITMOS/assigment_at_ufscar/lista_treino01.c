@@ -7,6 +7,11 @@
 
 # include <stdio.h>
 # include <stdlib.h>
+# define ONE "ONE"
+# define TWO "TWO"
+# define THREE "THREE"
+# define FOUR "FOUR"
+# define FIVE "FIVE"
 
 float
 calcIMC(float height)
@@ -23,79 +28,136 @@ float
 convertCelsiusFahrenheit(float celsius)
 {
 
-  return 0.0;
+  return (9 * celsius + 160)/5;
 }
 
 // Exercicio 02
 float
-cost()
+cost(float initial_cost)
 {
-  return 0.0;
+  return (initial_cost * 1.45) * 1.28;
 }
 
 // Exercicio 03
-int
-msg_number()
+void
+msg_number(float number)
 {
-  return 0;
+  if (number > 10)
+    printf("This number is greatter than 10!!\n");
+  else
+    printf("Sorry, not greatter than 10!\n");
 }
 
 // Exercicio 04
-int
-major_number()
+float
+major_number(float x, float y)
 {
-  return 0;
+  if (x > y)
+    return x;
+  else if (x < y)
+    return y;
+  else
+    {
+    printf("[The number x and y are the same!!]\n\n");
+    return x;
+    }
 }
 
 // Exercicio 05
-float
-avg_student()
+void
+avg_student(float grade01, float grade02, float grade03)
 {
-  return 0.0;
+  float final_grade = (grade01 + grade02 + grade03) / 3;
+  if (final_grade > 6)
+    printf("Your final grade is: %.2f - Good job! You are done it well!!\n", final_grade);
+  else if (final_grade >= 5)
+    printf("Your final grade is: %.2f - try SAC!!\n", final_grade);
+  else
+    printf("Your final grade is: %.2f - sorry, try again next time!!\n", final_grade);
 }
 
+// TODO: rewrite it using case syntax (I forget it! :P )
 // Exercicio 06
-char[10]
-number_in_words()
+void
+number_in_words(int number)
 {
-  return "";
+  if (number > 5 || number < 1)
+    {
+      printf("Error! Number out of bound! Try 1 ~ 5\n");
+      return;
+    }
+  
+  // use case statement
+  if (number == 1)
+    printf(ONE);
+  else if (number == 2)
+    printf(TWO);
+  else if (number == 3)
+    printf(THREE);
+  else if (number == 4)
+    printf(FOUR);
+  else
+    printf(FIVE);
+
+  printf("\n");
 }
 
 int
 main (void)
 {
 
-  float weight, height;
+  float height;
+  float celsius;
+  float initial_cost;
+  float tell_number;
+  float first_number, second_number;
+  float first_grade, second_grade, third_grade;
+  int number_words;
 
   printf("Lista Treino 01!\n");
 
-// Exercicio 01
+// Class assigment
+// 01 IMC
   printf("Tell us your height:\n");
   scanf("%f", &height);
+  printf("%.2f is your *ideal* weight! \n", calcIMC(height));
+// 02 triangulo
 
-  float imc = calcIMC(height);
-
-  printf("%.2f is your *ideal* weight! \n", imc);
-
-  convertCelsiusFahrenheit(celsius);
+// Exercicio 01
+  printf("Assigment 01) Tell us the temp (in celsius)!\n");
+  scanf("%f", &celsius);
+  printf("The temp in celsius Fahrenheit is: %.2f\n", convertCelsiusFahrenheit(celsius));
 
 // Exercicio 02
-  cost();
+  printf("Assigment 02) Tell us the initial cost:\n");
+  scanf("%f", &initial_cost);
+  printf("The initial cost is: %.2f. The final cost is: %.2f\n", initial_cost, cost(initial_cost));
 
 // Exercicio 03
-  msg_number();
-
+  printf("Assigment 03) Tell us the magical number:\n");
+  scanf("%f", &tell_number);
+  msg_number(tell_number);
+  
 // Exercicio 04
-  major_number();
+  printf("Assigment 04) Tell us the first number:\n");
+  scanf("%f", &first_number);
+  printf("Assigment 04) Tell us the second number:\n");
+  scanf("%f", &second_number);
+  printf("The major number is:\n %.2f\n", major_number(first_number, second_number));
 
 // Exercicio 05
-  avg_student();
+  printf("Assigment 05) Tell us the first grade:\n");
+  scanf("%f", &first_grade);
+  printf("Assigment 05) Tell us the second grade:\n");
+  scanf("%f", &second_grade);
+  printf("Assigment 05) Tell us the third grade:\n");
+  scanf("%f", &third_grade);
+  avg_student(first_grade, second_grade, third_grade);
 
 // Exercicio 06
-  number_in_words();
-
-  printf("Tell us your weight:\n");
-  scanf("%f", &weight);
+  printf("Assigment 06) Tell us the magical number:\n");
+  scanf("%i", &number_words);
+  number_in_words(number_words);
 
   return 0;
 }
