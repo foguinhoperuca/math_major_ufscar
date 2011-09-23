@@ -15,7 +15,7 @@
  * Aqui elas aparecem separadas por funcao, por conveniencia na hora
  * de compilar o programa.
  *
- * Para compilar: gcc -Wall 423114_atividade02.c -o 423114_atividade02
+ * Para compilar: gcc -Wall 423114_atividade02.c -o 423114_atividade02 -lm
  * 
  */
 
@@ -26,25 +26,23 @@
 # define programmer "Jefferson Campos - RA 423114 - foguinho.peruca@gmail.com"
 # define license "This program is free software under GPLv3 terms."
 
-// TODO fix sqrt function
-// TODO use float number instead int type
 void
 item01()
 {
   int number;
 
   printf("Informe um numero!\n");
-  scanf("%f", &number);
+  scanf("%d", &number);
   
     if (number % 2 == 0)
     {
-      printf("O numero %.2f é par!!\n", number);
-      printf("A raiz quadrada do número é: %.2f\n", sqrt(number));
+      printf("O numero %d eh par!!\n", number);
+      printf("A raiz quadrada do numero eh: %.2f\n", sqrt(number));
     }
   else
     {
-      printf("O numero %.2f é impar!!\n", number);
-      printf("A raiz quadrada do número é: %.2f\n", pow(number, 2));
+      printf("O numero %d eh impar!!\n", number);
+      printf("O numero elevado ao quadrado eh: %.2f\n", pow(number, 2));
     }
 
 }
@@ -56,11 +54,11 @@ item02()
 
   do
     {
-      printf("Informe o mês [1-12]!\n");
+      printf("Informe o mes [1-12]!\n");
       scanf("%d", &month);
       if (month < 1 || month > 12)
 	{
-	  printf("Mês informado incorretamente! Informe um número 1-12!\n");
+	  printf("Mes informado incorretamente! Informe um numero 1-12!\n");
 	}
     } while (month < 1 || month > 12);
 
