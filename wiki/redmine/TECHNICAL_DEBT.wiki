@@ -1,0 +1,35 @@
+h1. Débito Técnico.
+
+Resumo do que precisa ser feito para equilibrar aulas e estudo individual.
+
+Para definição de débito técnico, consulte:
+* http://martinfowler.com/bliki/TechnicalDebt.html
+* http://www.codinghorror.com/blog/2009/02/paying-down-your-technical-debt.html
+* http://c2.com/cgi/wiki?TechnicalDebt
+* http://www.startuplessonslearned.com/2009/07/embrace-technical-debt.html
+
+h2. Geral.
+
+* Álgebra básica;
+* Trigonometria;
+
+h2. [345970] GEOMETRIA ANALÍTICA
+
+h2. [349615] FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1
+
+* Lista 01
+
+
+h2. [341266] FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 2
+
+* Lista exercício 01;
+* Teste Surpresa;
+* Livro Benigno;
+* 
+
+h2. [344001] CÁLCULO DIFERENCIAL E INTEGRAL 1
+
+* Lista 01;
+* Lista 02;
+* Lista 03;
+* Lista 04;
