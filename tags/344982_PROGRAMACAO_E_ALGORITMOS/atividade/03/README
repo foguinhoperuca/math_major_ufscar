@@ -1,0 +1,36 @@
+= README - Atividade 03.
+
+Aluno: Jefferson Campos - foguinho.peruca@gmail.com
+RA: 423114
+Atividade 03
+
+== Programas.
+
+Existem duas versões do programa: Windows e Linux.
+
+=== Windows
+O programa 423114_atividade02.exe foi compilado utilizando uma maquina virtual Windows 7. Basta executalo pelo programa cmd e seguir as instrucoes de uso.
+
+=== Linux
+
+Basta executar o programa no terminal com o seguinte comando ./423114_atividade03_LINUX e seguir as instrucoes de uso.
+
+== Condigo-Fonte.
+
+=== Windows.
+
+Para compilar foi usado o devC++ 4.9. Basta abrir o arquivo e compilar (ctrl+F9). Para executar, é recomendado executar no prompt de comando ao invés de executar diretamente no devC++.
+
+=== Linux.
+
+Para compilar, basta rodar o seguinte comando:
+
+gcc -Wall 423114_atividade0333.c -o 423114_atividade03_LINUX -lm
+
+== Contato.
+
+Qualquer problema entre em contato comigo:
+
+foguinho.peruca@gmail.com
+
+Happy Hacking! =]
