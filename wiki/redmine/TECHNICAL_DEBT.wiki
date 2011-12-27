@@ -33,3 +33,21 @@ h2. [344001] CÁLCULO DIFERENCIAL E INTEGRAL 1
 * Lista 02;
 * Lista 03;
 * Lista 04;
+
+h1. Resources.
+
+h2. Main Content.
+
+http://portaldoprofessor.mec.gov.br/linksCursosMateriais.html?categoria=23
+
+h2. Math & Science.
+
+http://portal.mec.gov.br/seb/arquivos/pdf/CienciasNatureza.pdf
+
+Math start at page 108.
+
+h3. Themes
+
+* Tema 1. Álgebra: números e funções
+* Tema 2. Geometria e medidas
+* Tema 3. Análise de dados
