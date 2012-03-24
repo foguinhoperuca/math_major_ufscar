@@ -1,0 +1,137 @@
+h1. Turma/Disciplina.
+
+*ID*: 341703;
+*Discilina*: A;
+*Turma*: EVOLUÇÃO DA DIVERSIDADE BIOLÓGICA;
+*Cursando em*: 2012/2;
+
+h1. Professor Responsável.
+
+Eliane Pintor de Arruda - arruda@ufscar.br.
+
+h1. Objetivos Gerais da Disciplina.
+
+Apresentar aos alunos uma visão ampla e crítica da origem e diversificação da vida, relacionando os principais eventos evolutivos da história da vida com o tempo e a transformação física e biológica do planeta.
+
+h1. Ementa da Disciplina.
+
+Tomando como referência a metáfora de Árvore da Vida, a disciplina explora a origem e diversificação da vida a partir de uma abordagem narrativa histórica e reflexiva. São abordados os avanços recentes da ciência sobre o entendimento da vida primordial e sobre o último ancestral comum universal (LUCA), a construção dos modelos de classificação sistemática dos seres vivos, o surgimento dos grandes domínios da vida, origem dos procariontes e surgimento das principais linhagens de eucariontes. Partindo desses temas, são realizadas sobre o processo evolutivo e eventos históricos envolvidos com a diversificação e extinção dos grandes grupos taxonômicos.
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# Origem da vida (2 horas). 
+# A química da célula, unidade construtora da vida (2 horas). 
+# Mundo do RNA e o código genético (2 horas). 
+# Os processos evolutivos e a classificação sistemática (2 horas) 
+# Princípios de sistemática Filogenética (2 horas). 
+# Ultimo ancestral comum mais antigo, árvore da vida e origem dos grandes domínios (2 horas). 
+# Diversificação das bactérias, arquéias e fungos (2 horas). 
+# Diversificação dos protistas - endossimbiose e formação da célula eucariótica (2 horas). 
+# Origem e diversificação das plantas (4 horas). 
+# Origem e diversificação dos Metazoa (6 horas). 
+# Estudos recentes sobre a evolução da diversidade biológica (seminários) (4 horas). 
+
+h1. Objetivos Específicos
+
+Formar o educando no sentido de:
+
+# Reconhecer o processo evolutivo como base do conhecimento biológico;
+# Identificar os processos de formação da biodiversidade atual;
+# Conhecer os modelos de classificação e as formas atuais de interpretação das árvores filogenéticas propostas;
+# Reconhecer a influência da história evolutiva na compreensão dos padrões atuais de diversidade biológica;
+
+h1. Estratégias de Ensino.
+
+Serão utilizadas as seguintes estratégias de ensino:
+
+# Aulas teóricas e dialogadas para organização do conhecimento; 
+# Atividades em grupo, abordando estudos recentes sobre a evolução da diversidade biológica; 
+# Leitura e discussão de textos complementares. 
+
+h1. Atividades dos Alunos.
+
+# Assistir e participar ativamente das aulas teóricas; 
+# Desenvolver o trabalho em equipe; 
+# Leitura critica de trabalhos científicos recentes; 
+# Entregar uma resenha sobre o artigo científico selecionado e apresentá-lo em forma de painel. 
+# Responder às avaliações escritas.
+
+h1. Recursos A Serem Utilizados.
+
+* Aulas expositivas e dialogadas com uso de lousa e multimídia; 
+* Bibliografia especializada. 
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+h2. Nota.
+
+Três provas teóricas com questões discursivas e alternativas (Notas de 0 a 10), peso 6.
+Apresentação de painéis (Nota de 0 a 10), peso 4. A nota dos painéis será composta por 4 pontos pela apresentação, 4 pontos pelo trabalho escrito (resenha) e 1 ponto de avaliação pelos pares e 1 ponto de auto-avaliação. Os painéis serão elaborados em grupo e o número de componentes dependerá do número de alunos na turma.
+Obtenção da média final: 6NT + 4NP/10; NT = média aritmética das provas teóricas; NP = nota do seminário.
+Prova substitutiva ? prova teórica com todo conteúdo da disciplina, somente para os alunos que perderam (com justificativa) uma das avaliações teóricas. A prova substitutiva não substituirá a nota do painel, pois esta é uma atividade em grupo.
+
+h2. SAC.
+
+O Acompanhamento de Recuperação Continuado (ARC) ocorrerá ao longo do semestre através de atendimento fora da sala de aula, que deverá ser agendado anteriormente com os professores, ou através da plataforma Moodle. 
+O aluno será aprovado se obtiver média maior ou igual a 6,0; deverá cumprir o SAC se seu rendimento estiver entre 5 e 5,9 pontos; e será reprovado se obtiver nota inferior a 5.
+Sistema de Avaliação Complementar (SAC): prova teórica (peso 6) envolvendo todo o conteúdo do curso e um trabalho escrito (peso 4) que consistirá da resenha de um artigo científico a ser escolhido pelo professor. O SAC deverá ser realizado na primeira semana do período letivo seguinte, ficando sob responsabilidade do estudante à procura e solicitação quanto a este segundo momento avaliativo. Obtenção da média: 6NT + 4NTe/10. O aluno será considerado aprovado se obtiver nota maior ou igual a 6,0.
+
+h2. Freqüência.
+
+A freqüência do aluno às aulas também será avaliada. Somente será aprovado o aluno que estiver presente, no mínimo, em 75% das aulas. O aluno que obtiver freqüência inferior a 75% das aulas será automaticamente reprovado.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# AMORIM, D. S. Fundamentos de Sistemática Filogenética. Holos Editora, Ribeirão Preto, SP, Brasil. 153 p. 2002. 
+# PURVES, W.K.; HILLIS, D.M.; ORIANS, G.H. SADAVA, D.; HELLER, H.C. Vida: a ciência da biologia. Porto Alegre, RS: Editora Artmed, 3 Volumes. 2005. 
+# RIDLEY, M. Evolução. Editora Artmed. Porto Alegre. 2006. 
+# MARGULIS L; SCHWARTZ K. V. Cinco Reinos - um Guia Ilustrado dos Filos da Vida na Terra. 3ª edição. Guanabara Koogan, 2001. 
+# JUDD W.S.; CAMPBELL C.S.; KELLOGG E.A.; STEVENS P.F.; DONOGHU M.J. Sistemática Vegetal ? Um enfoque filogenético. 3ª edição. Editora Artmed, 2009. 
+
+h2. Complementar.
+
+# BARTON N. H.; BRIGGS D. E.G.; EISEN J. A.; GOLDSTEIN D. B.; PATEL N. H. Evolution. 1ª edição. Cold Spring Harbor Laboratory Press (CSHL Press), 2007. 
+# BRUSCA, R. C. & BRUSCA G. J. Invertebrados. Sunderland Mass. Sinauer. 2007. 
+# KEELING, P.J.; BURGER, G.; DURNFORD, D.G. LANG, B.F.; LEE, R.W.; PEARLMAN, R.E., ROGER, A.J., GRAY, M.W. The tree of eukaryotes. Trends in Ecology and Evolution. Vol 20. No 12. 2005. 
+# MADIGAN, M.T.; MARTINKO, J.M.; PARKER, J. Microbiologia de Brock. Ed. Pearson. 10a Edição. 2004. 624p. 
+# MATIOLI, S. R. Biologia Molecular e Evolução. Holos Editora, Ribeirão Preto, SP, Brasil. 202p. 2001. 
+# PIERCE, B.A. Genética: um enfoque conceitual. 1ª edição, Editora Guanabara Koogan S.A. 2004. 
+# RAVEN, P.H.; EVERT, R.F. & EICHHORN, S.E. Biologia Vegetal. 7a. edição, Rio de Janeiro, Guanabara, Koogan S.A., 2007. 
+# REVIERS, B. de. Biologia e filogenia das algas. Editora Artmed, 2006.
+
+h1. Observação.
+
+Esta disciplina tem a participação de vários professores. Abaixo esta listada a distribuição do programa entre os professores:
+* Profa. Ana Claudia Lessinger: Mundo do RNA e código genético.
+** lessinger@ufscar.br - http://www.viagene.blogspot.br
+* Profa. Ana Paula Carmignotto: Origem e Diversificação dos Metazoa;
+** apcarmig@ufscar.br
+* Prof. André Cordeiro Alves dos Santos: Diversificação das bactérias, arquéias e fungos; Diversificação dos protistas - endossimbiose e formação da célula eucariótica.
+** andrecas@ufscar.br
+* Profa. Eliane Pintor de Arruda Moraes: Origem da vida; A química da célula, unidade construtora da vida; Mundo do RNA e o código genético; Os processos evolutivos e a classificação sistemática; Princípios de sistemática Filogenética; Ultimo ancestral comum mais antigo, árvore da vida e origem dos grandes domínios; Origem e diversificação dos Metazoa.
+** arruda@ufscar.br
+* Profa. Ingrid Koch: Origem e diversificação das plantas.
+** ingrid@ufscar.br

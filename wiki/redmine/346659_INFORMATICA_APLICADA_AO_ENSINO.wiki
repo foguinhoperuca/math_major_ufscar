@@ -1,0 +1,113 @@
+h1. Turma/Disciplina.
+
+*ID*: 346659;
+*Discilina*: M;
+*Turma*: INFORMÁTICA APLICADA AO ENSINO;
+*Cursando em*: 2012/1;
+
+h1. Professor Responsável.
+
+Paulo César Oliveira - paulooliveira@ufscar.br
+
+h1. Atendimento/Local das aulas.
+
+*Sala*: Lab informática - prédio AT;
+*Horário*: TUE 21h;
+
+h1. Objetivos Gerais da Disciplina.
+
+Ao término da disciplina o aluno deverá ser capaz de:
+* Analisar e avaliar as diferentes abordagens e possibilidades da informática na educação; 
+* Analisar e avaliar os diferentes aspectos de um software do ponto de vista educacional; 
+* Utilizar os recursos básicos dos software trabalhados na disciplina; 
+* Elaborar atividades didáticas para o processo de ensino e aprendizagem da matemática utilizando-se de software genéricos bem como específicos;
+
+h1. Ementa da Disciplina.
+
+* Análise de aplicativos de informática para o ensino de Matemática nas escolas de ensinos fundamental, médio e profissionalizante;
+* Planejamento de aulas em ambiente informatizao;
+* Calculadoras,aplicativos,computaores e multimídia;
+* Adaptação de aplicativos científicos para os ensinos fundamental e médio;
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+341274 OU 025470.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+# O papel da informática no Ensino Fundamental II e Médio de Matemática: 6 horas 
+# Software livre Winplot: 6 horas 
+# Software livre Geogebra: 6 horas 
+# Planejamento de sequências didáticas em ambientes virtuais de aprendizagem: 6 horas 
+# Planejamento de sequências didáticas no Geogebra e Winplot: 6 horas 
+
+h1. Objetivos Específicos
+
+# O aluno deve ser capaz de construir sua concepção sobre os pontos fortes e fracos da informática no ensino.
+# Construir sequências didáticas para a sala de aula com o uso do software livre Winplot e Geogebra.
+
+h1. Estratégias de Ensino.
+
+# Aula expositiva.
+# Estudo do ambiente informatizado.
+# Planejamento de sequência didática.
+
+h1. Atividades dos Alunos.
+
+# Construir sequências didáticas com base no software Winplot e Geogebra.
+
+h1. Recursos A Serem Utilizados.
+
+* Software livre Winplot e Geogebra
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Duas provas (P1, P2) com duas horas-aula de duração. A prova P1 será escrita e individual. A prova P2 contemplará uma parte escrita e uma apresentação oral.
+
+h2. Nota.
+
+A nota final (M) será dada pela média ponderada:
+<pre><code class="ruby">
+  M=0,5*P1+0,5*P2
+</code></pre>
+
+Caso a Nota Final (M) seja maior ou igual a 6,0 e a frequência mínima de 75%, o aluno será aprovado. Se a Nota Final (M) for estritamente menor do que 6,0 e maior ou igual a 5,0 e frequência mínima de 75%, então o aluno terá direito a uma nova prova (Sistema de Avaliação Complementar). Caso a Nota Final (M) do aluno seja estritamente menor do que 5,0, então ele será reprovado.
+
+h2. SAC.
+
+No Sistema de Avaliação Complementar, o aluno fará uma avaliação com todo o conteúdo do plano de ensino, no decorrer dos primeiros 35 dias após o início das aulas do semestre posterior. A nova nota final (M) será a média aritmética entre a nota obtida durante o semestre e a avaliação complementar, caso seja maior ou igual do que 6,0.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# BALDIN, Y, LOBOS, G. Atividades com Cabri-Géomètre II para Cursos de Licenciatura em Matemática e Professores do Ensino Fundamental e Médio. São Carlos, SP: EDUFSCar, 2002.
+# MALAGUTTI, P.L.A.. Inteligência Artificial no Ensino. EDUFSCar, São Carlos, SP: EDUFSCar, 2008.
+# SALVADOR, J. A., Hipertexto de Matemática Aplicada com MAPLE V. São Carlos, SP, 2001.
+
+h2. Complementar.
+
+# BORBA, M.C. & PENTEADO, M.G. Informática e Educação Matemática. Coleção Tendências em Educação Matemática, Belo Horizonte: Ed. Autêntica, 2001.
+# RAMAL, A.C. Educação na Cibercultura: hipertextualidade, leitura, escrita e aprendizagem, Artmed Editora, 2002.
+# RODRIGUES, C.I. & REZENDE, E.Q.F. Cabri-Géomètre e a geometria plana. Campinas, SP: Ed. UNICAMP, 1999.

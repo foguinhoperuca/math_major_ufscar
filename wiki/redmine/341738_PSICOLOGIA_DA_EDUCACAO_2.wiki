@@ -1,0 +1,131 @@
+h1. Turma/Disciplina.
+
+*ID*: 341738;
+*Discilina*: PSICOLOGIA DA EDUCAÇÃO 2;
+*Turma*: A;
+*Cursando em*: 2012/1;
+
+h1. Professor Responsável.
+
+IZABELLA MENDES SANTANA  -  izabellams@ufscar.br
+
+h1. Atendimento.
+
+*Sala*: AT09;
+*Horário*: FRY 21h;
+
+h1. Objetivos Gerais da Disciplina.
+
+Compreender o modo como ocorrem a aprendizagem e o desenvolvimento humanos em suas diferentes dimensões(cognitiva, afetiva, social e moral), refletindo sobre as contribuições das teorias estudadas no campo educacional.
+
+h1. Ementa da Disciplina.
+
+* Conceito, objeto e métodos da psicologia do desenvolvimento;
+* Infância e adolescência: aspectos biológicos, afetivos, sociais e cognitivos.
+* Conceito, natureza e características de ensino-aprendizagem e os fatores que interferem nesse processo.
+* Teorias do desenvolvimento e aprendizagem.
+* A construção do conhecimento e a dimensão interacionista histórico-social no desenvolvimento humano.
+* O funcionamento da inteligência e da afetivididade sob a ótica da teoria psicogenética de jean piaget, sócio-interacionista de lev vygotsky e psicogenética de henry wallon.
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+h2. Teorias da Psicologia do Desenvolvimento e da Aprendizagem e suas contribuições para a Educação. 
+
+# A teoria Psicogenética de Piaget: fundamentos teóricos; estágios de desenvolvimento social, afetivo e cognitivo; o erro no contexto escolar; implicações educacionais (6 horas). 
+# A teoria psicogenética de Wallon: fundamentos teóricos; estágios de desenvolvimento social, afetivo e cognitivo; implicações educacionais (6 horas). 
+# A abordagem histórico-cultural de Vygotsky: fundamentos teóricos; a construção social do pensamento e da linguagem; implicações educacionais (8 horas). 
+
+h2. A aprendizagem e os fatores que interferem no processo de ensino-aprendizagem (10 horas). 
+
+# A aprendizagem: conceitos e características 
+# A cultura da aprendizagem e a aprendizagem da cultura 
+# O sistema da aprendizagem 
+
+h1. Objetivos Específicos
+
+Ao final do curso os alunos deverão ser capazes de: 
+
+# Compreender os princípios fundamentais das teorias de desenvolvimento e aprendizagem, possibilitando a identificação de aspectos concordantes e divergentes entre as teorias. 
+# Reconhecer as contribuições da Psicologia do Desenvolvimento e da Aprendizagem para a atuação docente nos contextos educacionais formais e não formais. 
+# Identificar as características da aprendizagem visando à construção de estratégias que facilitem o processo educativo. 
+
+h1. Estratégias de Ensino.
+
+Serão utilizadas as seguintes estratégias de ensino:
+# Aulas expositivas e dialogadas;
+# Análise e discussão de artigos científicos e capítulos de livros;
+# Estudos dirigidos de textos;
+# Exibição e discussão de vídeos, além de debates em grupo sobre os materiais sugeridos pela professora ou pelos alunos (artigos de jornais ou revistas, textos da internet, etc.);
+
+h1. Atividades dos Alunos.
+
+# As atividades dos alunos abrangem a leitura e discussão da bibliografia indicada;
+# A participação nos debates em grupo e na discussão dos vídeos apresentados;
+# A resolução de exercícios em grupo e individual e a realização de seminário;
+
+h1. Recursos A Serem Utilizados.
+
+* Textos;
+* Artigos científicos;
+* Capítulos de livros;
+* Vídeos e multimídia;
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+Serão utilizados três procedimentos de avaliação que serão quantificados em notas, compondo um total de 10 pontos:
+# O primeiro refere-se a um trabalho escrito e individual que valerá 4 pontos.
+# A segunda nota será atribuída a uma avaliação feita em grupo, com valor máximo de 3 pontos.
+# O terceiro procedimento envolve a realização de seminário, em grupos de alunos, cuja nota máxima será de 3 pontos.
+
+h2. Nota.
+
+A nota final será calculada pela somatória dos resultados obtidos em cada procedimento de avaliação. O aluno será considerado aprovado quando obtiver, simultaneamente, frequência igual ou superior a setenta e cinco por cento das aulas e/ou das atividades acadêmicas efetivamente realizadas e desempenho mínimo equivalente à nota final igual ou superior a 6,0. As duas primeiras notas serão divulgadas no decorrer do período letivo, possibilitando a todos os alunos o acompanhamento do seu desempenho no processo educativo.
+
+h2. SAC.
+
+Alunos que obtiverem média entre 5,0 e 5,9 serão considerados em recuperação e realizarão avaliação complementar (SAC). Tal avaliação será escrita e individual e ocorrerá em até 35 dias do semestre subsequente, conforme diretrizes contidas na portaria 522. O aluno em recuperação realizará as mesmas estratégias de avaliação, segundo os critérios descritos acima.
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# DE LA TAILLE, Yves, OLIVEIRA, Marta Kohl, DANTAS, Heloysa. Piaget, Vygotsky, Wallon: Teorias Psicogenéticas em discussão. São Paulo: Summus, 1992. 
+# PIAGET, Jean. Seis Estudos de Psicologia. Rio de Janeiro: Forense Universitária, 2003. 
+# VYGOTSKY, Lev. Pensamento e linguagem.São Paulo: Martins Fontes, 1987. 
+
+h2. Complementar.
+
+# BOCK, Ana Mercês, FURTADO, Odair,TEIXEIRA, Maria de Lourdes. Psicologias: uma introdução ao estudo de psicologia. São Paulo: Editora Saraiva, 2002.
+# CARRARA, Kester (Org.) Introdução à Psicologia da Educação: seis abordagens. São Paulo: Avercamp, 2004.
+# COLL, Cesar, MARCHESI, Álvaro, PALACIUS, Jésus. Desenvolvimento Psicológico e Educação. Artes Médicas, 1996, V.1 e 2.
+# COUTINHO, Maria Tereza,MOREIRA, Mércia. Psicologia da Educação. Belo Horizonte: Editora Lê,1992.
+# GALVÃO, Izabel. Henri Wallon: uma concepção dialética do desenvolvimento infantil. Petrópolis, RJ: Vozes, 1995.
+# GOULART, Iris. Psicologia da Educação: fundamentos teóricos e aplicações à prática pedagógica. Petrópolis:Vozes, 1987.
+# LEFRANÇOIS, Guy. Teorias da Aprendizagem.São Paulo: Cengage Learning, 2008.
+# POZO, Juan. Aprendizes e mestres: a nova cultura da aprendizagem. Porto Alegre: Artes Médicas, 2002.
+# SILVA, Dener. Do gesto ao símbolo: a teoria de Henri Wallon sobre a formação simbólica. Educar, n.30, p.145-163, 2007.

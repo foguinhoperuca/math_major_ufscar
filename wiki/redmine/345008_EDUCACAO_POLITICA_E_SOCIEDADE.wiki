@@ -1,0 +1,195 @@
+h1. Turma/Disciplina.
+
+*ID*: 345008;
+*Discilina*: M;
+*Turma*: EDUCAÇÃO, POLÍTICA E SOCIEDADE;
+*Cursando em*: 2012/1;
+
+h1. Professor Responsável.
+
+Dulcineia de Fatima Ferreira Pereira -  dulceferreira@ufscar.br
+
+h1. Atendimento/Local das aulas.
+
+*Sala*: AT08;
+*Horário*: TUE 19h;
+
+h1. Objetivos Gerais da Disciplina.
+
+Ao término da disciplina o aluno deverá ser capaz de:
+* Interpretar a realidade sócio-educacional brasileira a partir de bases sociológicas.
+* Desenvolver conhecimentos sobre as transformações da sociedade capitalista e dos fenômenos da inclusão e da exclusão social.
+* Analisar a inter-relação ser humano/sociedade/educação, a partir de diferentes teorias sociológicas.
+
+h1. Ementa da Disciplina.
+
+* Enfoque sociológico do fenômeno educacional em seu relacionamento com a estratificação social.
+* Instituições escolares. as práticas sociais cotidianas como práticas educativas.
+* Relações entre política e processo de socialização.
+O processo de produção social do homem e da mulher, as relações entre educação e vida afetivo-sexual.
+* A relação existente entre saber e poder.
+* Conhecimento escolar, estado capitalista e o papel do educador.
+* Pensamento sociológico contemporâneo e a educação.
+
+h1. Número de Créditos.
+
+|*Teóricos*|*Práticos*|*Estágio*:|*Total*:|
+|2|0|0|2|
+
+h1. Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Co-Requisitos da Disciplina.
+
+Não se aplica.
+
+h1. Caráter de Oferecimento.
+
+Não se aplica.
+
+h1. Requisito Recomendado.
+
+Não se aplica.
+
+h1. Tópicos/Duração.
+
+h2. Enfoque sociológico do fenômeno educacional (08 horas) 
+
+# A vida em sociedade 
+# A educação como um processo social 
+# Educação e a constituição das pessoas 
+# Pensamento sociológico e a educação 
+
+h3. textos de apoio: 
+
+# ARENDT, Hannah. A condição humana. 11.ed. Rio de Janeiro: Forense Universitária, 2010. 
+# BAUMAN, Z. A vida para consumo: a transformação das pessoas em mercadoria. Rio de Janeiro: Jorge Zahar ED., 2008. 
+# BAUMAN, Z. A Vida líquida. Rio de Janeiro: Jorge Zahar ED., 2007. 
+# BRANDÃO, C. R. O Que é Educação - 33ª ed. São Paulo: Brasiliense, 1995. 
+# CECCON, C.; OLIVEIRA, M. D. de;OLIVEIRA, R. D. de.A vida na escola e a escola da vida. 30.ed. Rio de Janeiro, Petrópolis: 1995. 
+# NOGUEIRA, M.A.; CATANI, A. Escritos de Educação. 9ª edição. São Paulo: Vozes, 2007. 
+# GOMES, Candido Alberto. A educação em perspectva sociológica. São Paulo: EPU, 1994. 
+
+h2. Formas de organização da sociedade e sua relação com a educação (10 horas) 
+
+# Organização econômica da sociedade primitiva, escravista, feudal capitalista e sua interferência na educação e forma de funcionamento da escola; 
+# Educação e estratificação social 
+# Educação, Estado e formas de poder 
+# A realidade sócio-educacional brasileira 
+
+h3. Textos de apoio: 
+
+# AZEVEDO, J. Questões sociais: desafios para o país. São Paulo: Salesiana, 2008. 
+# CASTELLS, M. A Sociedade em Rede. Editora Paz e Terra, 2000. 
+# COMPARATO, Fábio Konder. Educação Estado e poder. São Paulo:Brasiliense, 1987. 
+# FERREIRA, Roberto Martins. Sociologia da Educação. São Paulo: Moderna, 1993. 
+# FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis, RJ: Vozes, 1977. 
+# ______. Microfísica do poder. Rio de Janeiro: Graal, 2008. 
+# MESZAROS, Istivan. Educação para além do capital. São Paulo: Boitempo, 2005. 
+
+h2. Problemas e perspectivas da sociedade e da educação contemporâneas (12 horas) 
+
+# Políticas neoliberais e a crise da educação 
+# A educação como espaço de reinvenção da sociedade 
+# Conhecimento escolar, estado capitalista e o papel do educador 
+# A relação escola comunidade 
+# Tendências e possibilidades pedagógicas 
+
+h3. Textos de apoio: 
+
+# ARENDT, H. Entre o passado e o futuro. 6.ed. São Paulo: Perspectiva, 2009. 
+# FREIRE, P. Educação e mudança. 8.ed. Rio de Janeiro, 1983. 
+# ______. Pedagogia-histórico-crítica. 10.ed.São Paulo,Campinas: Autores Associados, 2008. 
+# SANTOS, Boaventura S. A gramática do tempo: para uma nova cultura política. São Paulo: Cortez, 2006. 
+# ______. A crítica da razão indolente: contra o desperdício da experiência. São Paulo: Cortez, 2000. 
+
+h1. Objetivos Específicos
+
+# Fornecer subsídios teóricos para a compreensão da organização da e sua interferência na educação e forma de funcionamento da escola; 
+# Estudar a educação como um fenômeno social; 
+# Promover conhecimento dos problemas e perspectivas da Educação no contexto atual, a partir de análises políticas e sociológicas; 
+# Analisar a inter-relação ser humano/sociedade/política e educação.
+
+h1. Estratégias de Ensino.
+
+* Exposições dialogadas;
+* discussões em grupo;
+* elaboração de reflexões escritas coletivas ou individuais;
+* fichamento de textos;
+* construção de painéis integrados;
+* apresentação e debate de filmes;
+* análise da realidade educacional brasileira;
+
+
+h1. Atividades dos Alunos.
+
+A disciplina terá como atividades discentes:
+* leitura,
+* pesquisa,
+* discussão,
+* problematização temática,
+* elaboração de sínteses reflexivas,
+* análise de vídeos,
+* exercícios em sala de aula.
+
+h1. Recursos A Serem Utilizados.
+
+* Lousa,
+* giz,
+* projetor de multimídia,
+* computador,
+* toca-cd,
+* DVD,
+* revistas,
+* jornais.
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+A avaliação será realizada de acordo com a Portaria 522/06 da UFSCar que prevê, dentre outras, a atribuição de notas de 0,0 a 10,0. Será aprovado o aluno que obtiver nota mínima de 6,0 pontos e pelo menos 75% de presença. 
+
+h2. Nota.
+
+Os instrumentos avaliativos a serem utilizados serão os seguintes:
+
+* Um seminário em grupo; 
+* Uma avaliação individual; 
+* Síntese reflexiva apresentada oralmente. 
+
+Cada um dos instrumentos de avaliação terão o valor: de 0,0 a 10,0 pontos. Para a média as notas serão somadas e o resultado dividido por 3. 
+
+h2. SAC.
+
+A média final será calculada pela somatória simples das 3 notas obtidas pelo aluno, dividindo-as por 3. Caso o aluno não atinja média final entre 5,0 e 5,9 pontos, ele poderá participar do Sistema de Avaliação Complementar (SAC), que obedecerá aos mesmos critérios da avaliação regular. O SAC ocorrerá em até 35 dias do semestre subseqüente e se constituirá em uma avaliação individual, em classe na qual o aluno deverá dissertar sobre os conteúdos trabalhados ao longo do semestre. 
+
+h2. Frequencia.
+
+A freqüência mínima é de 75%.
+
+h1. Bibliografia.
+
+h2. Básica.
+
+# BRANDÃO, C. R. O Que é Educação - 33ª ed. Editora Brasiliense, 1995. 
+# BRAVERMAN, H. Trabalho e Capital Monopolista. Editora LTC, 1987. 
+# CASTELLS, M. A Sociedade em Rede. Editora Paz e Terra, 2000. 
+# NOGUEIRA, M.A.; CATANI, A. Escritos de Educação. 9ª edição.São Paulo: 2007. 
+# SAVIANI, D. Pedagogia-histórico-crítica. 2005. 9ª edição. Autores Associados. 
+
+h2. Complementar.
+
+# ARENDT, Hannah. A condição humana. 11.ed. Rio de Janeiro: Forense Universitária, 2010. 
+# ______. Entre o passado e o futuro. 6.ed. São Paulo: Perspectiva, 2009. 
+# AZEVEDO, J. Questões sociais: desafios para o país. São Paulo: Salesiana, 2008. 
+# BAUMAN, Z. A vida para consumo: A transformação das pessoas em mercadoria. Rio de Janeiro: Jorge Zahar ED., 2008. 
+# BAUMAN, Z. A Vida líquida. Rio de Janeiro: Jorge Zahar ED., 2007. 
+# CECCON, C.; OLIVEIRA, M. D. de;OLIVEIRA, R. D. de.A vida na escola e a escola da vida. 30.ed. Rio de Janeiro, Petrópolis: 1995. 
+# COMPARATO, Fábio Konder. Educação Estado e poder. São Paulo:Brasiliense, 1987. 
+# FERREIRA, Roberto Martins. Sociologia da Educação. São Paulo: Moderna, 1993. 
+# FREIRE, P. Educação e mudança. 8.ed. Rio de Janeiro, 1983. 
+# FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis, RJ: Vozes, 1977. 
+# ______. Microfísica do poder. Rio de Janeiro: Graal, 2008. 
+# GOMES, Candido Alberto. A educação em perspectva sociológica. São Paulo: EPU, 1994. 
+# MESZAROS, Istivan. Educação para além do capital. São Paulo: Boitempo, 2005. 
+# SANTOS, Boaventura S. A gramática do tempo: para uma nova cultura política. São Paulo: Cortez, 2006. 
+# ______. A crítica da razão indolente: contra o desperdício da experiência. São Paulo: Cortez, 2000. 

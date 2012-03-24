@@ -1,0 +1,96 @@
+h1. Turma/Disciplina.
+
+*ID*: 344001;
+*Discilina*: CÁLCULO DIFERENCIAL E INTEGRAL 2;
+*Turma*: C;
+*Cursando em*: 2012/2;
+
+h1. Professor Responsável.
+
+SILVIA MARIA SIMOES DE CARVALHO - silviamsc@ufscar.br
+
+h1. Objetivos Gerais da Disciplina
+
+Ao final da disciplina os alunos deverão ser capazes de compreender a importância e a utilidade dos conceitos e técnicas do Cálculo: equações diferenciais ordinárias, modelagem matemática elaborada mediante equações diferenciais ordinárias, limites, continuidade e diferenciabilidade de funções de várias variáveis, bem como desenvolver competência técnica na utilização de tais conceitos.
+
+h1. Ementa da Disciplina.
+
+* Equações diferenciais ordinárias: 1ª e 2ª ordem;
+* Funções reais de várias variáveis reais: limite, continuidade e diferenciabilidade;
+* Aplicações;
+
+h1. Número de Créditos.
+
+*Teóricos*: 4
+*Práticos*: 0
+*Estágio*: 0
+*Total*: 4
+
+h1. Requisitos da Disciplina.
+
+344001 OU 342009 OU 342211 OU 341258 OU 340456 OU 082210 OU 082015 OU 089109 OU (082619 E 082627)
+
+h2. Requisito Recomendado (aos alunos da graduação)
+
+cálculo diferencial e integral 1
+
+h1. Tópicos/Duração.
+
+# Equações Diferenciais Ordinárias (10 horas)
+Família de equações, problemas de valor inicial, equações separáveis, fator integrante, equação diferencial de segunda ordem, problema de contorno, equação diferencial não-homogênea. Aplicações.
+# Funções reais de várias variáveis (10 horas)
+Gráficos, curvas de nível, limites e continuidades.
+# Derivadas parciais (10 horas)
+Interpretação, derivadas de ordem superior, planos tangentes.
+# Diferenciais (12 horas)
+Aproximação linear, conceito de incremento, regra da cadeia, derivação implícita (Teorema da função implícita). 
+# Derivadas direcionais e vetor gradiente, valores máximos e mínimos, multiplicadores de Lagrange. (12 horas)
+# Provas (06 horas)
+06 horas serão destinadas a realização das provas do curso. 
+
+h1. Objetivos Específicos
+
+Estender os conceitos do cálculo de uma variável para funções de várias variáveis, com o apoio das ferramentas da geometria analítica, e estudar os principais resultados do cálculo vetorial, no plano e no espaço.
+
+h1. Estratégias de Ensino.
+
+# Aulas expositivas; 
+# Será dada enfase a resolução de exercícios abordando o conteúdo estudado, para isso o aluno contará com atendimento extra-aula; 
+# Será incentivado o uso da biblioteca. 
+
+h1. Atividades dos Alunos
+
+Participar ativamente das aulas; 
+# Resolver todos os exercícios propostos; 
+# Utilizar os horários de monitoria para sanar todas as dúvidas. 
+# Utilizar assiduamente a biblioteca, utilizando para estudos da teoria com a utilização da bibliografia recomendada.
+
+h1. Recursos a serem utilizados.
+
+# Sala de aula (lousa) 
+# Biblioteca
+
+h1. Procedimentos de Avaliação do aprendizado dos alunos
+
+A avaliação do curso será baseada em três provas. Chamando-se de P1, P2, e P3 as notas das provas, o valor da média do semestre, MS, será obtido pela média ponderada de P1, P2, e P3, da seguinte forma: MS = (3P1 + 3P2 + 4P3)/10. 
+O aluno que obtiver média MS maior do que ou igual a 6,0 será considerado aprovado desde que tenha a frequência mínima exigida de 75%. 
+Sistema de Avaliação Complementar: Os alunos com média do semestre estritamente menor do que 6.0 e maior ou igual a 5.0 com frequência mínima de 75%, terão direito a uma prova individual e sem consulta a ser realizada nos primeiros 35 dias após o início das aulas do semestre posterior. Está prova conterá todo o conteúdo programático do semestre. Neste caso, a Nota final será a média aritmética entre a nota obtida durante o semestre e a avaliação complementar.
+
+h1. Bibliografia.
+
+h2. Bibliografia básica:
+
+# BOYCE, W.E., DIPRIMA, R.C. Equações diferenciais elementares e problemas de valores de contorno, 8ª ed. Rio de Janeiro: LTC, 2006. 
+# STEWART, J. Cálculo, vol. 2, 5ª ed. São Paulo: Pioneira Thomson Learning, 2006. 
+# THOMAS, G.B. Cálculo, vol. 2, 11ª ed. São Paulo: Addison Wesley, 2009. 
+
+h2. Bibliografia complementar:
+
+# ÁVILA, G. Cálculo das funções de múltiplas variáveis, vol. 3, 7ª ed. Rio de Janeiro: LTC, 2006. 
+# GUIDORIZZI, H.L. Um curso de cálculo, vol. 2 e 4, 5ª ed. Rio de Janeiro: LTC, 2001. 
+# LARSON. Cálculo, vol 2, 8ª ed. Rio de Janeiro: LTC, 2006. 
+# LEITHOLD, L. O Cálculo com Geometria Analítica, vol 2, 3ª ed. São Paulo: Harbra, 1994. 
+
+h1. Observações.
+
+existem outras turmas dessa disciplina
