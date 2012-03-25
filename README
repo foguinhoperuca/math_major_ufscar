@@ -1,6 +1,12 @@
  h1. README.
 
+h2. PT_BR
+
 Este projeto acompanha minha vida acadêmica durante o curso de licenciatura de matemática na "UFSCAR":http://www.ufscar.br - "campus Sorocaba":http://www.sorocaba.ufscar.br/ufscar/.
+
+h2. EN_US
+The main goal of this project is to be a follow-up my undergraduate course at UFSCAR - Sorocaba.
+You can share this project at free will, under GNU Free Document License, except the contenct that may be restricted or I don't have copyright about it.
 
 h2. Links Uteis.
 
@@ -29,3 +35,18 @@ Voce pode me contactar em:
 * foguinho.peruca@gmail.com
 * jcampos@awknet.org
 * "Google Plus":https://plus.google.com/109609086775527240560/posts
+
+h2. Pattern for file name.
+
+Some patterns used here. The main goal is make it easy to understand, find and reuse file, etc.
+
+A## := Lista de exercício, trabalhos, tarefas;
+_solution := resposta e soluções;
+E### := Exercise
+Q# := provas
+_grade := notas
+TLN := (Teacher's Lecture Notes) notas de aula - professor
+chap## := capítulo de algum livro, etc;
+pg#### := página de algum livro, etc
+S## := Seminário
+EXP## := experimento
