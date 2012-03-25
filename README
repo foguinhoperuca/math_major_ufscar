@@ -42,11 +42,14 @@ Some patterns used here. The main goal is make it easy to understand, find and r
 
 A## := Lista de exercício, trabalhos, tarefas;
 _solution := resposta e soluções;
-E### := Exercise
+A##_E### := Exercício (exercícios dependem de uma lista)
 Q# := provas
 _grade := notas
-TLN := (Teacher's Lecture Notes) notas de aula - professor
+TLN## := (Teacher's Lecture Notes) notas de aula - professor
 chap## := capítulo de algum livro, etc;
 pg#### := página de algum livro, etc
 S## := Seminário
 EXP## := experimento
+_syllabus := programa de estudo / currículo
+_calendar := calendário
+@_backup_@@-##-####.zip := backup de arquivos. Exemplo: math-ufscar-2011-1_backup_DEC-17-2011
