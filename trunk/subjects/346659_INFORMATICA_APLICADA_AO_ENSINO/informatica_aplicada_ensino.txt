@@ -1,0 +1,35 @@
+apr/17 - quiz 01 - informatica aplicada ao ensino.
+
+www.nied.unicamp.br/oea/pub/livro1/index.html
+
+http://www.fisica.ufpb.br/~mkyotoku/questoes/questoes.htm
+questoes 4 e 5
+Comments:
+
+* Utilizacao de applets;
+* Conteudos expositivos
+* Resolucao de exercicios com orientacoes
+* Linls adicionais aos conteudos expostos
+
+http://ecalculo.if.usp.br
+* Expositivo
+* Presenca de applets
+* Conteudo mais denso:
+** Recursos visuais;
+** Permite escolhas de acordo com o grau de aprendizagem;
+** Instruções gradativas para a aprendizagem;
+
+http://www.somatematica.com.br
+* Interatividade
+** Raciocinio
+** Intrucoes (dicas)
+** niveis de dificuldade
+** Diversidade de assuntos
+** Ludico
+** Aprofundamento e intersses por determinados assuntos
+** Ausencia de exposicao
+
+
+not ok:
+http://mathematikos.psico.ufrgs.br
+

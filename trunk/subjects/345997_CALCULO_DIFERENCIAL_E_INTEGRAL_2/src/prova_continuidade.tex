@@ -1,0 +1,75 @@
+%% Copyright (C)  2012 Jefferson Campos
+%% Permission is granted to copy, distribute and/or modify this document
+%% under the terms of the GNU Free Documentation License, Version 1.3
+%% or any later version published by the Free Software Foundation;
+%% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+%% A copy of the license is included in the section entitled "GNU
+%% Free Documentation License".
+
+
+
+\documentclass[a4paper,12pt]{article}
+%%\usepackage{amsmath}
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage[pdftex]{graphicx}
+%%\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage[usenames]{color}
+\usepackage[version=3]{mhchem}
+\title{ Prova de continuídade para $(g \circ f)(x,y)$.}
+\author{Jefferson Campos - RA 423114}
+\date{May, 02 2012}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\begin{document}
+
+\input{./title.tex}
+
+\section{Prova de continuídade para $(g \circ f)(x,y)$.}
+
+\subsection{Teorema.}
+$f(x,y)$ é contínua em $(x_0,y_0)$\\
+e\\
+$g(x,y)$ é contínua em $f(x_0,y_0)$\\
+então\\
+$h(x,y) = g(f(x))$ é contínua em $(x_0,y_0)$\\
+
+%%$\lim_{(x,y)\to (x_0,y_0)}{\frac{e^x-1}{2x}}$
+
+\subsection{Prova.}
+
+Como $f(x,y)$ é contínua em $(x_0,y_0)$ pela definição do teorema podemos escrever:\\
+$f(x,y) = f(x_0,y_0)$\\
+Temos que:\\
+$\lim_{(x,y)\to (x_0,y_0)}{f(x,y)} = f(x_0,y_0)$
+Uma vez que $g$ é contínua em $b = f(x_o,y_0)$ podemos aplicar o ``teorema 8'' para obter:\\
+$\lim_{(x,y)\to (x_0,y_0)}{g(f(x,y))} = g(f(x_0,y_0))$\\
+que é justamente a definição do teorema.
+
+\subsection{Teorema 8.}
+
+O teorema é definido, segundo James Stweart (Cálculo Volume 1):\\
+%%Seja $f$ contínua em b e $\lim_{(x,y)\to (x_0,y_0)}{g(f(x,y))} = g(f(x_0,y_0))$ então o $\lim_{(x,y)\to (x_0,y_0)}{g(f(x,y))} = g(f(x_0,y_0)) = f(b)$
+
+$\lim_{x \to a}{f(g(x))} = f(\lim_{x\to a}{g(x)})$\\
+
+\section{Licença.}
+
+Copyright (C) 2012 Jefferson Campos.\\
+Permission is granted to copy, distribute and/or modify this document\\
+under the terms of the GNU Free Documentation License, Version 1.3\\
+or any later version published by the Free Software Foundation;\\
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\\
+A copy of the license is included in the section entitled "GNU\\
+Free Documentation License".
+
+\nocite{texbook:STEWART}
+\bibliographystyle{ieeetr}
+\bibliography{prova_continuidade}
+
+\end{document}
+
