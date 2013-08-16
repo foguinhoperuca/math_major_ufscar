@@ -33,7 +33,7 @@ h2. Contato.
 
 Voce pode me contactar em:
 * foguinho.peruca@gmail.com
-* jcampos@awknet.org
+* jefferson@awknet.org
 * "Google Plus":https://plus.google.com/109609086775527240560/posts
 
 h2. Pattern for file name.
@@ -44,6 +44,7 @@ A## := Lista de exercício, trabalhos, tarefas;
 _solution := resposta e soluções;
 A##_E### := Exercício (exercícios dependem de uma lista)
 Q# := provas
+Q##_preparation := resumo de estudo para avaliações
 _grade := notas
 TLN## := (Teacher's Lecture Notes) notas de aula - professor
 chap## := capítulo de algum livro, etc;
@@ -53,3 +54,4 @@ EXP## := experimento
 _syllabus := programa de estudo / currículo
 _calendar := calendário
 @_backup_@@-##-####.zip := backup de arquivos. Exemplo: math-ufscar-2011-1_backup_DEC-17-2011
+book_## := livro recomendado

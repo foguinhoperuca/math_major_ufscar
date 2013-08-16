@@ -1,0 +1,18 @@
+h1. Pontos positivos:
+
+h2. Interdisciplinaridade.
+
+É interessante trabalhar um conteúdo de forma que ele faça uma ponte entre outros conhecimentos e que por sua vez faça uma ponte com a realidade do aluno. Assim o aprendizado se torna mais atrativo e os alunos vão motivar-se a aprofundar-se no estudo.
+
+h2. Tecnologia.
+
+Uso de tecnologias (especialemente de tecnologia da informação) no apoio ao ensino. As aulas tornam-se mais dinâmicas pois o uso do computador pode facilitar a visualização de conceitos. Particularmente a geometria é uma área beneficiada, sendo mais simples o ensino onde o aluno pode visualizar e interagir com o objeto matemático.
+
+h2. Computação.
+
+Outro ponto, que apesar de não estar explicitamente citado, mas que seriam interessante ser apresentado (provavelmente no ensino médio) é o ensino básico  Deb computação. Esse ensino de computação não abrange o uso de computadores em si mas sim o desenvolvimento de programas que irão manipular dados. Acredito que isso contribua para que a matemática seja vista de uma forma mais prática.
+
+h1. Pontos negativos.
+
+Professor decidir quando e como abordar a geometria: a falta de planejamento ou a troca constante de professores (ou outros problemas adminitrativos) podem interfirir no aprendizado dos alunos.
+
