@@ -1,5 +1,5 @@
-#GITHUB_FOLDER=$(PWD)/../../
-GITHUB_FOLDER=.gitignore
+GITHUB_FOLDER=$(PWD)/../../
+#GITHUB_FOLDER=.gitignore
 PROJECT=class_03_sept_13
 DELETE_FILES=${shell cat ${GITHUB_FOLDER}/.gitignore}
 
