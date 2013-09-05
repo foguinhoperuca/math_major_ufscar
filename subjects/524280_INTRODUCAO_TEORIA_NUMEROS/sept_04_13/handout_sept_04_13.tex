@@ -1,0 +1,186 @@
+%% Copyright (C)  2013 Jefferson Campos.
+%% Permission is granted to copy, distribute and/or modify this document
+%% under the terms of the GNU Free Documentation License, Version 1.3
+%% or any later version published by the Free Software Foundation;
+%% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+%% A copy of the license is included in the section entitled "GNU
+%% Free Documentation License".
+
+\documentclass[a4paper,12pt]{article}
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[pdftex]{graphicx}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\newtheorem{add}{Adição}
+\newtheorem{mult}{Multiplicação}
+\newtheorem{dist}{Distributiva}
+\newtheorem{prop}{Proposição}
+\newtheorem{definit}{Definição}
+\newtheorem{ax}{Axioma}
+
+\begin{document}
+
+\section{Definições Básicas.}
+
+Assume-se que os elementos do conjunto dos inteiro $Z$ satisfazem os seguintes axiomas, $\forall a, b, c \in Z$:
+
+\begin{add} % D3
+  Seja $a \in Z$. O valor absoluto (ou módulo) de $a$, $|aA$, é definido por:\\
+  $$
+  |x|=\left\{
+    \begin{array}{rc}
+      a,&\mbox{se}\quad a\ge 0,\\
+      -a, &\mbox{se}\quad a<0.
+    \end{array}\right.
+  $$
+
+obs:
+
+1 - se $a \leq b$ e $b \leq c$, pode-se escrever $a \leq b \leq c$\\
+2 - $\forall a \in Z, |a| \ge 0$\\
+
+EX:
+
+$|3| = 3$ pois $3 \geq 0$\\
+$|-2| = -(-2) = 2$ pois $-2 \leq 0$
+\end{add}
+
+\begin{add} % Proposição 4
+  $\forall a, b,c \in Z$\\
+
+  1 - $|a| \ge 0 $ e $|a| = 0 \iff a = 0$\\
+  2 - $-|a| \leq a |leq |a|$\\
+  3 - $|-a| = |a|$\\
+  4 - $|a \cdot b| = |a|\cdot|b|$\\
+  5 - $|a| \leq b  \iff -b \leq a \leq b$\\
+  6 - $|a + b| \leq |a| + |b|$ - desigualdade triangular\\
+  7 - $ ||a| - |b|| \leq |a| - |b|$\\
+
+  Sejam | parcialmente ordenados mediante a relação $\leq$ e $A $ está contido em $Z$ com $A \neq \emptyset$
+\end{add}
+
+\begin{add} % Proposição 5
+  1 - $L \in Z$ é  um limite superior de $A  \iff (\forall x \in A \Longrightarrow x \leq L) $\\
+  % 2 - $$\\ % copiar manualmente
+
+Observação:
+
+1 - se $L \in Z$ é limite superior de A diz-se que A é limitado superior\\
+2 - Se $l \in Z$ é limite inferior de A diz-se que A é limitado inferior\\
+\end{add}
+
+\begin{add} % Definição
+  1 - $M \in A$ é um máximo de $A  \iff (\forall x \in A \Longrightarrow x \leq M) $\\
+  2 - $m \in A$ é um mpinimo de $A \iff (\forall x \in A \Longrightarrow x \geq M) $ \\
+
+  Observação:
+  
+  $M = max(A) \in A$
+  $m = mix(A) \in A$
+\end{add}
+
+\begin{add} % Proposição 5 - de novo?
+  1 - Se $M = max(A)$ então $M$ é único.\\
+  2 - $m  = min(A)$ então $,$ é único \\
+\end{add}
+
+O axioma abaixo pe ocnhecido como ``Princípio da Boa Ordem (POB)''. Todo conjunto não-vazio de inteiros não-negativos contém um mínimo.Em símbolos temos:\\
+$A \subset Z$ e $A \neq \emptyset$\\
+Se $\forall x \in A, x \ge 0$ então existe $m = min(A)$
+
+\begin{add} % Proposição 6
+  Seja $a \in Z$\\
+  Se $0 \leq a \leq 1$ então\\
+  $a = 0$ ou $a = 1$
+\end{add}
+\begin{proof}
+  Estratégia de Demonstração: Reduction ad Absurdum\\
+
+  1 - $v(p) =V$
+  2 - Suponha por absurdo que $v(\neg q) = V (\neg q \iff \neg (q_1 \vee q_2) \iff \neg q_1 \wedge \neg q_2)$\\
+  3 - Desenvolva a teoria a partir de 2\\
+  4 - Obtenha uma proposição $r$ tal que $r \iff \neg p$ (absurdo!)
+\end{proof}
+
+\begin{add} % Proposição 7
+  Propriedade de Arquimediana:\\
+  Seja $A = \{x \in Z | x \geq 0\}$\\
+  Se $a, b \in A$ então\\
+  $(\exists n \in A)(n \cdot a > b)$
+\end{add}
+\begin{proof}
+  A estratégia utilizada é a redução ao absurdo.\\
+  \begin{equation}
+    Por hipótese é válido que a, b \in A (1)\\
+    Suponha por absurdo que seja válido:\\
+  \end{equation}
+  \begin{equation}
+    \neg q: (\forall n \in A)(n \cdot a \leq b) (2)\\
+    Daí constrói-se o seguinte conjunto, considerando (2):\\
+    n \cdot a \leq b \Longrightarrow 0 \leq b - n \cdot a\\
+    assim temos:\\
+  \end{equation}
+  \begin{equation}
+    S = \{b - n \cdot a | n \in A\} (3)\\
+    Assim \forall x \in S tem-se x = b -n \cdot a \leq 0, n \in A. Daí pelo P.B.O:\\
+  \end{equation}
+  \begin{equation}
+    \exists m = min(S) sendo m \in S (4)\\
+    logo, \\
+  \end{equation}
+  \begin{equation}
+    m = b = r \cdot a (5)\\
+    para algum r \in A. considerando m' \in S | m' = b - (r + 1 ) \cdot a para algum r \in A. Assim temos:\\
+  \end{equation}
+  \begin{equation}
+    m' = b - (r \cdot a + a)\\
+    = b + (-r \cdot a - a)\\
+    = (b - r \cdot a) - a = m - a\\
+    \Longrightarrow m' = m - a
+  \end{equation}
+
+  Por (1) $a \in A$, assim $a > 0$\\
+  $m - a < m$\\
+  Daí\\
+  $m' < m$ (6)\\
+
+  Por (4) $m - min(S)$, logo pela definição 5 item 2\\
+  $m \in S$ e $m\leq x \forall x in S$ (7)\\
+  Por (6) e (7) e usando a transitividade de (O3) tem-se que:\\
+  $m' < x, \forall x \in S$.\\
+  Daí pela definição 5 item 2 temos que:\\
+  $m' = min(S)$ (8)\\
+  Tem se:\\
+  $
+  m = min(S)\\
+  m' = min (S)
+  $
+
+  4th - Mas isso é um absurdo, pois o mínimo de S é único, pela proposição (5). Logo o absurdo foi considerar $n \cdot a < b, \forall a \in A$.\\
+  Portanto, $(\exists n \in A)(n \cdot a > b)$
+\end{proof}
+
+% Proposição 7 Possui: PBO; definição 5 item 2; O3; Proposição 5; A base da prova é a prova por contradição.
+
+\begin{add} % Proposição 8
+  Seja $A \subset Z \wedge A \neq \emptyset$\\
+  Se $A$ é limitado inferiormente então $(\exists m \in A)(\forall x \in A \longrightarrow x \geq m)$
+\end{add}
+\begin{proof}
+  Dica: $S = \{x - l | \forall x \in A\}$
+\end{proof}
+
+
+
+
+\nocite{*}
+\bibliographystyle{ieeetr}
+\bibliography{handout_sept_04_13}
+
+\end{document}
