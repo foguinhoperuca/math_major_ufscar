@@ -1,6 +1,5 @@
 GITHUB_FOLDER=$(PWD)/../../
-#GITHUB_FOLDER=.gitignore
-PROJECT=class_03_sept_13
+PROJECT=handout
 DELETE_FILES=${shell cat ${GITHUB_FOLDER}/.gitignore}
 
 all: clean compile bib recompile
