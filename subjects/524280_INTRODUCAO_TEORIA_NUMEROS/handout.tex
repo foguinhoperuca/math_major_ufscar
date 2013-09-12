@@ -14,117 +14,164 @@
 \usepackage{url}
 \usepackage{amssymb}
 \usepackage{amsthm}
+\usepackage{amsmath}
 \usepackage[pdftex]{graphicx}
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
-\newtheorem{add}{Adição}
-\newtheorem{mult}{Multiplicação}
-\newtheorem{dist}{Distributiva}
-\newtheorem{prop}{Proposição}
+% Números Naturais
+\newtheorem{add_nat}{Adição}
+\newtheorem{mult_nat}{Multiplicação}
+\newtheorem{dist_nat}{Distributiva}
+\newtheorem{prop_nat}{Proposição}
+\newtheorem{definit_nat}{Definição}
+\newtheorem{ax_nat}{Axioma}
+
+% Números Inteiros
+\newtheorem{add_int}{Adição}
+\newtheorem{mult_int}{Multiplicação}
+\newtheorem{dist_int}{Distributiva}
+\newtheorem{prop_int}{Proposição}
 \newtheorem{definit}{Definição}
 \newtheorem{ax}{Axioma}
 
 \begin{document}
 
+\section{Aula 20-08-2013.}
+
+Números Naturais.
+
+\section{Aula 21-08-2013.}
+
+Continuação números naturais.
+
 \section{Aula 03-09-2013.}
 
 O documento está, inicialmente dividido por aulas para facilitar a digitação. Posteriormente este material deve ser organizada de acordo com os teoremas, axiomas, etc, apresentados durante o curso.
 
-\subsection{Primeira Parte da  Aula.}
+% Primeira Parte da  Aula.
+\subsection{Números Inteiros.}
 
-Assume-se que os elementos do conjunto dos inteiro $\mathbb{Z}$ satisfazem os seguintes axiomas, $\forall a, b, c \in Z$:
+Assume-se que os elementos do conjunto dos inteiro $\mathbb{Z}$ satisfazem os seguintes axiomas, $\forall a, b, c \in \mathbb{Z}$:
 
-\begin{add} % A1
-  Propriedade associativa para soma $+$:\\
-  $a + (b + c) = (a + b) + c$
-\end{add}
+\begin{add_int}\label{A1}[Propriedade Associativa para Soma $+$]
+  \begin{equation*}
+    a + (b + c) = (a + b) + c
+  \end{equation*}
+\end{add_int}
 
-\begin{add} % A2
-  Existência do elemento neutro aditivo:\\
-  $\ni |0 \in \mathbb{Z}| a + 0 = a = 0 + a$ % o \ni é o existe
-\end{add}
+\begin{add_int}\label{A2}[Existência do Elemento Neutro Aditivo]
+  \begin{equation*}
+    \exists |0 \in \mathbb{Z}| a + 0 = a = 0 + a
+  \end{equation*}
+\end{add_int}
 
-\begin{add} % A3
-  Existência do oposto:\\
-  $\ni |-a \in Z| a + (-a) = 0 = (-a) + a$ % o \ni é o existe
-\end{add}
+\begin{add_int}\label{A3}[Existência do Oposto]
+  \begin{equation*}
+    \exists |-a \in \mathbb{Z}| a + (-a) = 0 = (-a) + a
+  \end{equation*}
+\end{add_int}
 
-\begin{add} % A4
-  Propriedade Comutativa:\\
-  $a + b = b + a$ % o \ni é o existe
-\end{add}
+\begin{add_int}\label{A4}[Propriedade Comutativa]
+  \begin{equation*}
+    a + b = b + a
+  \end{equation*}
+\end{add_int}
 
-\begin{mult} % M1
-  propriedade associativa para ``$\cdot$'':\\
-  $a \cdot (b \cdot c) =  (a \cdot b) \cdot c$
-\end{mult}
+\begin{mult_int}\label{M1}[Propriedade Associativa para ``$\cdot$'']
+  \begin{equation*}
+    a \cdot (b \cdot c) = (a \cdot b) \cdot c
+  \end{equation*}
+\end{mult_int}
 
-\begin{mult} % M2
-  Existência do elemento neutro multiplicativo:\\
-  $\ni |1 \in Z| 1 \cdot a = a = a \cdot 1$ % o \ni é o existe
-\end{mult}
+\begin{mult_int}\label{M2}[Existência do Elemento Neutro Multiplicativo]
+  \begin{equation*}
+    \exists |1 \in \mathbb{Z}| 1 \cdot a = a = a \cdot 1
+  \end{equation*}
+\end{mult_int}
 
-\begin{mult} % M3
-  Propriedade cancelativa:\\
-  Sejam $\forall a, b, c \in Z, a a \neq 0$\\
+\begin{mult_int}\label{M3}[Propriedade Cancelativa]
+  Sejam $\forall a, b, c \in \mathbb{Z}, a \cdot a \neq 0$\\
   Se $a \cdot b = a \cdot c$ então $b = c$
-\end{mult}
+\end{mult_int}
 
-\begin{mult} % M4
-  Propriedade comutativa:\\
-  $a \cdot b = b \cdot a$
-\end{mult}
+\begin{mult_int}\label{M4}[Propriedade Comutativa]
+  \begin{equation*}
+    a \cdot b = b \cdot a
+  \end{equation*}
+\end{mult_int}
 
-\begin{dist} % D1
+\begin{dist_int}\label{D1}[Propriedade Distributiva da Multiplicação com Relação à Adição]
+  \begin{equation*}
+    a \cdot (b + c) = a \cdot b + a \cdot c
+  \end{equation*}
+  \begin{equation*}
+    (b + c) \cdot a = b \cdot a + c \cdot a
+  \end{equation*}
+\end{dist_int}
+
+\begin{dist_int} % D2
   Propriedade distributiva da multiplicação com relação à adição:\\
   $a \cdot (b + c) = a \cdot b + a \cdot c$\\
   $(b + c) \cdot a = b \cdot a + c \cdot a$
-\end{dist}
+\end{dist_int}
 
-\begin{dist} % D2
-  Propriedade distributiva da multiplicação com relação à adição:\\
-  $a \cdot (b + c) = a \cdot b + a \cdot c$\\
-  $(b + c) \cdot a = b \cdot a + c \cdot a$
-\end{dist}
-
-\begin{prop} % (1)
+\begin{prop_int} % (1)
   Propriedade do cancelamento para $+$:\\
-  $(\forall a, b, c \in Z)(a + b = a + c \Longrightarrow b = c)$\\
-\end{prop}
+  $(\forall a, b, c \in \mathbb{Z})(a + b = a + c \Longrightarrow b = c)$\\
+\end{prop_int}
 \begin{proof}
-  $\forall a, b, c \in Z$ faz-se:\\ % +(-a)
-  $a + b = a + c$\\ % A1
-  $(-a) + (a + b) = (-a) + (a + c)$\\ % A3
-  $((-a) + a) + b = ((-a) + a) + c$\\ % A2
-  $0 + b = 0 + c$\\
-  $b = c$
+    $\forall a, b, c \in \mathbb{Z}$ faz-se:% +(-a)
+  \begin{equation*}
+    a + b = a + c % A1
+  \end{equation*}
+  \begin{equation*}
+    (-a) + (a + b) = (-a) + (a + c) % A3
+  \end{equation*}
+  \begin{equation*}
+    ((-a) + a) + b = ((-a) + a) + c % A2
+  \end{equation*}
+  \begin{equation*}
+    0 + b = 0 + c
+  \end{equation*}
+  \begin{equation*}
+    b = c
+  \end{equation*}
 \end{proof}
 
-\begin{prop} % (2)
-  $(\forall a \in Z)(a \cdot 0 = 0 = 0 \cdot a)$
-\end{prop}
+\begin{prop_int} % (2)
+  $(\forall a \in \mathbb{Z})(a \cdot 0 = 0 = 0 \cdot a)$
+\end{prop_int}
 \begin{proof}
-  \begin{equation}
+  Assumindo
+  \begin{equation*}
     a \cdot 0 = 0
-  \end{equation}
+  \end{equation*}
   % por em uma tabela
-  $\forall a, b, c \in Z a \cdot (b + c) = a \cdot b + a \cdot c$ por D1\\
-  tomando $b = c = 0$ temos $a (0 + 0) = a \cdot 0 + a \cdot 0$ por (1)\\
-  $a \cdot 0 $
+  $\forall a, b, c \in \mathbb{Z}$
+  \begin{equation*}
+   a \cdot (b + c) = a \cdot b + a \cdot c \tag{por Distributiva~\ref{D1}}   
+  \end{equation*}
+  tomando
+  \begin{equation*}
+    b = c = 0 
+  \end{equation*}
+  \begin{equation*}
+    a (0 + 0) = a \cdot 0 + a \cdot 0 por (  a \cdot 0
+  \end{equation*}
    % esta incompleto
 
   analogamento faz-se para
-  \begin{equation}
+  \begin{equation*}
     \\
     0 = 0 \cdot a
-  \end{equation}
+  \end{equation*}
 \end{proof}
 
-\begin{prop} %(3)
+\begin{prop_int} %(3)
   $(\forall a, b, \in Z)(a \cdot b = 0 \Longrightarrow a = 0$ ou $b = 0)$
-\end{prop}
+\end{prop_int}
 
-\begin{prop} %(4)
+\begin{prop_int} %(4)
   Regra dos sinais:\\
   $(\forall a, b, \in Z)$ tem-se:\\
   \begin{equation} % FIXME need reset the number
@@ -136,7 +183,7 @@ Assume-se que os elementos do conjunto dos inteiro $\mathbb{Z}$ satisfazem os se
   \begin{equation} % FIXME need reset the number
     (-a) \cdot (-b) = a \cdot b
   \end{equation}
-\end{prop}
+\end{prop_int}
 
 \subsection{Relação de Ordem.}
 
@@ -182,19 +229,19 @@ São válidos válidos, também os axiomas:
   $(\forall a, b, c \in Z)(a \leq b e 0 \leq c \Longrightarrow a \cdot c \leq b \cdot c)$
 \end{ax}
 
-\begin{prop} % propriedade 3
+\begin{prop_int} % propriedade 3
   Seja $a \in Z$:\\
   1 - Se $a \leq 0$ então $a \geq 0$\\
   2 - Se $a \geq 0$ então $-a \leq 0$\\
   3 - $a^2 \leq 0$\\
   4 - $1 > 0$\\
-\end{prop}
+\end{prop_int}
 
 \section{Aula 04-09-2013.}
 
 Assume-se que os elementos do conjunto dos inteiro $\mathbb{Z}$ satisfazem os seguintes axiomas, $\forall a, b, c \in Z$:
 
-\begin{add} % D3
+\begin{add_int} % D3
   Seja $a \in Z$. O valor absoluto (ou módulo) de $a$, $|aA$, é definido por:\\
   $$
   |x|=\left\{
@@ -213,9 +260,9 @@ EX:
 
 $|3| = 3$ pois $3 \geq 0$\\
 $|-2| = -(-2) = 2$ pois $-2 \leq 0$
-\end{add}
+\end{add_int}
 
-\begin{add} % Proposição 4
+\begin{add_int} % Proposição 4
   $\forall a, b,c \in Z$\\
 
   1 - $|a| \ge 0 $ e $|a| = 0 \iff a = 0$\\
@@ -227,9 +274,9 @@ $|-2| = -(-2) = 2$ pois $-2 \leq 0$
   7 - $ ||a| - |b|| \leq |a| - |b|$\\
 
   Sejam | parcialmente ordenados mediante a relação $\leq$ e $A $ está contido em $\mathbb{Z}$ com $A \neq \emptyset$
-\end{add}
+\end{add_int}
 
-\begin{add} % Proposição 5
+\begin{add_int} % Proposição 5
   1 - $L \in \mathbb{Z}$ é  um limite superior de $A  \iff (\forall x \in A \Longrightarrow x \leq L) $\\
   % 2 - $$\\ % copiar manualmente
 
@@ -237,9 +284,9 @@ Observação:
 
 1 - se $L \in \mathbb{Z}$ é limite superior de A diz-se que A é limitado superior\\
 2 - Se $l \in \mathbb{Z}$ é limite inferior de A diz-se que A é limitado inferior\\
-\end{add}
+\end{add_int}
 
-\begin{add} % Definição
+\begin{add_int} % Definição
   1 - $M \in A$ é um máximo de $A  \iff (\forall x \in A \Longrightarrow x \leq M) $\\
   2 - $m \in A$ é um mpinimo de $A \iff (\forall x \in A \Longrightarrow x \geq M) $ \\
 
@@ -247,22 +294,22 @@ Observação:
   
   $M = max(A) \in A$
   $m = mix(A) \in A$
-\end{add}
+\end{add_int}
 
-\begin{add} % Proposição 5 - de novo?
+\begin{add_int} % Proposição 5 - de novo?
   1 - Se $M = max(A)$ então $M$ é único.\\
   2 - $m  = min(A)$ então $,$ é único \\
-\end{add}
+\end{add_int}
 
 O axioma abaixo pe ocnhecido como ``Princípio da Boa Ordem (POB)''. Todo conjunto não-vazio de inteiros não-negativos contém um mínimo.Em símbolos temos:\\
 $A \subset \mathbb{Z}$ e $A \neq \emptyset$\\
 Se $\forall x \in A, x \ge 0$ então existe $m = min(A)$
 
-\begin{add} % Proposição 6
+\begin{add_int} % Proposição 6
   Seja $a \in \mathbb{Z}$\\
   Se $0 \leq a \leq 1$ então\\
   $a = 0$ ou $a = 1$
-\end{add}
+\end{add_int}
 \begin{proof}
   Estratégia de Demonstração: Reduction ad Absurdum\\
 
@@ -272,12 +319,12 @@ Se $\forall x \in A, x \ge 0$ então existe $m = min(A)$
   4 - Obtenha uma proposição $r$ tal que $r \iff \neg p$ (absurdo!)
 \end{proof}
 
-\begin{add} % Proposição 7
+\begin{add_int} % Proposição 7
   Propriedade de Arquimediana:\\
   Seja $A = \{x \in \mathbb{Z} | x \geq 0\}$\\
   Se $a, b \in A$ então\\
   $(\exists n \in A)(n \cdot a > b)$
-\end{add}
+\end{add_int}
 \begin{proof}
   A estratégia utilizada é a redução ao absurdo.\\
   \begin{equation}
@@ -332,13 +379,21 @@ Se $\forall x \in A, x \ge 0$ então existe $m = min(A)$
 
 % Proposição 7 Possui: PBO; definição 5 item 2; O3; Proposição 5; A base da prova é a prova por contradição.
 
-\begin{add} % Proposição 8
+\begin{add_int} % Proposição 8
   Seja $A \subset \mathbb{Z} \wedge A \neq \emptyset$\\
   Se $A$ é limitado inferiormente então $(\exists m \in A)(\forall x \in A \longrightarrow x \geq m)$
-\end{add}
+\end{add_int}
 \begin{proof}
   Dica: $S = \{x - l | \forall x \in A\}$
 \end{proof}
+
+\section{Aula 10-09-2013.}
+
+Unknow.... ????
+
+\section{aula 11-09-2013.}
+
+Hipótese de indução.
 
 \section{PDF.}
 
@@ -355,6 +410,19 @@ Nesta seção estão os materiais dos PDF enviados.
 % $\mathbb{Z}^*  = \{..., -3, -2, -1, 1, 2, 3, ... \}$\\
 
 % Analogamente ao que foi feito para $mathbb{N}$ define-se as operações sobre $mathbb{Z}$:\\
+
+\section{Apêndice.}
+
+\subsection{Técnicas de Provas.}
+
+Para realizar as provas existem diversas técnicas que podem ser empregadas. Podemos citar:
+\begin{itemize}
+\item Demonstração direta;
+\item Ad. Absurdum;
+\item Contra-positiva $\neg q \rightarrow \neg p$;
+\item Contra-exemplo;
+\item Princípio da Indução Finita (PIF) ou Princípio da Indução Completa (PIC);
+\end{itemize}
 
 \section{Atividades.}
 
